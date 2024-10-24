@@ -2,4 +2,49 @@
 <Catalog Name="Tsunamods Catalog"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Mods>
+
+## MEDIA ##
+
+## AxlRose - [Tsunamods] Cinema-RF FMV (30fps) ##
+    <Mod>
+      <ID>9b839870-3bec-4f2c-9102-d575b6090505</ID>
+      <Name>[Tsunamods] Cinema-RF FMV (30fps)</Name>
+      <Author>AxlRose</Author>
+      <Category>Media</Category>
+      <Description>
+- Cinema-RF (Cinema Refine)
+- AI Upscale and enhancement of all the FMVs + 30fps
+- 2X upscale from the original PC2000 release (and 4X from the PSX version),
+using both sources and nothing from the horrible Steam release videos
+- Using the higher quality soundtracks from the PSX version
+- These FMVs are as close as possible to vanilla
+- Interpolated at 30fps with lots of manual tweaks to get the best
+experience of the original game design.
+      </Description>
+      <LatestVersion>
+        <Link>iroj://Url/https$download.tsunamods.com/?id=14</Link>
+        <Version>1.0</Version>
+        <ReleaseDate>2024-10-21</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://www.gp-mc.net/ff8/tsunamods/logov_small.png</PreviewImage>
+        <ReleaseNotes>
+Version 1.0:
+- Initial Release version
+        </ReleaseNotes>
+        <DownloadSize>3326212</DownloadSize>
+      </LatestVersion>
+      <Link>https://discord.com/invite/7Rsvsewghz</Link>
+      <DonationLink>https://www.paypal.com/donate/?hosted_button_id=FTA38UUZJ5QAN</DonationLink>
+      <Tags>
+        <string>axlrose</string>
+        <string>tsunamods</string>
+        <string>fmv</string>
+        <string>fmvs</string>
+        <string>movies</string>
+        <string>30fps</string>
+        <string>ai</string>
+      </Tags>
+    </Mod>
+  </Mods>
 </Catalog>
