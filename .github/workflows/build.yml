@@ -1,4 +1,4 @@
-name: Junction-VIII-Catalogs
+name: Junction-VIII-Catalogs-Build
 
 run-name: 1.0.0.${{ github.run_number }}
 
