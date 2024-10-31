@@ -48,12 +48,12 @@ jobs:
           fi
       - name: Validate XML files
         run: |
-          for file in Mods/**/*.xml; do
+          for file in mods/**/*.xml; do
             xmllint --noout "$file"
           done
       - name: Check links
         run: |
-          for file in Mods/**/*.xml; do
+          for file in mods/**/*.xml; do
             # Check Mod.LatestVersion.Link
             latest_version_link=$(xmllint --xpath 'string(//LatestVersion/Link)' "$file" | sed 's|iroj://Url/|https://|' | sed 's|\$|://|')
             if ! curl --output /dev/null --silent --head --fail "$latest_version_link"; then
@@ -92,7 +92,7 @@ jobs:
           echo '<?xml version="1.0"?>' > tsunamods.xml
           echo '<Catalog Name="Tsunamods Catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">' >> tsunamods.xml
           echo '  <Mods>' >> tsunamods.xml
-          for file in Mods/**/*.xml; do
+          for file in mods/**/*.xml; do
             xmllint --format "$file" | sed '1d;$d' >> tsunamods.xml
           done
           echo '  </Mods>' >> tsunamods.xml
