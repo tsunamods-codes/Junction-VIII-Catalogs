@@ -3,14 +3,9 @@ name: Junction-VIII-Catalogs
 run-name: 1.0.0.${{ github.run_number }}
 
 on:
-  push:
-    branches:
-    - master
-    tags:
-    - "*"
   pull_request:
     branches:
-    - master
+      - master
 
 env:
   _IS_BUILD_CANARY: false
@@ -24,46 +19,103 @@ env:
 
 jobs:
   CICD:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest  # Change this line for local testing
     timeout-minutes: 1440
     strategy:
       max-parallel: 1
     steps:
-    - name: Set Git Config
-      run: |
-        git config --global core.autocrlf false
-        git config --global core.filemode false
-        git config --global core.longpaths true
-    - name: Checkout
-      uses: actions/checkout@v4.1.0
-    - name: Install xmlint
-      uses: baptiste0928/cargo-install@v3
-      with:
-        crate: xmllint
-        git: https://github.com/dotaxis/xmllint
-        commit: c28b413d3f9c73a3a343523e9a806962b56b1d1d
-    - name: Prepare Env
-      run: ".github/workflows/prepare.ps1"
-      shell: pwsh
-    - name: Publish Canary release
-      uses: ncipollo/release-action@v1
-      if: env._IS_GITHUB_RELEASE == 'true' && env._IS_BUILD_CANARY == 'true' && success()
-      with:
-        artifacts: "${{ github.workspace }}/catalogs/*.xml"
-        allowUpdates: true
-        generateReleaseNotes: true
-        prerelease: true
-        removeArtifacts: true
-        tag: canary
-        name: "${{ env._RELEASE_NAME }}-${{ env._RELEASE_VERSION }}"
-        body: |
-          This is a canary build. Please be aware it may be prone to crashing and is NOT tested by anyone. Use this build AT YOUR OWN RISK!
-    - name: Publish Stable release
-      uses: ncipollo/release-action@v1
-      if: env._IS_GITHUB_RELEASE == 'true' && env._IS_BUILD_CANARY == 'false' && success()
-      with:
-        artifacts: "${{ github.workspace }}/catalogs/*.xml"
-        generateReleaseNotes: true
-        makeLatest: true
-        removeArtifacts: true
-        name: "${{ env._RELEASE_NAME }}-${{ env._RELEASE_VERSION }}"
+      - name: Set Git Config
+        run: |
+          git config --global core.autocrlf false
+          git config --global core.filemode false
+          git config --global core.longpaths true
+      - name: Checkout
+        uses: actions/checkout@v4.1.0
+      - name: Install xmllint
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libxml2-utils
+      - name: Set execute permission for prepare.sh
+        run: chmod +x .github/workflows/prepare.sh
+      - name: Prepare Env
+        run: .github/workflows/prepare.sh
+        shell: bash
+      - name: Block changes to tsunamods.xml
+        run: |
+          if git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -q 'catalogs/tsunamods.xml'; then
+            echo "Changes to catalogs/tsunamods.xml are not allowed."
+            exit 1
+          fi
+      - name: Validate XML files
+        run: |
+          for file in Mods/**/*.xml; do
+            xmllint --noout "$file"
+          done
+      - name: Check links
+        run: |
+          for file in Mods/**/*.xml; do
+            # Check Mod.LatestVersion.Link
+            latest_version_link=$(xmllint --xpath 'string(//LatestVersion/Link)' "$file" | sed 's|iroj://Url/|https://|' | sed 's|\$|://|')
+            if ! curl --output /dev/null --silent --head --fail "$latest_version_link"; then
+              echo "Invalid LatestVersion.Link: $latest_version_link"
+              exit 1
+            fi
+
+            # Check Mod.LatestVersion.PreviewImage
+            preview_image=$(xmllint --xpath 'string(//LatestVersion/PreviewImage)' "$file")
+            if ! curl --output /dev/null --silent --head --fail "$preview_image"; then
+              echo "Invalid PreviewImage link: $preview_image"
+              exit 1
+            fi
+            if ! curl --output /dev/null --silent --head --fail -H "Accept: image/*" "$preview_image"; then
+              echo "PreviewImage is not an image: $preview_image"
+              exit 1
+            fi
+
+            # Check Mod.Link
+            mod_link=$(xmllint --xpath 'string(//Link)' "$file")
+            if ! curl --output /dev/null --silent --head --fail "$mod_link"; then
+              echo "Invalid Mod.Link: $mod_link"
+              exit 1
+            fi
+
+            # Check Mod.DonationLink
+            donation_link=$(xmllint --xpath 'string(//DonationLink)' "$file")
+            if ! curl --output /dev/null --silent --head --fail "$donation_link"; then
+              echo "Invalid DonationLink: $donation_link"
+              exit 1
+            fi
+          done
+      - name: Combine XML files
+        if: github.event_name == 'push'
+        run: |
+          echo '<?xml version="1.0"?>' > tsunamods.xml
+          echo '<Catalog Name="Tsunamods Catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">' >> tsunamods.xml
+          echo '  <Mods>' >> tsunamods.xml
+          for file in Mods/**/*.xml; do
+            xmllint --format "$file" | sed '1d;$d' >> tsunamods.xml
+          done
+          echo '  </Mods>' >> tsunamods.xml
+          echo '</Catalog>' >> tsunamods.xml
+      - name: Publish Canary release
+        uses: ncipollo/release-action@v1
+        if: env._IS_GITHUB_RELEASE == 'true' && env._IS_BUILD_CANARY == 'true' && success()
+        with:
+          artifacts: tsunamods.xml
+          allowUpdates: true
+          generateReleaseNotes: true
+          prerelease: true
+          removeArtifacts: true
+          tag: canary
+          name: "${{ env._RELEASE_NAME }}-${{ env._RELEASE_VERSION }}"
+          body: |
+            This is a canary build. Please be aware it may be prone to crashing and is NOT tested by anyone. Use this build AT YOUR OWN RISK!
+      - name: Publish Stable release
+        uses: ncipollo/release-action@v1
+        if: env._IS_GITHUB_RELEASE == 'true' && env._IS_BUILD_CANARY == 'false' && success()
+        with:
+          artifacts: tsunamods.xml
+          generateReleaseNotes: true
+          makeLatest: true
+          removeArtifacts: true
+          name: "${{ env._RELEASE_NAME }}-${{ env._RELEASE_VERSION }}"
