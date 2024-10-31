@@ -54,7 +54,7 @@ jobs:
         run: |
           for file in mods/**/*.xml; do
             # Check Mod.LatestVersion.Link
-            latest_version_link=$(xmllint --xpath 'string(//LatestVersion/Link)' "$file" | sed 's|iroj://Url/https$|https://|' | sed 's|iroj://Url/http$|http://|')
+            latest_version_link=$(xmllint --xpath 'string(//LatestVersion/Link)' "$file" | sed 's|iroj://Url/https\$|https://|' | sed 's|iroj://Url/http\$|http://|')
             if ! curl --output /dev/null --silent --head --fail "$latest_version_link"; then
               echo "Invalid LatestVersion.Link: $latest_version_link"
               exit 1
