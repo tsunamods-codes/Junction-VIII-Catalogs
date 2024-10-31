@@ -54,7 +54,7 @@ jobs:
         run: |
           for file in mods/**/*.xml; do
             # Check Mod.LatestVersion.Link
-            latest_version_link=$(xmllint --xpath 'string(//LatestVersion/Link)' "$file" | sed 's|iroj://Url/https\$|https://|' | sed 's|iroj://Url/http\$|http://|')
+            latest_version_link=$(xmllint --xpath 'string(//LatestVersion/Link)' "$file" | sed 's|iroj://Url/https\\$|https://|' | sed 's|iroj://Url/http\\$|http://|')
             test=$(xmllint --xpath 'string(//LatestVersion/Link)' "$file" )
             echo "$test | sed 's|iroj://Url/https\$|https://|' | sed 's|iroj://Url/http\$|http://|'"
             echo "$latest_version_link"
