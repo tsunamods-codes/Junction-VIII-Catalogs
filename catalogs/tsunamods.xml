@@ -89,5 +89,23 @@ Done by 1 person, in the same studio for a consistent and immersive experience.
         <string>sound</string>
       </Tags>
     </Mod>
+  <Mod>
+    <ID>042ff62e-5819-4b2e-b993-e65e806fafd5</ID>
+    <Name>[Tsunamods] Card-RF</Name>
+    <Category>Media</Category>
+    <Author>Ducladoncladon &amp; Hobbitdur</Author>
+    <Version>0</Version>
+    <Description>Card-RF is a graphical update to the beloved Triple Triad minigame! Which can now be played in full 60 FPS thanks to FFNx!
+  Using original reference artworks from Final Fantasy 8 and higher, and a combination of AI upscaling and many hours of manual touch ups and corrections, we have brought this amazing minigame to a more modern appearance. Available in English, Italian, Spanish, French and German!
+      More info on discord: https://discord.gg/tsunamods-community-277610501721030656</Description>
+    <ReleaseNotes>Version 1.0:
+  - Initial release version</ReleaseNotes>
+    <ReleaseDate>2024-11-01T11:22:34.9560774+01:00</ReleaseDate>
+    <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
+    <DonationLink>https://www.patreon.com/HobbitMods</DonationLink>
+    <PreviewFile>Crad-RF-Preview.png</PreviewFile>
+    <FFNxConfig />
+    <Variables />
+  </Mod>
   </Mods>
 </Catalog>
