@@ -1,4 +1,4 @@
-name: Junction-VIII-Catalogs-Check
+name: Validate
 
 run-name: 1.0.0.${{ github.run_number }}
 
