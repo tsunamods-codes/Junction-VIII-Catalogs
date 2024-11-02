@@ -60,8 +60,6 @@ jobs:
           removeArtifacts: true
           tag: canary
           name: "${{ env._RELEASE_NAME }}-${{ env._RELEASE_VERSION }}"
-          body: | 
-           testing
       - name: Publish Stable release
         uses: ncipollo/release-action@v1
         if: env._IS_GITHUB_RELEASE == 'true' && env._IS_BUILD_CANARY == 'false' && success()
