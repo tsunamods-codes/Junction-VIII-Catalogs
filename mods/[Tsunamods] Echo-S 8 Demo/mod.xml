@@ -6,7 +6,7 @@
     <Category>Gameplay</Category>
     <Description>Demo for Echo-S 8. Adds voice acting to the game until Timber. Currently Contains Field and FMV dialogue.</Description>
     <LatestVersion>
-      <Link>https://download.tsunamods.com/?id=20</Link>
+      <Link>iroj://Url/https$download.tsunamods.com/?id=20</Link>
       <Version>0.1</Version>
       <ReleaseDate>2024-11-03</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
