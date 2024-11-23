@@ -1,22 +1,22 @@
 <?xml version="1.0"?>
 <Mod>
-    <ID>c524b51b-64fd-49f3-bba2-eb94430c0c1d</ID>
-    <Name>[Tsunamods] OST-RF - Arranged Soundtrack</Name>
-    <Author>MikeDoesAudio, Final Fantasy &amp; Chill</Author>
-    <Category>Media</Category>
-    <Description>
+  <ID>c524b51b-64fd-49f3-bba2-eb94430c0c1d</ID>
+  <Name>[Tsunamods] OST-RF - Arranged Soundtrack</Name>
+  <Author>MikeDoesAudio, Final Fantasy &amp; Chill</Author>
+  <Category>Media</Category>
+  <Description>
 - OST-RF (Original Soundtrack Refinement)
 - The only complete reorchestration of the entire Final Fantasy VIII score.
 Done by 1 person, in the same studio for a consistent and immersive experience.
 - Suggested Volume - 60
-    </Description>
-    <LatestVersion>
-      <Link>iroj://Url/https$download.tsunamods.com/?id=18</Link>
-      <Version>1.1</Version>
-      <ReleaseDate>2024-08-08</ReleaseDate>
-      <CompatibleGameVersions>All</CompatibleGameVersions>
-      <PreviewImage>https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d5dmR6ZXV3ZGJhYjZ4amRhYnZzMDJjZ2hibzZ3ejZvbDFicGNzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0OVhOUGwDL4hU7Hjmi/giphy.gif</PreviewImage>
-      <ReleaseNotes>
+  </Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$download.tsunamods.com/?id=18</Link>
+    <Version>1.1</Version>
+    <ReleaseDate>2024-08-08</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d5dmR6ZXV3ZGJhYjZ4amRhYnZzMDJjZ2hibzZ3ejZvbDFicGNzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0OVhOUGwDL4hU7Hjmi/giphy.gif</PreviewImage>
+    <ReleaseNotes>
 - Blue Sky - Refined Mix
 - Don't Be Afraid - Refined Mix
 - The Other Winner - Alternate victory music added for Laguna battles
@@ -29,15 +29,15 @@ Done by 1 person, in the same studio for a consistent and immersive experience.
 - Tell me - Refined Mix
 - The Mission - Refined Mix
 - The Oath - Refined Mix
-      </ReleaseNotes>
-      <DownloadSize>714188</DownloadSize>
-    </LatestVersion>
-    <Link>https://www.twitch.tv/mikedoesaudio</Link>
-    <DonationLink>https://www.paypal.com/donate/?hosted_button_id=5F67WXE5VV9W2</DonationLink>
-    <Tags>
-      <string>mikedoesautio</string>
-      <string>tsunamods</string>
-      <string>ost</string>
-      <string>sound</string>
-    </Tags>
-  </Mod>
+    </ReleaseNotes>
+    <DownloadSize>714188</DownloadSize>
+  </LatestVersion>
+  <Link>https://www.twitch.tv/mikedoesaudio</Link>
+  <DonationLink>https://www.paypal.com/donate/?hosted_button_id=5F67WXE5VV9W2</DonationLink>
+  <Tags>
+    <string>mikedoesautio</string>
+    <string>tsunamods</string>
+    <string>ost</string>
+    <string>sound</string>
+  </Tags>
+</Mod>
