@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-    <Mod>
-      <ID>9b839870-3bec-4f2c-9102-d575b6090505</ID>
-      <Name>[Tsunamods] Cinema-RF FMV (30fps)</Name>
-      <Author>AxlRose</Author>
-      <Category>Media</Category>
-      <Description>
+<Mod>
+  <ID>9b839870-3bec-4f2c-9102-d575b6090505</ID>
+  <Name>[Tsunamods] Cinema-RF FMV (30fps)</Name>
+  <Author>AxlRose</Author>
+  <Category>Media</Category>
+  <Description>
 Cinema-RF replaces the FMV's in Final Fantasy 8 with new, 
 30FPS, AI enhanced with countless hours of manual tweaking 
 to keep them as close to the original as possible. 
@@ -13,28 +13,28 @@ With twice the resolution of the originals, and integrated
 high quality music from the original PSX, this FMV pack 
 makes the FMV's look the way we thought they looked all those 
 years ago.
-      </Description>
-      <LatestVersion>
-        <Link>iroj://Url/https$download.tsunamods.com/?id=14</Link>
-        <Version>2024.1121</Version>
-        <ReleaseDate>2024-10-20</ReleaseDate>
-        <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://www.gp-mc.net/ff8/tsunamods/logov_small.png</PreviewImage>
-        <ReleaseNotes>
+  </Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$download.tsunamods.com/?id=14</Link>
+    <Version>2024.1121</Version>
+    <ReleaseDate>2024-10-20</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://www.gp-mc.net/ff8/tsunamods/logov_small.png</PreviewImage>
+    <ReleaseNotes>
 Version 2024.1121:
 - Initial release version
-        </ReleaseNotes>
-        <DownloadSize>3326430</DownloadSize>
-      </LatestVersion>
-      <Link>https://discord.com/invite/7Rsvsewghz</Link>
-      <DonationLink>https://www.paypal.com/donate/?hosted_button_id=FTA38UUZJ5QAN</DonationLink>
-      <Tags>
-        <string>axlrose</string>
-        <string>tsunamods</string>
-        <string>fmv</string>
-        <string>fmvs</string>
-        <string>movies</string>
-        <string>30fps</string>
-        <string>ai</string>
-      </Tags>
-    </Mod>
+    </ReleaseNotes>
+    <DownloadSize>3326430</DownloadSize>
+  </LatestVersion>
+  <Link>https://discord.com/invite/7Rsvsewghz</Link>
+  <DonationLink>https://www.paypal.com/donate/?hosted_button_id=FTA38UUZJ5QAN</DonationLink>
+  <Tags>
+    <string>axlrose</string>
+    <string>tsunamods</string>
+    <string>fmv</string>
+    <string>fmvs</string>
+    <string>movies</string>
+    <string>30fps</string>
+    <string>ai</string>
+  </Tags>
+</Mod>
