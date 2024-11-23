@@ -1,24 +1,27 @@
 <?xml version="1.0"?>
-<Mod>
-    <ID>0b0c03e0-1d84-4068-998b-f310e4430d55</ID>
-    <Name>[Tsunamods] Echo-S 8 Demo</Name>
-    <Author>Tsunamods Team</Author>
-    <Category>Gameplay</Category>
-    <Description>Demo for Echo-S 8. Adds voice acting to the game until Timber. Currently Contains Field and FMV dialogue.</Description>
-    <LatestVersion>
-      <Link>iroj://Url/https$download.tsunamods.com/?id=20</Link>
-      <Version>0.1</Version>
-      <ReleaseDate>2024-11-03</ReleaseDate>
-      <CompatibleGameVersions>All</CompatibleGameVersions>
-      <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/uprisen/preview.png</PreviewImage>
-      <ReleaseNotes> Demo covers from start of game until entering Timber
-      </ReleaseNotes>
-      <DownloadSize>1210938</DownloadSize>
-    </LatestVersion>
-    <Link>https://www.tsunamods.com/echo-s-8/</Link>
-    <DonationLink></DonationLink>
-    <Tags>
-      <string>Voice</string>
-      <string>tsunamods</string>
-    </Tags>
-</Mod>
+    <Mod>
+      <ID>0b0c03e0-1d84-4068-998b-f310e4430d55</ID>
+      <Name>[Tsunamods] Echo-S 8 Demo</Name>
+      <Author>Tsunamods Team</Author>
+      <Category>Gameplay</Category>
+      <Description>
+Demo for Echo-S 8. Adds voice acting to the game until Timber. Currently Contains Field and FMV dialogue.
+      </Description>
+      <LatestVersion>
+        <Link>iroj://Url/https$download.tsunamods.com/?id=20</Link>
+        <Version>0.1</Version>
+        <ReleaseDate>2024-11-03</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/uprisen/preview.png</PreviewImage>
+        <ReleaseNotes>
+Demo covers from start of game until entering Timber
+        </ReleaseNotes>
+        <DownloadSize>1210938</DownloadSize>
+      </LatestVersion>
+      <Link>https://www.tsunamods.com/echo-s-8/</Link>
+      <DonationLink />
+      <Tags>
+        <string>Voice</string>
+        <string>tsunamods</string>
+      </Tags>
+    </Mod>
