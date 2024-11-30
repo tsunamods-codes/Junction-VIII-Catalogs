@@ -50,8 +50,10 @@ jobs:
       - name: Run Validation
         run: .github/workflows/validate.sh
       - name: Post warnings as PR comment
-        if:  always()
+        if: always()
         uses: actions/github-script@v6
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_PAT }}
         with:
           script: |
             const fs = require('fs');
@@ -62,3 +64,4 @@ jobs:
               issue_number: context.issue.number,
               body: output
             });
+
