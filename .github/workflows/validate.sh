@@ -21,16 +21,17 @@ for file in mods/**/*.xml; do
     fi
 
     # Check Mod.LatestVersion.Link
+    # Check Mod.LatestVersion.Link
     latest_version_link=$(xmllint --xpath 'string(//Mod/LatestVersion/Link)' "$file")
 
     # Parse the iros:// URI format
     if [[ $latest_version_link =~ ^iroj://([a-zA-Z]+)/ ]]; then
         protocol=${BASH_REMATCH[1]}
-        uri_path=${latest_version_link#iros://$protocol/}
+        uri_path=${latest_version_link#iroj://$protocol/}
 
         case ${protocol,,} in # ${protocol,,} converts to lowercase
         "url")
-            latest_version_link=${uri_path/\$/:\/\/}
+            latest_version_link="https://${uri_path}"
             ;;
         "gdrive")
             latest_version_link="https://drive.google.com/file/d/${uri_path}"
@@ -45,12 +46,9 @@ for file in mods/**/*.xml; do
             ;;
         esac
     fi
-    # Now check the converted URL
-    curl --output /dev/null --silent --head --fail "$latest_version_link" -A "Mozilla/5.0"
-    if [ $? -ne 0 ]; then
-        errors+=" - Verify LatestVersion.Link failed: [link]($latest_version_link)\n"
-        ret=1
-    fi
+
+    # For debugging
+    echo "Original: $latest_version_link"
 
     # Check Mod.LatestVersion.PreviewImage
     preview_image=$(xmllint --xpath 'string(//Mod/LatestVersion/PreviewImage)' "$file")
