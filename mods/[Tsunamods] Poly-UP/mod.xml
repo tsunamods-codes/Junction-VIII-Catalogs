@@ -1,24 +1,30 @@
 <?xml version="1.0"?>
-<Mod>
-  <ID>384a9591-78cc-423e-ae8e-b86bfbf3dbea</ID>
+<ID>384a9591-78cc-423e-ae8e-b86bfbf3dbea</ID>
     <Name>Poly-UP</Name>
     <Author>Digixu</Author>
     <Category>Field Models</Category>
-  <Description>Replace all Main_chr poly models with there hi-res versions. 4x Upscaled Textures by Magochocobo *used with permission textures by Magochocobo big thanks to everyone! </Description>
-
+  <Description>
+Replace all Main_chr poly models with there hi-res versions. 
+4x Upscaled Textures by Magochocobo *used with permission textures by Magochocobo 
+big thanks to everyone! 
+</Description>
     <LatestVersion>
-      <Link></Link>
-      <Version>1</Version>
-  <ReleaseDate>2024-11-29T12:42:50.2906488+00:00</ReleaseDate>
-      <CompatibleGameVersions></CompatibleGameVersions>
-      <PreviewImage>preview.png</PreviewImage>
+      <Link>iroj://GDrive/18Q7pWu4mgzpMvnBV_QY0IzIdT8cDgWWL</Link>
+      <Version>1.0</Version>
+  <ReleaseDate>2024-11-29</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/JpKMdH3/preview.png</PreviewImage>
       <ReleaseNotes>
+Version 1.0:
+- Initial release version
       </ReleaseNotes>
-      <DownloadSize></DownloadSize>
+  <DownloadSize>118766</DownloadSize>
     </LatestVersion>
     <Link></Link>
 <DonationLink>https://www.paypal.com/donate/?business=T4VCT9B4ZXECJ&amp;no_recurring=0&amp;item_name=Modding+the+great+and+awsome+game+FF8&amp;currency_code=GBP</DonationLink>
     <Tags>
-      <string></string>
+      <string>Model</string>
+	<string>Fields</string>
+	<string>digixu</string>
     </Tags>
   </Mod>
