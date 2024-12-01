@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>6728d336-9cb6-4e97-8ab7-474f435e1f6d</ID>
+    <Name>[Tsunamods] Hit-J</Name>
+    <Author>Digixu</Author>
+    <Category>Battle Textures</Category>
+    <Description>4x AI Upscale of battle effects - Hits/Particles/Status Effects/Dust/Enemy Abilities
+
+magic to come soon! </Description>
+    <LatestVersion>
+      <Link>iroj://GDrive/1nqrnRmkvgAgp40DMzRkz5CkZ7iwLTyeB</Link>
+      <Version>1.0</Version>
+      <ReleaseDate>2024-12-01</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/99cWmZq/preview.png</PreviewImage>
+      <ReleaseNotes>
+        V1.0 - Initial Release
+      </ReleaseNotes>
+      <DownloadSize>78087</DownloadSize>
+    </LatestVersion>
+    <Link></Link>
+<DonationLink>https://www.paypal.com/donate/?business=T4VCT9B4ZXECJ&amp;no_recurring=0&amp;item_name=Modding+the+great+and+awsome+game+FF8&amp;currency_code=GBP</DonationLink>
+    <Tags>
+      <string>Battle</string>
+      <string>Textures</string>
+      <string>Digixu</string>
+    </Tags>
+  </Mod>
