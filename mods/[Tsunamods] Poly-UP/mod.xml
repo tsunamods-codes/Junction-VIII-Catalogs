@@ -11,15 +11,17 @@ big thanks to everyone!
 </Description>
     <LatestVersion>
       <Link>iroj://GDrive/18Q7pWu4mgzpMvnBV_QY0IzIdT8cDgWWL</Link>
-      <Version>1.0</Version>
-  <ReleaseDate>2024-11-29</ReleaseDate>
+      <Version>1.1</Version>
+  <ReleaseDate>2024-12-01</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/JpKMdH3/preview.png</PreviewImage>
       <ReleaseNotes>
-Version 1.0:
-- Initial release version
+Version 1.1:
+- revereted back to low poly model due to vram bleed
+- Irvine has eyes! yay
+- Irvine should blink properly now.
       </ReleaseNotes>
-  <DownloadSize>118766</DownloadSize>
+  <DownloadSize>92906</DownloadSize>
     </LatestVersion>
     <Link></Link>
 <DonationLink>https://www.paypal.com/donate/?business=T4VCT9B4ZXECJ&amp;no_recurring=0&amp;item_name=Modding+the+great+and+awsome+game+FF8&amp;currency_code=GBP</DonationLink>
