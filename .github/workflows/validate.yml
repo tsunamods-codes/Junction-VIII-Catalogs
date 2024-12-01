@@ -3,7 +3,7 @@ name: Validate
 run-name: 1.0.0.${{ github.run_number }}
 
 on:
-  pull_request:
+  pull_request_target:
     branches:
       - master
 
