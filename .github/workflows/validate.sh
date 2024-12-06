@@ -24,6 +24,12 @@ for file in mods/**/*.xml; do
     # Check Mod.LatestVersion.Link
     latest_version_link=$(xmllint --xpath 'string(//Mod/LatestVersion/Link)' "$file")
 
+    # Check if the link is empty
+    if [[ -z "$latest_version_link" ]]; then
+        errors+=" - Empty LatestVersion.Link\n"
+        ret=1
+    fi
+
     # Parse the iros:// URI format
     if [[ $latest_version_link =~ ^iroj://([a-zA-Z]+)/ ]]; then
         protocol=${BASH_REMATCH[1]}
