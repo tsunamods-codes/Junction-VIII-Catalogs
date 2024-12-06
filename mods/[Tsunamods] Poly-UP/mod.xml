@@ -1,33 +1,33 @@
 <?xml version="1.0"?>
 <Mod>
-<ID>384a9591-78cc-423e-ae8e-b86bfbf3dbea</ID>
-    <Name>Poly-UP</Name>
-    <Author>Digixu</Author>
-    <Category>Field Models</Category>
+  <ID>384a9591-78cc-423e-ae8e-b86bfbf3dbea</ID>
+  <Name>[Tsunamods] Poly-UP (Main Char. Field Models)</Name>
+  <Author>Digixu + AxlRose + Megachocobo</Author>
+  <Category>Field Models</Category>
   <Description>
-Replace all Main_chr poly models with there hi-res versions. 
-4x Upscaled Textures by Magochocobo *used with permission textures by Magochocobo 
-big thanks to everyone! 
-</Description>
-    <LatestVersion>
-      <Link>iroj://GDrive/18Q7pWu4mgzpMvnBV_QY0IzIdT8cDgWWL</Link>
-      <Version>1.1</Version>
-  <ReleaseDate>2024-12-01</ReleaseDate>
-      <CompatibleGameVersions>All</CompatibleGameVersions>
-      <PreviewImage>https://i.ibb.co/JpKMdH3/preview.png</PreviewImage>
-      <ReleaseNotes>
-Version 1.1:
-- revereted back to low poly model due to vram bleed
-- Irvine has eyes! yay
-- Irvine should blink properly now.
-      </ReleaseNotes>
-  <DownloadSize>92906</DownloadSize>
-    </LatestVersion>
-    <Link></Link>
-<DonationLink>https://www.paypal.com/donate/?business=T4VCT9B4ZXECJ&amp;no_recurring=0&amp;item_name=Modding+the+great+and+awsome+game+FF8&amp;currency_code=GBP</DonationLink>
-    <Tags>
-      <string>Model</string>
-	<string>Fields</string>
-	<string>digixu</string>
-    </Tags>
-  </Mod>
+- Replace all Main_chr poly models with their hi-res versions.
+- 8x (1024x1024) Upscaled Textures by Magochocobo *used with permission
+  </Description>
+  <LatestVersion>
+    <Link></Link>   
+    <Version>2.0</Version>
+    <ReleaseDate>2024-12-06</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.ibb.co/5FFTx1Z/preview.png</PreviewImage>
+    <ReleaseNotes>
+Version 2.0:
+- Put back high poly models + new textures (for Junction VIII v1.0.1.1+)
+- New option to select the low poly models + new textures
+    </ReleaseNotes>
+    <DownloadSize>216575</DownloadSize>
+  </LatestVersion>
+  <Link>iroj://GDrive/18Q7pWu4mgzpMvnBV_QY0IzIdT8cDgWWL</Link>   
+  <DonationLink>https://www.paypal.com/donate/?business=T4VCT9B4ZXECJ&amp;no_recurring=0&amp;item_name=Modding+the+great+and+awsome+game+FF8&amp;currency_code=GBP</DonationLink>
+  <Tags>
+    <string>Model</string>
+    <string>Fields</string>
+    <string>digixu</string>
+    <string>axlrose</string>
+    <string>tsunamods</string>
+  </Tags>
+</Mod>
