@@ -65,7 +65,10 @@ for file in mods/**/*.xml; do
 
     # Check Mod.Link
     mod_link=$(xmllint --xpath 'string(//Mod/Link)' "$file")
-    if [ -n "$mod_link" ]; then
+    if [[ $mod_link =~ ^iroj://([a-zA-Z]+)/ ]]; then
+        errors+=" - Verify Mod.Link failed: Invalid URL used\n"
+        ret=1
+    elif [ -n "$mod_link" ]; then
         curl --output /dev/null --silent --head --fail "$mod_link" -A "Mozilla/5.0"
         if [ $? -ne 0 ]; then
             warnings+=" - Verify Mod.Link failed: [link]($mod_link)\n"
