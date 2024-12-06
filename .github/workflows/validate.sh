@@ -28,10 +28,8 @@ for file in mods/**/*.xml; do
     if [[ -z "$latest_version_link" ]]; then
         errors+=" - Empty LatestVersion.Link\n"
         ret=1
-    fi
-
     # Parse the iros:// URI format
-    if [[ $latest_version_link =~ ^iroj://([a-zA-Z]+)/ ]]; then
+    elif [[ $latest_version_link =~ ^iroj://([a-zA-Z]+)/ ]]; then
         protocol=${BASH_REMATCH[1]}
         uri_path=${latest_version_link#iroj://$protocol/}
 
