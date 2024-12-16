@@ -13,13 +13,13 @@ corrections, we have brought this amazing minigame to a more modern appearance
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$download.tsunamods.com/?id=19</Link>
-    <Version>1.1</Version>
-    <ReleaseDate>2024-11-02</ReleaseDate>
+    <Version>1.2</Version>
+    <ReleaseDate>2024-12-16</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/Crad-RF-Preview.png</PreviewImage>
     <ReleaseNotes>
-Version 1.1:
-- Initial release version
+Version 1.2:
+- Fixed Card Menu Textures not working
     </ReleaseNotes>
     <DownloadSize>88958</DownloadSize>
   </LatestVersion>
