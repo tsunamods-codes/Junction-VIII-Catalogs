@@ -1,35 +1,41 @@
-<?xml version="1.0"?>
-<Mod>
+<?xml version="1.0" encoding="utf-8"?>
+<ModInfo>
   <ID>042ff62e-5819-4b2e-b993-e65e806fafd5</ID>
   <Name>[Tsunamods] Card-RF</Name>
   <Author>Ducladoncladon &amp; Hobbitdur</Author>
+  <Version>1.2</Version>
+  <ReleaseDate>2024-11-02</ReleaseDate>
   <Category>Gameplay</Category>
   <Description>
+
 - Card-RF is a graphical update to the beloved Triple Triad minigame!
 Which can now be played in full 60 FPS thanks to FFNx!
 - Using original reference artworks from Final Fantasy 8 and higher,
 and a combination of AI upscaling and many hours of manual touch ups and
 corrections, we have brought this amazing minigame to a more modern appearance
   </Description>
-  <LatestVersion>
-    <Link>iroj://Url/https$download.tsunamods.com/?id=19</Link>
-    <Version>1.1</Version>
-    <ReleaseDate>2024-11-02</ReleaseDate>
-    <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/Crad-RF-Preview.png</PreviewImage>
-    <ReleaseNotes>
-Version 1.1:
-- Initial release version
-    </ReleaseNotes>
-    <DownloadSize>88958</DownloadSize>
-  </LatestVersion>
+  <ReleaseNotes>
+Version 1.2:
+- Fixed Card Menu Textures not working
+  </ReleaseNotes>
   <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
   <DonationLink>https://www.patreon.com/HobbitMods</DonationLink>
-  <Tags>
-    <string>T3</string>
-    <string>tripletriad</string>
-    <string>tsunamods</string>
-    <string>card</string>
-    <string>minigame</string>
-  </Tags>
-</Mod>
+  <PreviewFile>Preview\Crad-RF-Preview-1024x692.png</PreviewFile>
+
+  <FFNxConfig />
+  <Variables />
+
+  <ModFolder Folder="No Change" ActiveWhen="CARD_ID = 0" />
+  <ModFolder Folder="CARD" ActiveWhen="CARD_ID = 1" />
+
+	<ConfigOption>
+		<Type>List</Type>
+		<Default>1</Default>
+		<ID>CARD_ID</ID>
+		<Name>Card-RF</Name>
+		<Description>Refined Triple Triad minigame.</Description>
+		<Option Value="0" Name="Card-RF - Off" PreviewFile="Preview\Off.png"/>
+		<Option Value="1" Name="Card-RF - On" PreviewFile="Preview\On.png"/>
+	</ConfigOption>
+
+</ModInfo>
