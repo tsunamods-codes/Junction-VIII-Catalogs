@@ -20,8 +20,7 @@ Version 2.1:
 - Put back high poly models + new textures (for Junction VIII v1.0.1.1+)
 - New option to select the low poly models + new textures
 
-WARNING - Currently there is a bleed issue on FFNx 1.23.3.1 on Ragnarok Bridge - if this breaks your immersion please select Low-Poly Mode in the config. i apologise for the inconvience.
-    </ReleaseNotes>
+WARNING: There is a known issue on the Ragnarok Bridge. If you experience wrong rendering behaviors, please select the Low-Poly Mode in the mod config.    </ReleaseNotes>
     <DownloadSize>247569</DownloadSize>
   </LatestVersion>
   <Link></Link>
