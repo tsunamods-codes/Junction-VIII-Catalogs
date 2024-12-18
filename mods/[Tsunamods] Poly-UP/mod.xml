@@ -10,17 +10,17 @@
   </Description>
   <LatestVersion>
     <Link>iroj://GDrive/18Q7pWu4mgzpMvnBV_QY0IzIdT8cDgWWL</Link>
-    <Version>2.1</Version>
-    <ReleaseDate>2024-12-17</ReleaseDate>
+    <Version>2.2</Version>
+    <ReleaseDate>2024-12-18</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.ibb.co/5FFTx1Z/preview.png</PreviewImage>
     <ReleaseNotes>
-Version 2.1:
-- Mago's battle textures have been added
-- Put back high poly models + new textures (for Junction VIII v1.0.1.1+)
-- New option to select the low poly models + new textures
+Version 2.2:
+- Battle Textures have been added
+- Setting Low-Poly Mode as default 
 
-WARNING: There is a known issue on the Ragnarok Bridge. If you experience wrong rendering behaviors, please select the Low-Poly Mode in the mod config.    </ReleaseNotes>
+WARNING - HighPoly Mode is Experimental By enabling it you may experience weird rendering behaviors.
+   </ReleaseNotes>
     <DownloadSize>247569</DownloadSize>
   </LatestVersion>
   <Link></Link>
