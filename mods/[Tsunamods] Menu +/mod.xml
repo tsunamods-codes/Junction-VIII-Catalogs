@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>44a6896d-96ce-493f-bbb3-35bd29dcf205</ID>
+    <Name>[Tsunamods] Menu +</Name>
+    <Author>Digixu + JamesTheCat</Author>
+  <Category>User Interface</Category>
+<Description>
+4x Menu upscale with background colour & Gradient options!
+Portrait Textures by JamesTheCat
+Additional Gradients by JamesTheCat
+
+Additional Thanks
+TrueOdin + Myst
+LordUrQuan
+MikedoesAudio
+TheRealBiggs
+hobbitdur
+
+Also Thanks to Mcindus for technical assistance
+</Description>
+  <LatestVersion>
+      <Link>iroj://GDrive/1KLlpwvlQfzeuGDrPexJwXP3Y80gAhVXs</Link>
+      <Version>1.0</Version>
+  <ReleaseDate>2024-12-17</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/5xBZWTY/menupreview.png</PreviewImage>
+    <ReleaseNotes>
+V1.0 - Initial Release Version
+</ReleaseNotes>
+      <DownloadSize>99565</DownloadSize>
+    </LatestVersion>
+    <Link></Link>
+  <DonationLink>https://www.paypal.com/donate/?business=T4VCT9B4ZXECJ&amp;no_recurring=0&amp;item_name=Modding+the+great+and+awsome+game+FF8&amp;currency_code=GBP</DonationLink>
+    <Tags>
+      <string>UI</string>
+      <string>User Interface</string>
+      <string>Menu</string>
+      <string>Digixu</string>
+      <string>Tsunamods</string>
+    </Tags>
+  </Mod>
