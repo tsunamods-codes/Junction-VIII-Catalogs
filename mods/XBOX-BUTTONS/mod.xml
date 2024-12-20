@@ -1,0 +1,34 @@
+  <?xml version="1.0"?>
+<Mod>
+  <ID>e9028780-2cb5-44b5-962d-342a9206cc1e</ID>
+  <Name>XBOX-BUTTONS</Name>
+    <Author>Digixu</Author>
+  <Category>User Interface</Category>
+<Description>
+Simple mod to enable Xbox game icons in game.
+
+Please make sure UseGamePadIcons is enabled in Junction-VIII Driver settings
+
+</Description>    <LatestVersion>
+    <Link>iroj://GDrive/1SaSrMAT85YLPeKhTM4iAFkme8VnGaZlq</Link>
+      <Version>1.0</Version>
+  <ReleaseDate>2024-12-20</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/0hs23Hq/preview.png</PreviewImage>
+      <ReleaseNotes>
+        V1.0 - Initial Release
+      </ReleaseNotes>
+      <DownloadSize>608</DownloadSize>
+    </LatestVersion>
+    <Link></Link>
+  <DonationLink>https://www.paypal.com/donate/?business=T4VCT9B4ZXECJ&amp;amp;no_recurring=0&amp;amp;item_name=Modding+the+great+and+awsome+game+FF8&amp;amp;currency_code=GBP</DonationLink>
+    <Tags>
+      <string>UI</string>
+            <string>User Interface</string>
+      <string>Buttons</string>
+      <string>XBOX</string>
+      <string>Steam</string>
+      <string>Digixu</string>
+
+    </Tags>
+  </Mod>
