@@ -3,6 +3,9 @@ output=""
 ret=0
 declare -A id_map
 
+# Print Bash version
+bash --version
+
 # Initialize the validation results file
 echo -e "### Validtion Results" >validation_results.md
 
