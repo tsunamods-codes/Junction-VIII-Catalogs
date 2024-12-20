@@ -91,6 +91,7 @@ for file in mods/**/*.xml; do
 
     # Check for unique ID
     mod_id=$(xmllint --xpath 'string(//Mod/ID)' "$file")
+    echo -e ">> Mod ID: $mod_id\n"
     if [ -n "${id_map[$mod_id]}" ]; then
         errors+=" - Duplicate Mod ID found: $mod_id (conflicts with ${id_map[$mod_id]})\n"
         ret=1
