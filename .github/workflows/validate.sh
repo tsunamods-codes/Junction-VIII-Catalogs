@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 output=""
 ret=0
 declare -A id_map
