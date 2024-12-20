@@ -35,6 +35,8 @@ for file in mods/**/*.xml; do
 
         case ${protocol,,} in # ${protocol,,} converts to lowercase
         "url")
+            uri_path=${uri_path#http\$}  # Remove http:// if present
+            uri_path=${uri_path#https\$} # Remove https:// if present
             latest_version_link="https://${uri_path}"
             ;;
         "gdrive")
@@ -57,7 +59,7 @@ for file in mods/**/*.xml; do
     # Check Mod.LatestVersion.PreviewImage
     preview_image=$(xmllint --xpath 'string(//Mod/LatestVersion/PreviewImage)' "$file")
     if [ -n "$preview_image" ]; then
-        curl --head --fail -H "Accept: image/*" "$preview_image" -A "Mozilla/5.0" --silent | grep "content-type: blar/*"
+        curl --head --fail -H "Accept: image/*" "$preview_image" -A "Mozilla/5.0" --silent | grep "[cC]ontent-[tT]ype: image/*"
         if [ $? -ne 0 ]; then
             warnings+=" - Verify Mod.PreviewImage failed: [preview image]($preview_image)\n"
         fi
