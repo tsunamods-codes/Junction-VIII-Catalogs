@@ -22,8 +22,7 @@
     <DownloadSize>608</DownloadSize>
   </LatestVersion>
   <Link></Link>
-  <DonationLink>
-    https://www.paypal.com/donate/?business=T4VCT9B4ZXECJ&amp;amp;no_recurring=0&amp;amp;item_name=Modding+the+great+and+awsome+game+FF8&amp;amp;currency_code=GBP</DonationLink>
+    <DonationLink>https://www.paypal.com/donate/?business=T4VCT9B4ZXECJ&amp;no_recurring=0&amp;item_name=Modding+the+great+and+awsome+game+FF8&amp;currency_code=GBP</DonationLink>
   <Tags>
     <string>UI</string>
     <string>User Interface</string>
