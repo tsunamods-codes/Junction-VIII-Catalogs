@@ -11,7 +11,7 @@ For the following language, offer a new improved translation:
 - Soon available: French
   </Description>
   <LatestVersion>
-    <Link>iroj://https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/ilp.iroj</Link>
+    <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/ilp.iroj</Link>
     <Version>0.1</Version>
       <ReleaseDate>2024-12-30</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
