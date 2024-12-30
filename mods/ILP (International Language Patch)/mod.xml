@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>3d7436a1-2cd7-4503-821a-910b0f7aa7e3</ID>
+  <Name>FF8 ILP (International Language Patch)</Name>
+  <Author>Hobbitdur</Author>
+  <Category>User Interface</Category>
+  <Description>Patch the english version of the game to one of those language: 
+- Already available: French
+- Soon available: German, Spanish, Italian
+For the following language, offer a new improved translation:
+- Soon available: French
+  </Description>
+  <LatestVersion>
+    <Link>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/ilp.iroj</Link>
+    <Version>0.1</Version>
+      <ReleaseDate>2024-12-30</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/preview_ilp.png</PreviewImage>
+    <ReleaseNotes>
+- 0.1: Release of French patch
+    </ReleaseNotes>
+  </LatestVersion>
+  <Link>https://discord.com/channels/318179907098116106/1244453452394790992</Link>
+  <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
+  <Tags>
+    <string>language</string>
+    <string>patch</string>
+    <string>english</string>
+    <string>french</string>
+    <string>spanish</string>
+    <string>german</string>
+    <string>italian</string>
+    <string>text</string>
+  </Tags>
+</Mod>
