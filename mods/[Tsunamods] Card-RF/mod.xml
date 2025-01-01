@@ -5,25 +5,26 @@
   <Author>Ducladoncladon &amp; Hobbitdur</Author>
   <Category>Gameplay</Category>
   <Description>
-- Card-RF is a graphical update to the beloved Triple Triad minigame!
+Card-RF is a graphical update to the beloved Triple Triad minigame!
 Which can now be played in full 60 FPS thanks to FFNx!
-- Using original reference artworks from Final Fantasy 8 and higher,
+Using original reference artworks from Final Fantasy 8 and higher,
 and a combination of AI upscaling and many hours of manual touch ups and
 corrections, we have brought this amazing minigame to a more modern appearance
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$download.tsunamods.com/?id=19</Link>
     <Version>1.2</Version>
-    <ReleaseDate>2024-12-16</ReleaseDate>
+    <ReleaseDate>2025-01-01</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/Crad-RF-Preview.png</PreviewImage>
+    <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/card-rf-logo.png</PreviewImage>
     <ReleaseNotes>
-Version 1.2:
-- Fixed Card Menu Textures not working
+ Release note:
+- 1.2: Fixed Card Menu Textures not working
+- 1.3: Adding language option
     </ReleaseNotes>
     <DownloadSize>88958</DownloadSize>
   </LatestVersion>
-  <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
+   <Link>https://discord.gg/Bu5ZAzdwXV</Link>
   <DonationLink>https://www.patreon.com/HobbitMods</DonationLink>
   <Tags>
     <string>T3</string>
@@ -31,5 +32,7 @@ Version 1.2:
     <string>tsunamods</string>
     <string>card</string>
     <string>minigame</string>
+    <string>hobbit</string>
+    <string>ducladoncladon</string>
   </Tags>
 </Mod>
