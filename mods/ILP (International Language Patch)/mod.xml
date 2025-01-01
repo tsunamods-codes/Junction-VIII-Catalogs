@@ -12,12 +12,13 @@ For the following language, offer a new improved translation:
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/ilp.iroj</Link>
-    <Version>0.1</Version>
-      <ReleaseDate>2024-12-30</ReleaseDate>
+    <Version>0.2</Version>
+      <ReleaseDate>2025-01-01</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/preview_ilp.png</PreviewImage>
     <ReleaseNotes>
 - 0.1: Release of French patch
+- 0.2: Adding card game misc. text, language texture to the French language, fixing Help menu not appearing
     </ReleaseNotes>
   </LatestVersion>
   <Link>https://discord.com/channels/318179907098116106/1244453452394790992</Link>
