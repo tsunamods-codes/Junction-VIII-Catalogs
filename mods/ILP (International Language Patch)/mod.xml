@@ -11,16 +11,22 @@
       <ReleaseDate>2025-01-01</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/preview_ilp.png</PreviewImage>
-    <ReleaseNotes>
-Some UI not translated (like "Target" in battle), some specific graphic work to do - WIP
-Future dev:
+  <ReleaseNotes>
+Release note:
+  - 0.1: Release of French patch
+  - 0.2: Adding card game misc. text, language texture to the French language, fixing Help menu not appearing
+  - 0.3: Adding all language: Spanish, German and Italian
+Known limitation:
+  - Card game "You lose" and others not yet translated (need to create new asset) - WIP
+  - Some UI not translated (like "Target" in battle), some specific graphic work to do - WIP
+ Futur dev:
   - Improved translation of French and Italian
 Acknowledgment:
   - Big thanks to myst6re for his Deling tool and all modification done for this modespec
   - Special thanks to Riccardo for heavy beta testing of ShumiTranslator
   - Thanks to Martin for the preview image
   - Thanks to Ducladoncladon for asset work
-    </ReleaseNotes>
+</ReleaseNotes>
   </LatestVersion>
   <Link>https://discord.com/channels/318179907098116106/1244453452394790992</Link>
   <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
