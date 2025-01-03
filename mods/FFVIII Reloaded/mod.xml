@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>42713d86-16ce-4a15-bf90-7c39235f458e</ID>
+  <Name>FFVIII Reloaded</Name>
+  <Author>Mexico (ported by HobbitDur)</Author>
+    
+    <Category>Gameplay</Category>
+    <Description>
+    Hard mod for FFVIII
+    DESCRIPTION:
+    The changes made to the game are numerous, so I won’t list them all here. Instead, I’ll let you discover them for yourself. However, here’s a brief overview to answer some of your questions:
+    - Enemy stats and AI adjusted.
+    - New bosses and enemies added.
+    - Magic spells modified in both power and attributes.
+    - GF abilities reworked and improved.
+    - The card mod is only accessible on Disc 4 via an item and only if you’ve completed your collection.
+    - Different enemy drops and magic steals, usually far less plentiful.
+    - Magic draw points altered.
+    - New side quests and changes to existing ones.
+    - And much more…
+    </Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/ff8_reloaded.iroj</Link>
+    <Version>1.0</Version>
+      <ReleaseDate>2025-01-03</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/logo_ff8_reloaded.png</PreviewImage>
+    <ReleaseNotes>
+    - 1.0: Release french version
+    </ReleaseNotes>
+  </LatestVersion>
+  <Link>https://discord.com/channels/318179907098116106/1244453452394790992</Link>
+  <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
+  <Tags>
+    <string>ff8</string>
+    <string>reloaded</string>
+    <string>mexico</string>
+    <string>hard</string>
+    <string>mod</string>
+    <string>french</string>
+    <string>gameplay</string>
+  </Tags>
+</Mod>
