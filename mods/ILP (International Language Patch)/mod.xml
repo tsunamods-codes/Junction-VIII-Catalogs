@@ -7,22 +7,23 @@
   <Description>Patch the english version of the game to one of those language: French, Spanish, German, Italian</Description>
   <LatestVersion>
     <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/ilp.iroj</Link>
-    <Version>0.3</Version>
+    <Version>1.1</Version>
       <ReleaseDate>2025-01-01</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/preview_ilp.png</PreviewImage>
-  <ReleaseNotes>
+   <ReleaseNotes>
 Release note:
   - 0.1: Release of French patch
   - 0.2: Adding card game misc. text, language texture to the French language, fixing Help menu not appearing
-  - 0.3: Adding all language: Spanish, German and Italian
+  - 1.0: Adding all language: Spanish, German and Italian
+  - 1.1: Fixing german field text. Applying the fix to all language.
 Known limitation:
   - Card game "You lose" and others not yet translated (need to create new asset) - WIP
   - Some UI not translated (like "Target" in battle), some specific graphic work to do - WIP
  Futur dev:
   - Improved translation of French and Italian
 Acknowledgment:
-  - Big thanks to myst6re for his Deling tool and all modification done for this modespec
+  - Big thanks to myst6re for his Deling tool and all modification done on it for this mod
   - Special thanks to Riccardo for heavy beta testing of ShumiTranslator
   - Thanks to Martin for the preview image
   - Thanks to Ducladoncladon for asset work
