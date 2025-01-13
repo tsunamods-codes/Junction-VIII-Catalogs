@@ -1,0 +1,35 @@
+<Mod>
+  <ID>7cc32d70-5024-4bf0-a7f8-a7c583b54f9c</ID>
+  <Name>AxlRose&apos;s WIP (Incomplete)</Name>
+  <Author>AxlRose</Author>
+  <Category>Miscellaneous</Category>
+  <Description>
+- Work in progress
+- Use it above other mods
+- Few field upscaled backgrounds
+- Few field character textures
+- Other random parts of the game soon
+  </Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$www.gp-mc.net/ff8/tsunamods/AxlRoseWIP.7z</Link>
+    <Version>2025.0112</Version>
+    <ReleaseDate>2025-01-12</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://www.gp-mc.net/ff8/tsunamods/wip.jpg</PreviewImage>
+    <ReleaseNotes>
+v2025.0112:
+  - Initial release version
+  - First 5 field backgrounds (bghoke_3, bghoke_2, bgroad_6, bgroom_1 and bg2f_2)
+  - Squall's d000 and d001 field model (low and high poly model)
+    </ReleaseNotes>
+    <DownloadSize>81807</DownloadSize>
+  </LatestVersion>
+  <Link>https://discord.com/invite/7Rsvsewghz</Link>
+  <DonationLink>https://www.paypal.com/donate/?hosted_button_id=FTA38UUZJ5QAN</DonationLink>
+  <Tags>
+    <string>axlrose</string>
+    <string>tsunamods</string>
+    <string>backgrounds</string>
+    <string>ai</string>
+  </Tags>
+</Mod>
