@@ -1,0 +1,28 @@
+<Mod>
+  <ID>260dd8f3-537a-4d34-b3d5-956cda71eac9</ID>
+  <Name>Cronos WIP</Name>
+  <Author>Hobbitdur</Author>
+  <Category>Gameplay</Category>
+  <Description>The most ambitious gameplay mod</Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/cronos.zip</Link>
+    <Version>0.1</Version>
+      <ReleaseDate>2025-01-22</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/Cronos_Preview.png</PreviewImage>
+   <ReleaseNotes>
+Release note:
+  - 0.1: Adding DrawLimit, DamageCap and Limitless magic
+   </ReleaseNotes>
+  </LatestVersion>
+  <Link>https://discord.gg/EYj9ppdyTW</Link>
+  <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
+  <Tags>
+    <string>cronos</string>
+    <string>hard</string>
+    <string>mod</string>
+    <string>gameplay</string>
+    <string>hobbit</string>
+    <string>hobbitdur</string>
+  </Tags>
+</Mod>
