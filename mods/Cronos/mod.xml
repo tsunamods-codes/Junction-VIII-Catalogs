@@ -1,22 +1,55 @@
 <Mod>
   <ID>260dd8f3-537a-4d34-b3d5-956cda71eac9</ID>
   <Name>Cronos WIP</Name>
-  <Author>Hobbitdur</Author>
+  <Author>Hobbitdur &amp; Cronos Team</Author>
   <Category>Gameplay</Category>
-  <Description>The most ambitious gameplay mod</Description>
+  <Description>
+  The most ambitious gameplay mod.
+  This mod will be the reference in gameplay. It will offer many option to enjoy the game.
+  Thus, everyone will find his way of playing: No XP, balanced mod, nightmare mod, ...
+  It provides also simple change for everyone that just want specific change on their vanilla game.
+  With this mod you can make the following modification:
+  
+  - Quality of life:
+    - MaximumDraw: With this activate, you will draw 100 everytime you succeed a draw.
+    - DamageCap: All damage can deal up to 65.535 (Eden damage is also cap to 65.535).
+    - LimitlessMagic: Using magic doesn't decrease your stock.
+    - 255AP: Earn 255 AP after battle.
+    - SaveAnywhere: Allow to save anywhere, but use at your own risk !
+    
+  - Game fix:
+    - BahamutRareItem: Now actually increase the probably of really rare item.
+    - GerogeroUncensored: Use the japanese version without color change. 
+    - NoUnequippedOnDream: Stop this madness of re-equipped everything on temporary characters !
+    
+  - Little gameplay mod:
+    - NoXP: Don't earn any XP at end of battle.
+    
+  Special thanks to:
+  - myst6re for Deling tool and RE work
+  - Nihil for AI researches
+  - Unicorngoulash for assembly editing
+  - AxlRoses for the awesome preview
+  - Maki for his work on RE
+   
+  Join the team or follow the news by clicking on the link ! Help me to continue this work participating to the Patreon page !
+  </Description>
   <LatestVersion>
     <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/cronos.zip</Link>
-    <Version>0.1</Version>
-      <ReleaseDate>2025-01-22</ReleaseDate>
+    <Version>0.2</Version>
+      <ReleaseDate>2025-03-01</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/Cronos_Preview.png</PreviewImage>
-   <ReleaseNotes>
+  <ReleaseNotes>
 Release note:
-  - 0.1: Adding DrawLimit, DamageCap and Limitless magic
-   </ReleaseNotes>
-   <DownloadSize>662</DownloadSize>
+  - 0.1: Adding:
+    MaximumDraw, DamageCap, LimitlessMagic
+  - 0.2: Adding:
+    255AP, SaveAnywhere, BahamutRareItem, GerogeroUncensored, NoUnequippedOnDream, NoXP
+</ReleaseNotes>
+   <DownloadSize>1350</DownloadSize>
   </LatestVersion>
-  <Link>https://discord.gg/EYj9ppdyTW</Link>
+  <Link>https://discord.gg/A7uFA4WqQY</Link>
   <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
   <Tags>
     <string>cronos</string>
