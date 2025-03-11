@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>7a3c8d1f-4e6b-4a9c-b123-8f9e4d2c7a1b</ID>
+  <Name>andr33ww - Glacial Eyedrop [1st Preview]</Name>
+  <Author>andr33ww</Author>
+  <Category>User Interface</Category>
+  <Description>
+- Glacial Eyedrop is a graphical user interface mod that tries to replace 2D arts on the game with
+  manually redrawn higher resolution (4x original) version.
+- Glacial Eyedrop doesn't use ai, I (andr33ww) drew all the image on top of the original
+  one (scaled by times 4) pixel by pixel, with reference from the original art and original
+  3d model and original cutscenes.
+- The target of this mod will cover: All Character Art (Switch Menu, Junction Menu, Save and load Menu),
+  All GF Art (Currently not available), All Card Art (Currently: 52 cards on works), and Card Game UI (bringback old ps1 style font with modern touch, and all
+  redrawn elements, backgrounds, etc)
+- This mod is still in early development, all released image might change from time to time,
+  I usually review and redraw and reedit images that doesn't look or move too away from the
+  original images from time to time.
+- Every suggestions and donations would be so considered and much apreciated and will help me in
+  develop this mod to the finish.
+  </Description>
+  <LatestVersion>
+    <Link>iroj://GDrive/1sPNO0Op0VLhJ-6dqEMozLfcK3_25RXkm</Link>
+    <Version>0.1</Version>
+    <ReleaseDate>2025-03-11</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://imgur.com/a/2hyVAJb</PreviewImage>
+    <ReleaseNotes>
+Version 0.1 [Initial Preview Release]:
+- All Character on Menu (Switch Menu, Junction Menu, Save and load Menu)
+- All Main Character Cards
+- Almost all of GF Cards
+- Some enemies Cards
+- Cards borders and backgrounds
+- Playstation 1 Style Cardgame Fonts
+- All card elements
+- You Win, You Lose, Draw, Same, Combo and Plus signs 
+    </ReleaseNotes>
+    <DownloadSize>83036</DownloadSize>
+  </LatestVersion>
+  <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
+  <DonationLink>https://paypal.me/andr33ww</DonationLink>
+  <Tags>
+    <string>andr33ww</string>
+    <string>glacial</string>
+    <string>eyedrop</string>
+    <string>card</string>
+    <string>tripletriad</string>
+  </Tags>
+</Mod>
