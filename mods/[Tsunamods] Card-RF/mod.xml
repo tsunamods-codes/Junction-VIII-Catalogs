@@ -6,23 +6,25 @@
   <Category>Gameplay</Category>
   <Description>
 Card-RF is a graphical update to the beloved Triple Triad minigame!
-Which can now be played in full 60 FPS thanks to FFNx!
+Which can now be played in full 60 FPS thanks to FFNx.
 Using original reference artworks from Final Fantasy 8 and higher,
 and a combination of AI upscaling and many hours of manual touch ups and
 corrections, we have brought this amazing minigame to a more modern appearance
   </Description>
   <LatestVersion>
-    <Link>iroj://Url/https$download.tsunamods.com/?id=19</Link>
-    <Version>1.2</Version>
-    <ReleaseDate>2025-01-01</ReleaseDate>
+    <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/card-rf.zip</Link>
+    <Version>1.4</Version>
+    <ReleaseDate>2025-03-28</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/card-rf-logo.png</PreviewImage>
-    <ReleaseNotes>
- Release note:
+  <ReleaseNotes>
 - 1.2: Fixed Card Menu Textures not working
 - 1.3: Adding language option
-    </ReleaseNotes>
-    <DownloadSize>88958</DownloadSize>
+- 1.4: New configuration options, languages and cards : 
+  - Vanilla enhanced cards
+  - New boards (credits to Ash)
+  </ReleaseNotes>
+    <DownloadSize>272000</DownloadSize>
   </LatestVersion>
    <Link>https://discord.gg/Bu5ZAzdwXV</Link>
   <DonationLink>https://www.patreon.com/HobbitMods</DonationLink>
