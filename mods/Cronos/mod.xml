@@ -13,9 +13,9 @@
   - Quality of life:
     - MaximumDraw: With this activate, you will draw 100 everytime you succeed a draw.
     - DamageCap: All damage can deal up to 65.535 (Eden damage is also cap to 65.535).
-    - LimitlessMagic: Using magic doesn't decrease your stock.
+    - NoMagicDepletion: Using magic doesn't decrease your stock.
     - 255AP: Earn 255 AP after battle.
-    - SaveAnywhere: Allow to save anywhere, but use at your own risk !
+    - SaveAnywhere: Allow to save anywhere, but use at your own risk ! Select + Menu (triangle)
     
   - Game fix:
     - BahamutRareItem: Now actually increase the probably of really rare item.
@@ -36,16 +36,17 @@
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/cronos.zip</Link>
-    <Version>0.2</Version>
-      <ReleaseDate>2025-03-01</ReleaseDate>
+    <Version>0.3</Version>
+      <ReleaseDate>2025-03-28</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/Cronos_Preview.png</PreviewImage>
   <ReleaseNotes>
 Release note:
   - 0.1: Adding:
-    MaximumDraw, DamageCap, LimitlessMagic
+    MaximumDraw, DamageCap, NoMagicDepletion
   - 0.2: Adding:
     255AP, SaveAnywhere, BahamutRareItem, GerogeroUncensored, NoUnequippedOnDream, NoXP
+  - 0.3: Fixing SaveAnywhere
 </ReleaseNotes>
    <DownloadSize>1350</DownloadSize>
   </LatestVersion>
