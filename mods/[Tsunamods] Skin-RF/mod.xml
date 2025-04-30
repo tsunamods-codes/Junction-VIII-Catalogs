@@ -12,17 +12,16 @@ Note : Appart from Squall's field models, other characters field models are a Wo
        You'll need to activate them manually.
   </Description>
   <LatestVersion>
-    <Link>iroj://Url/https$https://drive.proton.me/urls/VPH0Y2JRN8#nrmxERbT31nL</Link>
+    <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/AxlRose/Dulca/Skin-RF.zip</Link>
     <Version>1.0</Version>
     <ReleaseDate>2025-04-29</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://blob:https://drive.proton.me/d0f2124c-db4a-40fa-932b-70e8e79f2193</PreviewImage>
-  <ReleaseNotes>
-  </ReleaseNotes>
-    <DownloadSize>520000</DownloadSize>
+    <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/AxlRose/Dulca/Skin-RF_preview.png</PreviewImage>
+    <ReleaseNotes />
+    <DownloadSize>532867</DownloadSize>
   </LatestVersion>
-   <Link></Link>
-  <DonationLink></DonationLink>
+  <Link />
+  <DonationLink />
   <Tags>
     <string>tsunamods</string>
     <string>costume</string>
