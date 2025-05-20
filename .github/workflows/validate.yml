@@ -35,7 +35,7 @@ jobs:
           git config --global core.filemode false
           git config --global core.longpaths true
       - name: Checkout
-        uses: actions/checkout@v4.1.0
+        uses: actions/checkout@v4
       - name: Install xmllint
         run: |
           sudo apt-get update
