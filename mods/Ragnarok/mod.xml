@@ -1,0 +1,39 @@
+<Mod>
+  <ID>1e52b98-adb0-4f42-bc14-2e450eab8284</ID>
+  <Name>Ragnarok</Name>
+  <Author>Callisto (ported by Hobbitdur)</Author>
+  <Category>Gameplay</Category>
+  <Description>Famous Ragnarok mod from Callisto now available on JunctionVIII !
+  
+  
+Hello everyone, and welcome to the Ragnarok Mod. This mod was created with the aim of rebalancing several gameplay aspects of Final Fantasy VIII, such as usefulness of all characters in battle, the power level of Limit Breaks, or the ways of obtaining powerful tools to become stronger. Not only does this mod limit the gains from playing Triple Triad or makes enemies more challenging, it also adds various convenience functions not present in the original game, such as lifting the Draw cap in battles, providing additional save possibilities or giving the characters basic spells right off the bat.
+
+Overall, the mod is for those who look for a new challenge and maybe those who would like to relive Final Fantasy VIII the way they did during their very first playthrough, when they didn't know the game inside out yet. Of course, new players are welcome as well, but should get accustomed to how the general gameplay mechanics work first.
+
+It has been playtested from start to finish and should be largely bug-free. Also don't be shy to share any impressions about the mod, such as the balancing changes being on point or not, or any suggestions for improvement.
+
+To check if the mod is working, you should have magic already available when launching a new game.</Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/ragnarok.zip</Link>
+    <Version>1.0</Version>
+      <ReleaseDate>2025-05-20</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/ragnarok_preview.png</PreviewImage>
+  <ReleaseNotes>
+Release note:
+  - 1.0: First release on JunctionVIII with classical
+</ReleaseNotes>
+   <DownloadSize>13399</DownloadSize>
+  </LatestVersion>
+  <Link>https://discord.com/channels/318179907098116106/1343458840212930600</Link>
+  <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
+  <Tags>
+    <string>ragnarok</string>
+    <string>hard</string>
+    <string>mod</string>
+    <string>gameplay</string>
+    <string>hobbit</string>
+    <string>hobbitdur</string>
+    <string>Callisto</string>
+  </Tags>
+</Mod>
