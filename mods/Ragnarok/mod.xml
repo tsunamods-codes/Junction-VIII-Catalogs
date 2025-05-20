@@ -1,8 +1,9 @@
-<Mod>
-  <ID>b1e52b98-adb0-4f42-bc14-2e450eab8284</ID>
+<ModInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>793604a5-927e-42ef-81ed-b11cb65ae1f1</ID>
   <Name>Ragnarok</Name>
-  <Author>Callisto (ported by Hobbitdur)</Author>
   <Category>Gameplay</Category>
+  <Author>Callisto (ported by Hobbitdur)</Author>
+  <Version>1.0</Version>
   <Description>Famous Ragnarok mod from Callisto now available on JunctionVIII !
   
   
@@ -13,27 +14,12 @@ Overall, the mod is for those who look for a new challenge and maybe those who w
 It has been playtested from start to finish and should be largely bug-free. Also don't be shy to share any impressions about the mod, such as the balancing changes being on point or not, or any suggestions for improvement.
 
 To check if the mod is working, you should have magic already available when launching a new game.</Description>
-  <LatestVersion>
-    <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/ragnarok.zip</Link>
-    <Version>1.0</Version>
-      <ReleaseDate>2025-05-20</ReleaseDate>
-    <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/ragnarok_preview.png</PreviewImage>
-  <ReleaseNotes>
-Release note:
-  - 1.0: First release on JunctionVIII with classical
-</ReleaseNotes>
-   <DownloadSize>13399</DownloadSize>
-  </LatestVersion>
+  <ReleaseNotes>Release note:
+  - 1.0: First release on JunctionVIII with classical</ReleaseNotes>
+  <ReleaseDate>2025-05-21T00:59:53.8641582+02:00</ReleaseDate>
   <Link>https://discord.com/channels/318179907098116106/1343458840212930600</Link>
   <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
-  <Tags>
-    <string>ragnarok</string>
-    <string>hard</string>
-    <string>mod</string>
-    <string>gameplay</string>
-    <string>hobbit</string>
-    <string>hobbitdur</string>
-    <string>Callisto</string>
-  </Tags>
-</Mod>
+  <PreviewFile>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/ragnarok_preview.png</PreviewFile>
+  <FFNxConfig />
+  <Variables />
+</ModInfo>
