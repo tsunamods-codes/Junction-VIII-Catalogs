@@ -6,9 +6,6 @@ declare -A id_map
 # Print Bash version
 bash --version
 
-# Initialize the validation results file
-echo -e "### Validtion Results" >validation_results.md
-
 for file in mods/**/*.xml; do
     IFS='/'
     read -ra parts <<<"$file"
@@ -61,7 +58,7 @@ for file in mods/**/*.xml; do
     if [ -n "$preview_image" ]; then
         curl --output /dev/null --silent --head --fail -H "Accept: image/*" "$preview_image" -A "Mozilla/5.0"
         if [ $? -ne 0 ]; then
-            warnings+=" - Verify Mod.PreviewImage failed: [preview image]($preview_image)\n"
+            warnings+=" - Verify Mod.PreviewImage failed: $preview_image\n"
         fi
     fi
 
@@ -73,7 +70,7 @@ for file in mods/**/*.xml; do
     elif [ -n "$mod_link" ]; then
         curl --output /dev/null --silent --head --fail "$mod_link" -A "Mozilla/5.0"
         if [ $? -ne 0 ]; then
-            warnings+=" - Verify Mod.Link failed: [link]($mod_link)\n"
+            warnings+=" - Verify Mod.Link failed: $mod_link\n"
         fi
     fi
 
@@ -82,7 +79,7 @@ for file in mods/**/*.xml; do
     if [ -n "$donation_link" ]; then
         curl --output /dev/null --silent --head --fail "$donation_link" -A "Mozilla/5.0"
         if [ $? -ne 0 ]; then
-            warnings+=" - Verify Mod.DonationLink failed: [donation link]($donation_link)\n"
+            warnings+=" - Verify Mod.DonationLink failed: $donation_link\n"
         fi
     fi
 
