@@ -7,11 +7,6 @@ on:
     branches:
       - master
 
-permissions:
-  contents: write
-  pull-requests: write
-  issues: write
-
 env:
   _IS_BUILD_CANARY: false
   _IS_GITHUB_RELEASE: false
@@ -49,17 +44,3 @@ jobs:
         run: chmod +x .github/workflows/validate.sh
       - name: Run Validation
         run: .github/workflows/validate.sh
-      - name: Post warnings as PR comment
-        if: always()
-        uses: actions/github-script@v6
-        with:
-          script: |
-            const fs = require('fs');
-            const output = fs.readFileSync('validation_results.md', 'utf8');
-            github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              body: output
-            });
-
