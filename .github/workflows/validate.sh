@@ -56,13 +56,10 @@ for file in mods/**/*.xml; do
         esac
     fi
 
-    # For debugging
-    echo "Original: $latest_version_link"
-
     # Check Mod.LatestVersion.PreviewImage
     preview_image=$(xmllint --xpath 'string(//Mod/LatestVersion/PreviewImage)' "$file")
     if [ -n "$preview_image" ]; then
-        curl --head --fail -H "Accept: image/*" "$preview_image" -A "Mozilla/5.0" --silent | grep "[cC]ontent-[tT]ype: image/*"
+        curl --output /dev/null --silent --head --fail -H "Accept: image/*" "$preview_image" -A "Mozilla/5.0"
         if [ $? -ne 0 ]; then
             warnings+=" - Verify Mod.PreviewImage failed: [preview image]($preview_image)\n"
         fi
@@ -100,19 +97,19 @@ for file in mods/**/*.xml; do
 
     # Append results to the output file
     if [ -n "$errors" ]; then
-        echo -e "#### Mod: $name 🔴\n" >>validation_results.md
+        echo -e "#### Mod: $name 🔴\n"
     elif [ -n "$warnings" ]; then
-        echo -e "#### Mod: $name 🟡\n" >>validation_results.md
+        echo -e "#### Mod: $name 🟡\n"
     else
-        echo -e "#### Mod: $name 🟢\n" >>validation_results.md
-        echo -e "No errors or warnings\n" >>validation_results.md
+        echo -e "#### Mod: $name 🟢\n"
+        echo -e "No errors or warnings\n"
     fi
 
     if [ -n "$errors" ]; then
-        echo -e "Errors:\n$errors\n" >>validation_results.md
+        echo -e "Errors:\n$errors\n"
     fi
     if [ -n "$warnings" ]; then
-        echo -e "Warnings:\n$warnings\n" >>validation_results.md
+        echo -e "Warnings:\n$warnings\n"
     fi
 done
 
