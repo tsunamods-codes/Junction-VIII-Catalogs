@@ -103,10 +103,10 @@ for file in mods/**/*.xml; do
     fi
 
     if [ -n "$errors" ]; then
-        echo -e "Errors:\n$errors\n"
+        echo -e "Errors:\n$errors"
     fi
     if [ -n "$warnings" ]; then
-        echo -e "Warnings:\n$warnings\n"
+        echo -e "Warnings:\n$warnings"
     fi
 done
 
