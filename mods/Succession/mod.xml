@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>bdd7d71d-8ffd-4aa5-93c1-bf5ae182ad66</ID>
+  <Name>Succession</Name>
+  <Author>Percival (ported by Hobbitdur)</Author>
+  <Category>Gameplay</Category>
+  <Description>I think it will be a shame if we won't be able to cry as we play our own games. - Nobuo Uematsu
+
+If you can create an HD remaster of the graphics, can you create an HD remaster of the story? 
+
+Yes, you can...and in honor of this game's 20th anniversary, that's exactly what I've done. </Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/succession.zip</Link>
+    <Version>1.10</Version>
+    <ReleaseDate>2025-05-21</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/succession_preview.png</PreviewImage>
+    <ReleaseNotes>
+    Release note:
+    - 1.10: First release on JunctionVIII
+    </ReleaseNotes>
+    <DownloadSize>1170</DownloadSize>
+  </LatestVersion>
+  <Link>https://forums.qhimm.com/index.php?topic=19184.0</Link>
+  <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
+    <Tags>
+    <string>succession</string>
+    <string>percival</string>
+    <string>story</string>
+    <string>gameplay</string>
+    <string>hobbit</string>
+    <string>hobbitdur</string>
+  </Tags>
+</Mod>
