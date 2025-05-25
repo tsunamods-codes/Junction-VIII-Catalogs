@@ -7,8 +7,8 @@
   <Description>Patch the english version of the game to one of those language: French, Spanish, German, Italian</Description>
   <LatestVersion>
     <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/ilp.zip</Link>
-      <Version>1.4</Version>
-      <ReleaseDate>2025-03-28</ReleaseDate>
+      <Version>1.5</Version>
+      <ReleaseDate>2025-05-25</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/preview_ilp.png</PreviewImage>
     <ReleaseNotes>
@@ -20,6 +20,7 @@ Release note:
   - 1.2: Fixing test seed having always NO as correct value. Adding disc change image in every language for 2000 version.
   - 1.3: Fix Italian mod and add card text + draw text translation (Thanks to @myst6re)
   - 1.4: Add world text (draw point, aubel,...) (Thanks to @myst6re) and fixing menu bug
+  - 1.5: Fix world map not loading monsters
 Known limitation:
   - Card game "You lose" and others not translated => Use Card-RF
   - Some UI not translated (like "Target" in battle), some specific graphic work to do => WIP
