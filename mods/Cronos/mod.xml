@@ -17,13 +17,26 @@
     - 255AP: Earn 255 AP after battle.
     - SaveAnywhere: Allow to save anywhere, but use at your own risk ! Select + Menu (triangle)
     
+  - Monster rework:
+    - G-Soldier
+    
   - Game fix:
     - BahamutRareItem: Now actually increase the probably of really rare item.
     - GerogeroUncensored: Use the japanese version without color change. 
     - NoUnequippedOnDream: Stop this madness of re-equipped everything on temporary characters !
+    - TrueRandomness: Use a real random generator.
+   
+  - DifficultyBalance:
+    - DamageFormulaUpdate: Change damage formula to have a smoother progression.
+    - LimitbreakNotRefreshable: Make it impossible to refresh to get your limit-break.
+    - JunctionDependOfLevel: Junction value is linked to level instead of the number of magic junctionned
+    - JunctionDependOfMinLevelQuantity: Junction value is the min between the level and the number of magic junctionned.
     
   - Little gameplay mod:
     - NoXP: Don't earn any XP at end of battle.
+    
+  - Dev setup:
+    - AddRandomVar: Allow modders to use random numbers in the AI.
     
   Special thanks to:
   - myst6re for Deling tool and RE work
@@ -31,13 +44,17 @@
   - Unicorngoulash for assembly editing
   - AxlRoses for the awesome preview
   - Maki for his work on RE
+  - Dulca for the monster preview
    
   Join the team or follow the news by clicking on the link ! Help me to continue this work participating to the Patreon page !
+  
+Dev note - This mod use the following cave code:
+0x45B38C, 0x4670DC, 0x462605, 0x4626F9
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/cronos.zip</Link>
-    <Version>0.3</Version>
-      <ReleaseDate>2025-03-28</ReleaseDate>
+    <Version>0.4</Version>
+      <ReleaseDate>2025-05-30</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/Cronos_Preview.png</PreviewImage>
   <ReleaseNotes>
@@ -47,6 +64,7 @@ Release note:
   - 0.2: Adding:
     255AP, SaveAnywhere, BahamutRareItem, GerogeroUncensored, NoUnequippedOnDream, NoXP
   - 0.3: Fixing SaveAnywhere
+  - 0.4: Adding DamageFormulaUpdate, LimitbreakNotRefreshable, JunctionDependOfLevel, JunctionDependOfMinLevelQuantity, TrueRandomness, G-Soldier
 </ReleaseNotes>
    <DownloadSize>1350</DownloadSize>
   </LatestVersion>
