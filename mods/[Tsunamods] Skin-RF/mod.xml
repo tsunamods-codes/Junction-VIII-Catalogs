@@ -5,15 +5,13 @@
   <Author>Dulca</Author>
   <Category>Battle Models</Category>
   <Description>
-Skin-RF is a graphical upgrade for battle and field models for playable characters.
+Skin-RF is a graphical upgrade for battle and field models for playable characters and soon NPCs and Field objects too.
 You'll find a variety of costumes to use in and out of combat.
 You can customize your team to your liking even more with options for weapons.
-Note : Appart from Squall's field models, other characters field models are a Work In Progress (WIP).
-       You'll need to activate them manually.
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/AxlRose/Dulca/Skin-RF.zip</Link>
-    <Version>1.0</Version>
+    <Version>1.1</Version>
     <ReleaseDate>2025-04-29</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/AxlRose/Dulca/Skin-RF_preview.png</PreviewImage>
