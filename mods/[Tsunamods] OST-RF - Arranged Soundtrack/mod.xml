@@ -6,38 +6,50 @@
   <Category>Media</Category>
   <Description>
 - OST-RF (Original Soundtrack Refinement)
-- The only complete reorchestration of the entire Final Fantasy VIII score.
-Done by 1 person, in the same studio for a consistent and immersive experience.
+- The only complete reorchestration of the entire Final Fantasy VIII score. 
+Mixed by 1 person, in the same studio for a consistent and immersive experience.
+Now with Violins by XuJumica and Guitars by Domigit
+Suggested Volume - 60
 - Suggested Volume - 60
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$download.tsunamods.com/?id=18</Link>
-    <Version>1.1</Version>
+    <Version>1.2</Version>
     <ReleaseDate>2024-08-08</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d5dmR6ZXV3ZGJhYjZ4amRhYnZzMDJjZ2hibzZ3ejZvbDFicGNzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0OVhOUGwDL4hU7Hjmi/giphy.gif</PreviewImage>
     <ReleaseNotes>
-- Blue Sky - Refined Mix
-- Don't Be Afraid - Refined Mix
-- The Other Winner - Alternate victory music added for Laguna battles
-- Force Your Way - Refined Mix
-- The Landing - Refined Mix
-- The Landing (No Intro) - Refined Mix
-- Okeda ke Chocobo - Looping issue fixes
-- Premonition - Refined Mix
-- Succession of Witches - Refined Mix
-- Tell me - Refined Mix
-- The Mission - Refined Mix
-- The Oath - Refined Mix
+Updated songs for Version 1.2:
+- Under Her Control
+- Don't Be Afraid - Guitars by Domigit
+- Balamb Garden
+- The Oath
+- Blue Fields
+- The Landing
+- The Stage is Set
+- SeeD
+- The Legendary Beast
+- Find your way
+- The Man With The Machine Gun
+- A Sacrifice
+- Compression of Time
+- Ami
+- Timber Owls
+- Love Grows
+- Only a Plank Between One and Perdition
+- Force your Way - Live Violins by XuJumica
+- Fisherman's Horizon
+- Waltz for the Moon - Live Violins by XuJumica
+- Main menu music now added!
     </ReleaseNotes>
-    <DownloadSize>714188</DownloadSize>
+    <DownloadSize>749204</DownloadSize>
   </LatestVersion>
   <Link>https://www.twitch.tv/mikedoesaudio</Link>
   <DonationLink>https://www.paypal.com/donate/?hosted_button_id=5F67WXE5VV9W2</DonationLink>
   <Tags>
     <string>mikedoesautio</string>
     <string>tsunamods</string>
-    <string>ost</string>
+    <string>music</string>
     <string>sound</string>
   </Tags>
 </Mod>
