@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>e1e99f25-154b-4c7d-a38e-151c65febf49</ID>
+  <Author>Tsunamods</Author>
+  <Link>https://github.com/tsunamods-codes/the-debug-room</Link>
+  <LatestVersion>
+    <Link>iroj://Url/https$github.com/tsunamods-codes/the-debug-room/releases/download/0.1.0/TheDebugRoom-v0.1.0.0.iroj</Link>
+    <Version>0.100</Version>
+    <ReleaseDate>2025-07-22</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage></PreviewImage>
+    <ReleaseNotes/>
+    <DownloadSize>516</DownloadSize>
+  </LatestVersion>
+  <Name>[Tsunamods] The Debug Room</Name>
+  <Category>Gameplay</Category>
+  <Description>
+    A Debug room mod for modders needing to test core engine functionalities.
+    Thanks to Myst6re for the original work on this part and for allowing this mod to exist.
+
+    See the mod link for more information.
+  </Description>
+  <Tags></Tags>
+</Mod>
