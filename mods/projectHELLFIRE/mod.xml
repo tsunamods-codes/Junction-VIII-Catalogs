@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>b06ca48b-fd3a-453b-b6f6-6d3efeacc7d4</ID>
+  <Name>ProjectHELLFIRE Plus</Name>
+  <Category>Unknown</Category>
+  <Author>MCINDUS + Slimebucket</Author>
+  <Version>1.3</Version>
+  <Description>Project Hellfire - GF Texture replacement mod.
+
+Original mod created by MCINDUS
+ffnx conversion and extra textures by Slimebucket</Description>
+  <ReleaseNotes>special thanks to MCINDUS for creating ProjectHELLFIRE</ReleaseNotes>
+  <ReleaseDate>2025-08-13T11:53:20.3991214-07:00</ReleaseDate>
+  <Link>https://drive.google.com/file/d/1sZFJcOczd4KMcrUYHl36Y8aVrM0T8NP-/view?usp=sharing</Link>
+  <DonationLink />
+  <FFNxConfig />
+  <Variables />
+</ModInfo>
