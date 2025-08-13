@@ -1,5 +1,6 @@
 --------------------------------------
-Project Hellfire 1.2 port for FFNX - V1
+project HELLFIRE Plus
+Project Hellfire 1.2 port for FFNX - 
 --------------------------------------
 This mod is a AI upscale, plus manually edited hi res texture swap for all GF's in the game.
 Files are in .dds format and should have minimal preformance hit.
