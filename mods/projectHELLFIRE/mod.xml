@@ -4,7 +4,7 @@
     <Name>ProjectHELLFIRE Plus</Name>
     <Author>MCINDUS + Slimebucket</Author>
     <Category>Battle Textures</Category>
-    <Description>>Project Hellfire - GF Texture replacement mod.
+    <Description>Project Hellfire - GF Texture replacement mod.
 
 Original mod created by MCINDUS
 ffnx conversion and extra textures by Slimebucket</Description>
@@ -29,5 +29,6 @@ ffnx conversion and extra textures by Slimebucket</Description>
       <string>slimebucket</string>
     </Tags>
   </Mod>
+
 
 
