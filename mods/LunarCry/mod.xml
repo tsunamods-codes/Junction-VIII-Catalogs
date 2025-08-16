@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Mod>
+    <ID>dc5d5857-1128-45a9-85cb-6cde1fe88271</ID>
+    <Name>Lunar Cry Plus (Enemy Textures)</Name>
+    <Author>MCINDUS + Nameless27 + Slimebucket</Author>
+    <Category>Battle Textures</Category>
+    <Description>Lunar Cry - Enemy Texture replacement mod.
+
+Original mod created by MCINDUS
+ffnx conversion by Nameless27
+Junction8 Conversion by Slimebucket</Description>
+    <LatestVersion>
+      <Link>iroj://GDrive/1Snhrwk2sGP1iRWIxJYQ3j99wzFFd34-Q</Link>
+      <Version>1</Version>
+      <ReleaseDate>2025-08-10</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/BVFDGVmT/preview.png</PreviewImage>
+      <ReleaseNotes>
+        First Release
+      </ReleaseNotes>
+      <DownloadSize>75424</DownloadSize>
+    </LatestVersion>
+    <Link></Link>
+    <DonationLink></DonationLink>
+    <Tags>
+      <string>Battle</string>
+      <string>Textures</string>
+      <string>Enemy</string>
+      <string>MCINDUS</string>
+      <string>Nameless27</string>
+      <string>slimebucket</string>
+    </Tags>
+  </Mod>

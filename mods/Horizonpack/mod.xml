@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Mod>
+    <ID>32c3f785-29e1-41e7-8c9d-b46de5fbad4e</ID>
+    <Name>Horizon Pack (World Textures)</Name>
+    <Author>MCINDUS + Nameless27 + Slimebucket</Author>
+    <Category>World Textures</Category>
+    <Description>Horizon Pack Plus - World Texture replacement mod.
+  
+  - Towns and world textures re-created using ESRGAN + Gigapixel AI
+
+Original mod created by MCINDUS + FatedCourage
+ffnx conversion to ffnx Nameless27
+ extra work and junction8 conversion by Slimebucket</Description>
+    <LatestVersion>
+      <Link>iroj://GDrive/13zeKDYA464VP3KnylT1hQIZPTD_9729R</Link>
+      <Version>1</Version>
+      <ReleaseDate>2025-08-11</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/dvrp4BW/preview.png</PreviewImage>
+      <ReleaseNotes>
+        First Release
+      </ReleaseNotes>
+      <DownloadSize>60376</DownloadSize>
+    </LatestVersion>
+    <Link></Link>
+    <DonationLink></DonationLink>
+    <Tags>
+      <string>world</string>
+      <string>Textures</string>
+      <string>Nameless27</string>
+      <string>MCINDUS</string>
+      <string>slimebucket</string>
+    </Tags>
+  </Mod>
