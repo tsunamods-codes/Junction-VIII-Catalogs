@@ -10,12 +10,12 @@ Original mod created by MCINDUS
 ffnx conversion and extra textures by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://GDrive/1voln9Aoed-aOAEeE-AATGq6CtFrP6wLv</Link>
-      <Version>1.40</Version>
+      <Version>1.4</Version>
       <ReleaseDate>2025-08-09</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.postimg.cc/8zj75wTK/b2.png</PreviewImage>
       <ReleaseNotes>
-        v1 40 - shiva ifrit odin doomtrain fix
+        v1 4 - shiva ifrit odin doomtrain fix
       </ReleaseNotes>
       <DownloadSize>180734</DownloadSize>
     </LatestVersion>
@@ -29,6 +29,7 @@ ffnx conversion and extra textures by Slimebucket</Description>
       <string>slimebucket</string>
     </Tags>
   </Mod>
+
 
 
 
