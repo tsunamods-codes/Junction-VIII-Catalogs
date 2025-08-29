@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Mod>
+    <ID>d69e52eb-862b-4021-ade2-3c2d0ab92476</ID>
+    <Name>Tripod Plus (Card Textures)</Name>
+    <Author>MCINDUS + Nameless27 + Slimebucket</Author>
+    <Category>Gameplay</Category>
+    <Description>Tripod Plus - Card texture replacement mod.
+
+Original mod created by MCINDUS
+ffnx conversion Nameless27, Junction8 work by Slimebucket</Description>
+    <LatestVersion>
+      <Link>iroj://Url/https$www.gp-mc.net/mcindus/tripod.7z</Link>
+      <Version>1.0</Version>
+      <ReleaseDate>2025-08-09</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.postimg.cc/8zj75wTK/b2.png</PreviewImage>
+      <ReleaseNotes>
+        v1 main release, probably only release
+      </ReleaseNotes>
+      <DownloadSize>24210</DownloadSize>
+    </LatestVersion>
+    <Link></Link>
+    <DonationLink></DonationLink>
+    <Tags>
+      <string>card</string>
+      <string>cards</string>
+      <string>MCINDUS</string>
+      <string>slimebucket</string>
+    </Tags>
+  </Mod>
