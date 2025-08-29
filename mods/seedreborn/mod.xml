@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Mod>
+    <ID>46866fd5-ce34-43f7-b304-a421a9044f93</ID>
+    <Name>SeeDReborn Plus (User Interface)</Name>
+    <Author>MCINDUS + Slimebucket</Author>
+    <Category>User Interface</Category>
+    <Description>SeedReborn - User Interface replacement mod.
+
+      Replaces UI, and has options to replace cursor and main title screen
+      
+Original mod created by MCINDUS
+ffnx conversion by Slimebucket</Description>
+    <LatestVersion>
+      <Link>iroj://Url/https$www.gp-mc.net/mcindus/seedreborn.7z</Link>
+      <Version>1.0</Version>
+      <ReleaseDate>2025-08-29</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/qYLVtCGj/preview.png</PreviewImage>
+      <ReleaseNotes>
+        first release
+      </ReleaseNotes>
+      <DownloadSize>36500</DownloadSize>
+    </LatestVersion>
+    <Link></Link>
+    <DonationLink></DonationLink>
+    <Tags>
+      <string>User</string>
+      <string>UI</string>
+      <string>interface</string>
+      <string>UserInterface</string>
+      <string>MCINDUS</string>
+      <string>slimebucket</string>
+    </Tags>
+  </Mod>
