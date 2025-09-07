@@ -6,20 +6,22 @@
     <Category>Battle Textures</Category>
     <Description>Lunar Cry - Enemy Texture replacement mod.
 
-Version 2 - I reconverted images to dds using a better method. Images should be clearer, and less issues with transparencies.
+    - Alternate Ifrit Added
+    - I reconverted images to dds using a better method. Images should be clearer, and less issues with transparencies.
+        
 Original mod created by MCINDUS
 ffnx conversion by Nameless27
 Junction8 Conversion by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/lunarcry.7z</Link>
-      <Version>2.0</Version>
+      <Version>2.1</Version>
       <ReleaseDate>2025-08-10</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/BVFDGVmT/preview.png</PreviewImage>
       <ReleaseNotes>
-        second release - dds fix
+        second release - dds fix - alternate ifrit added 
       </ReleaseNotes>
-      <DownloadSize>30534</DownloadSize>
+      <DownloadSize>34698</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
