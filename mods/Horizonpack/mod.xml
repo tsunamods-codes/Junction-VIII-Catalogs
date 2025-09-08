@@ -5,22 +5,25 @@
     <Author>MCINDUS + Nameless27 + Slimebucket</Author>
     <Category>World Textures</Category>
     <Description>Horizon Pack Plus - World Texture replacement mod.
-  
+  - New map Options Added!
+
+  - Feild Model textures added!
+        
   - Towns and world textures re-created using ESRGAN + Gigapixel AI
 
-Original mod created by MCINDUS + FatedCourage
+Original mod Horizonpack v1.0 created by MCINDUS + FatedCourage
 ffnx conversion to ffnx Nameless27
  extra work and junction8 conversion by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/horizonpack.7z</Link>
-      <Version>2.0</Version>
+      <Version>2.1</Version>
       <ReleaseDate>2025-08-31</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/dvrp4BW/preview.png</PreviewImage>
       <ReleaseNotes>
-        version 2. DDS fix
+        version 2 adds map and field model options
       </ReleaseNotes>
-      <DownloadSize>22228</DownloadSize>
+      <DownloadSize>14630</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
