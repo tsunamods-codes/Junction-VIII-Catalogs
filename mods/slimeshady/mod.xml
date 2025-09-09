@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Mod>
+    <ID>99f32272-bced-462d-893b-f238134c1fff</ID>
+    <Name>Slime Shady (Reshader Pack)</Name>
+    <Author>Slimebucket</Author>
+    <Category>ReShade Shaders</Category>
+    <Description>A ReShade mod by slimebucket. Brighter colors, sharpening and a CRT mode as well.
+  
+    - Uses: Colorness,  BIAA, DenoiseR, Surfacesharpen, CRTLottes2</Description>
+    <LatestVersion>
+      <Link>iroj://GDrive/15vbTm4EKCrH728fBv9GFtXKRakFbnPIG</Link>
+      <Version>1.0</Version>
+      <ReleaseDate>2025-09-10</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/pBNywM7s/preview.png</PreviewImage>
+      <ReleaseNotes>
+        first release! 
+      </ReleaseNotes>
+      <DownloadSize>22726</DownloadSize>
+    </LatestVersion>
+    <Link></Link>
+    <DonationLink></DonationLink>
+    <Tags>
+      <string>slimeshady</string>
+      <string>reshade</string>
+      <string>Enemy</string>
+      <string>CRT</string>
+      <string>shaders</string>
+      <string>slimebucket</string>
+    </Tags>
+  </Mod>
