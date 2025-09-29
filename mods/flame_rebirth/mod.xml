@@ -1,1 +1,34 @@
-
+<?xml version="1.0"?>
+<Mod>
+    <ID>4af1cfda-a597-420e-bfbb-28d7d9091033</ID>
+    <Name>Flame Rebirth Plus (Character Textures)</Name>
+    <Author>Fated Courage + Slimebucket</Author>
+    <Category>Field Textures</Category>
+    <Description>	Rebirth Flame 1.3 Plus
+	
+		Replaces playable character textures. 8x size of orignal textures ~ 1024x1024
+	
+		Includes main texture pack, and both Mago and Devina version of Squall, Rinoa and Quistis.
+    
+    Original mod by Fated Courage
+    J8 port, and extra texture work, eye fix by Slimebucket</Description>
+    <LatestVersion>
+      <Link>iroj://GDrive/1RI15rRpvizWiESpRn4eUp1jbDVBk-Tvg</Link>
+      <Version>1.3</Version>
+      <ReleaseDate>2025-08-28</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/0RrfnK9Y/preview.png</PreviewImage>
+      <ReleaseNotes>
+        v1 3 - First release
+      </ReleaseNotes>
+      <DownloadSize>71947</DownloadSize>
+    </LatestVersion>
+    <Link></Link>
+    <DonationLink></DonationLink>
+    <Tags>
+      <string>Character</string>
+      <string>Textures</string>
+      <string>FatedCourage</string>
+      <string>slimebucket</string>
+    </Tags>
+  </Mod>
