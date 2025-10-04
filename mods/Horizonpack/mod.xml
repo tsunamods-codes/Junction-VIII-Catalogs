@@ -7,7 +7,7 @@
     <Description>Horizon Pack Plus - World Texture replacement mod.
   - New map Options Added!
 
-  - Feild Model textures added!
+  - Field Model textures added! -these where broken! fixed in 2.2!
         
   - Towns and world textures re-created using ESRGAN + Gigapixel AI
 
@@ -16,11 +16,12 @@ ffnx conversion to ffnx Nameless27
  extra work and junction8 conversion by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/horizonpack.7z</Link>
-      <Version>2.1</Version>
-      <ReleaseDate>2025-08-31</ReleaseDate>
+      <Version>2.2</Version>
+      <ReleaseDate>2025-10-03</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/dvrp4BW/preview.png</PreviewImage>
       <ReleaseNotes>
+        version 2.2 fixes field model option!
         version 2 adds map and field model options
       </ReleaseNotes>
       <DownloadSize>14630</DownloadSize>
