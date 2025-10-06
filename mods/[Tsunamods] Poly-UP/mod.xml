@@ -10,12 +10,18 @@
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/poly_up.7z</Link>
-    <Version>3.0</Version>
-    <ReleaseDate>2025-09-29</ReleaseDate>
+    <Version>3.1</Version>
+    <ReleaseDate>2025-10-06</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.ibb.co/5FFTx1Z/preview.png</PreviewImage>
-    <ReleaseNotes>   
-Version 3: 
+    <ReleaseNotes>
+ Version 3.1
+- preview pics added to config menu for main characters
+- Fixed texture issue with UNIFORMED Quistis. No more PUMPKIN QUEEN
+- Fixed MORE eyes on many characters
+- fixed a few of textures sized wrong
+  
+Version 3.0: 
 - Low Poly textures removed, new mod made for those called Flame Rebirth Plus.
 - Eye fix 2.0 is here! random artifacts from eyes has been fixed
 - Many textures have been replaced. The textures where a mix of both Mago and Devina edits, replaced all Devina textures to MAGO ones to make everything uniform and the same
@@ -28,7 +34,7 @@ Version 2.5:
 
 WARNING - HighPoly Mode WILL CRASH THE GAME on any scene that has more then 3 high poly characters on it.
    </ReleaseNotes>
-    <DownloadSize>42118</DownloadSize>
+    <DownloadSize>50899</DownloadSize>
   </LatestVersion>
   <Link></Link>
   <DonationLink>https://www.paypal.com/donate/?business=T4VCT9B4ZXECJ&amp;no_recurring=0&amp;item_name=Modding+the+great+and+awsome+game+FF8&amp;currency_code=GBP</DonationLink>
