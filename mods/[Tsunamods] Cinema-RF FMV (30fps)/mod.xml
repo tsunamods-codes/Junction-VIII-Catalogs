@@ -5,26 +5,28 @@
   <Author>AxlRose</Author>
   <Category>Media</Category>
   <Description>
-Cinema-RF replaces the FMV's in Final Fantasy 8 with new, 
+Cinema-RF replaces the FMV&apos;s in Final Fantasy 8 with new, 
 30FPS, AI enhanced with countless hours of manual tweaking 
 to keep them as close to the original as possible. 
 
 With twice the resolution of the originals, and integrated 
 high quality music from the original PSX, this FMV pack 
-makes the FMV's look the way we thought they looked all those 
+makes the FMV&apos;s look the way we thought they looked all those 
 years ago.
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$download.tsunamods.com/?id=14</Link>
-    <Version>2024.1121</Version>
+    <Version>2025.1021</Version>
     <ReleaseDate>2024-10-20</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://www.gp-mc.net/ff8/tsunamods/logov_small.png</PreviewImage>
     <ReleaseNotes>
-Version 2024.1121:
-- Initial release version
+Version 2025.1021:
+
+- Fix loading ending FMV (disc03_05h.avi) for FF8 Steam 2013
+- FF8 PC 2000 not affected
     </ReleaseNotes>
-    <DownloadSize>3326430</DownloadSize>
+    <DownloadSize>3456418</DownloadSize>
   </LatestVersion>
   <Link>https://discord.com/invite/7Rsvsewghz</Link>
   <DonationLink>https://www.paypal.com/donate/?hosted_button_id=FTA38UUZJ5QAN</DonationLink>
