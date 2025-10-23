@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>4d519a3a-5b40-4f20-aaa3-8d7126b8470d</ID>
+  <Name>Magic Mirror - Cinema-RF Add-on (30fps)</Name>
+  <Author>Kris2per + AxlRose</Author>
+  <Category>Media</Category>
+  <Description>
+Magic Mirror focuses heavily on enhancing the faces and the eyes of main characters of FF8.
+
+    &#8226; All the images are enhance using stable diffusion. 
+    &#8226; Intro is slightly enhance visually. 
+    &#8226; Other than the intro, most of the enhancements are mainly focused on the faces and the eyes.
+    &#8226; The faces are closely resembling the character portrait. 
+    &#8226; Videos are sourced mainly on the PSX videos, but also incorporated a rare video from the PSX demo.
+    &#8226; Videos have been interpolated to 30fps, thanks to AxlRose.
+  </Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$gp-mc.net/kris2per/magic_mirror.iroj</Link>
+    <Version>2025.1022</Version>
+    <ReleaseDate>2025-10-22</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://www.gp-mc.net/kris2per/magic_mirror.png</PreviewImage>
+    <ReleaseNotes>
+Version 2025.1022:
+  &#8226; Initial release version
+    </ReleaseNotes>
+    <DownloadSize>2007848</DownloadSize>
+  </LatestVersion>
+  <Link>https://discord.com/invite/7Rsvsewghz</Link>
+  <DonationLink />
+  <Tags>
+    <string>kris2per</string>
+    <string>axlrose</string>
+    <string>tsunamods</string>
+    <string>addon</string>
+    <string>fmvs</string>
+    <string>movies</string>
+    <string>30fps</string>
+    <string>ai</string>
+  </Tags>
+</Mod>
