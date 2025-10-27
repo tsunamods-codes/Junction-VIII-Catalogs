@@ -6,21 +6,24 @@
     <Category>Field Textures</Category>
     <Description>Battlefield Pack Plus- Battlefield Texture replacement mod.
   
-  Upscales all battlefield backgrounds.
+  Upscales all battlefield backgrounds. 
+
+        version 1.2 now live. Fixes many random issues and bugs. 
 
 Original mod Battlefieldpack v3.1 created by MCINDUS + FatedCourage
 ffnx conversion to ffnx G-Nite
  extra work and junction8 conversion by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/battlefieldpack.7z</Link>
-      <Version>1.1</Version>
-      <ReleaseDate>2025-08-12</ReleaseDate>
+      <Version>1.2</Version>
+      <ReleaseDate>2025-08-27</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/ynY7ZCQC/preview.png</PreviewImage>
       <ReleaseNotes>
         First Release - minor fix1
+                      -minor fix2
       </ReleaseNotes>
-      <DownloadSize>579765</DownloadSize>
+      <DownloadSize>335795</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
