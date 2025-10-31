@@ -5,6 +5,8 @@
     <Author>MCINDUS + Nameless27 + Slimebucket</Author>
     <Category>World Textures</Category>
     <Description>Horizon Pack Plus - World Texture replacement mod.
+  - Version 2.3 now out! Fatal crash fixed!
+        
   - New map Options Added!
 
   - Field Model textures added! -these where broken! fixed in 2.2!
@@ -16,15 +18,16 @@ ffnx conversion to ffnx Nameless27
  extra work and junction8 conversion by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/horizonpack.7z</Link>
-      <Version>2.2</Version>
-      <ReleaseDate>2025-10-03</ReleaseDate>
+      <Version>2.3</Version>
+      <ReleaseDate>2025-10-31</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/dvrp4BW/preview.png</PreviewImage>
       <ReleaseNotes>
-        version 2.2 fixes field model option!
-        version 2 adds map and field model options
+        version 2.3 - fatal crash fixed!
+        version 2.2 - fixes field model option!
+        version 2.0 - adds map and field model options
       </ReleaseNotes>
-      <DownloadSize>14630</DownloadSize>
+      <DownloadSize>15450</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
