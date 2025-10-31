@@ -14,16 +14,17 @@ ffnx conversion by Nameless27
 Junction8 Conversion by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/lunarcry.7z</Link>
-      <Version>3.0</Version>
-      <ReleaseDate>2025-10-27</ReleaseDate>
+      <Version>3.1</Version>
+      <ReleaseDate>2025-10-31</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/BVFDGVmT/preview.png</PreviewImage>
       <ReleaseNotes>
-        Version 3 - Many fixes to broken textures
-                  - Alternate Bahamut and Brothers added
-        Version 2 - dds fix - alternate ifrit added 
+        Version 3.1 - Fatal crash fixed!
+        Version 3.0 - Many fixes to broken textures
+                    - Alternate Bahamut and Brothers added
+        Version 2.0 - dds fix - alternate ifrit added 
       </ReleaseNotes>
-      <DownloadSize>278685</DownloadSize>
+      <DownloadSize>276233</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
