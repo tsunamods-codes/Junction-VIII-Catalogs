@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Mod>
+    <ID>99f32272-bced-462d-893b-f238134c1fff</ID>
+    <Name>SlimeSHADY (Shader Pack + Misc Textures )</Name>
+    <Author>Slimebucket</Author>
+    <Category>Reshade Shaders</Category>
+    <Description>A ReShade mod by slimebucket. Brighter colors
+  
+    - Uses: Colorness,  Vibrance
+	
+	Misc Texture replacement pack has many misc textures for objects and NPC's that are not in any other mod.
+	The NPC's this mod replaces only will work during story. The way NPC textures work,
+	you need  different texture sheet for every combination of party you can have, making some NPC's need
+	like 32 duplicates of the the same texture. This mod doesnt do that. 
+	It upscales NPC's during the story, where your party is locked and forced to be certian members.
+	So during story moments the NPC's will be upscaled, but if you go back to those NPC's later On
+	in the game, chances are, they will no longer look upscaled.</Description>
+    <LatestVersion>
+      <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/slimeshady.7z</Link>
+      <Version>1.0</Version>
+      <ReleaseDate>2025-11-1</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/1JhZ4Pnm/preview.png</PreviewImage>
+      <ReleaseNotes>-Version 1 - First Release!
+      </ReleaseNotes>
+      <DownloadSize>22464</DownloadSize>
+    </LatestVersion>
+    <Link></Link>
+    <DonationLink></DonationLink>
+    <Tags>
+      <string>texture</string>
+      <string>vibrance</string>
+      <string>color</string>
+      <string>shader</string>
+      <string>slimebucket</string>
+    </Tags>
+  </Mod>
