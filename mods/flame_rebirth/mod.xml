@@ -14,16 +14,17 @@
     J8 port, and extra texture work, eye fix by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/flame_rebirth_plus.7z</Link>
-      <Version>1.5</Version>
-      <ReleaseDate>2025-10-06</ReleaseDate>
+      <Version>1.6</Version>
+      <ReleaseDate>2025-11-01</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
-      <PreviewImage>https://i.ibb.co/0RrfnK9Y/preview.png</PreviewImage>
+      <PreviewImage>https://i.ibb.co/NnSQnyY6/preview.png</PreviewImage>
       <ReleaseNotes>
+		v1.6 - minor fixes
 		v1.5 - More eye fixes, Rinoa, Squall and Laguna
 		v1.4 - Many texture fixes, more eye fixes
         v1.3 - First release
       </ReleaseNotes>
-      <DownloadSize>69171</DownloadSize>
+      <DownloadSize>51205</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
