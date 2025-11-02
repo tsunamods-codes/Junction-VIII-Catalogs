@@ -10,11 +10,13 @@
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/poly_up.7z</Link>
-    <Version>3.1</Version>
-    <ReleaseDate>2025-10-06</ReleaseDate>
+    <Version>3.2</Version>
+    <ReleaseDate>2025-11-01</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.ibb.co/5FFTx1Z/preview.png</PreviewImage>
     <ReleaseNotes>
+ Version 3.2
+- minor fixes to Squall and Laguna.
  Version 3.1
 - preview pics added to config menu for main characters
 - Fixed texture issue with UNIFORMED Quistis. No more PUMPKIN QUEEN
