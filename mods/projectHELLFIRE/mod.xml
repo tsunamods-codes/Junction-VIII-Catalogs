@@ -5,23 +5,24 @@
     <Author>MCINDUS + Slimebucket</Author>
     <Category>Battle Textures</Category>
     <Description>Project Hellfire - GF Texture replacement mod.
-Version 2.0 now live! Alternate Bahamut and Brothers added
-Many textures upscaled from 512x512 to 1024x1024!
-Diabolos Replaced
+Version 2.5 now live! Anohter Alternate Bahamut added
+        
 Original mod created by MCINDUS
 ffnx conversion and extra textures by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/ph.7z</Link>
-      <Version>2.0</Version>
-      <ReleaseDate>2025-10-27</ReleaseDate>
+      <Version>2.5</Version>
+      <ReleaseDate>2025-11-02</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
-      <PreviewImage>https://i.ibb.co/1JhZ4Pnm/preview.png</PreviewImage>
+      <PreviewImage>https://i.ibb.co/RGc54Hrt/preview.png</PreviewImage>
       <ReleaseNotes>
-        v2 - upscaled textures from 512x512 to 1024x1024
+        Version 2.5 - Another Alternate Bahamut added!
+        Version 2 - upscaled textures from 512x512 to 1024x1024
            - Alternate bahamut and Brothers added
-        v1 5 - alternate Ifrit Added
+        Version 1 5 - alternate Ifrit Added
+        Version 1.0 Straight conversion from Tonberry Mod
       </ReleaseNotes>
-      <DownloadSize>63086</DownloadSize>
+      <DownloadSize>66768</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
