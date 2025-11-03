@@ -4,7 +4,7 @@
     <Name>Rebirth Flame Plus (Character Textures)</Name>
     <Author>Fated Courage + Slimebucket</Author>
     <Category>Field Textures</Category>
-    <Description> Rebirth Flame Plus
+    <Description>Rebirth Flame Plus
 	
 		Replaces playable character textures. 8x size of orignal textures ~ 1024x1024
 	
@@ -14,17 +14,18 @@
     J8 port, and extra texture work, eye fix by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/flame_rebirth_plus.7z</Link>
-      <Version>1.6</Version>
-      <ReleaseDate>2025-11-01</ReleaseDate>
+      <Version>1.7</Version>
+      <ReleaseDate>2025-11-02</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/NnSQnyY6/preview.png</PreviewImage>
       <ReleaseNotes>
-		v1.6 - minor fixes
+		v1.7 - minor fixes - Quistis
+		v1.6 - minor fixes - RInoa Selphie
 		v1.5 - More eye fixes, Rinoa, Squall and Laguna
 		v1.4 - Many texture fixes, more eye fixes
         v1.3 - First release
       </ReleaseNotes>
-      <DownloadSize>51205</DownloadSize>
+      <DownloadSize>70144</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
