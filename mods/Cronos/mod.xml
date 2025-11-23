@@ -3,70 +3,98 @@
   <Name>Cronos WIP</Name>
   <Author>Hobbitdur &amp; Cronos Team</Author>
   <Category>Gameplay</Category>
-  <Description>
-  The most ambitious gameplay mod.
-  This mod will be the reference in gameplay. It will offer many option to enjoy the game.
-  Thus, everyone will find his way of playing: No XP, balanced mod, nightmare mod, ...
-  It provides also simple change for everyone that just want specific change on their vanilla game.
-  With this mod you can make the following modification:
-  
-  - Quality of life:
-    - MaximumDraw: With this activate, you will draw 100 everytime you succeed a draw.
-    - DamageCap: All damage can deal up to 65.535 (Eden damage is also cap to 65.535).
-    - NoMagicDepletion: Using magic doesn't decrease your stock.
-    - 255AP: Earn 255 AP after battle.
-    - SaveAnywhere: Allow to save anywhere, but use at your own risk ! Select + Menu (triangle)
-    
-  - Monster rework:
-    - G-Soldier
-    
-  - Game fix:
-    - BahamutRareItem: Now actually increase the probably of really rare item.
-    - GerogeroUncensored: Use the japanese version without color change. 
-    - NoUnequippedOnDream: Stop this madness of re-equipped everything on temporary characters !
-    - TrueRandomness: Use a real random generator.
-   
-  - DifficultyBalance:
-    - DamageFormulaUpdate: Change damage formula to have a smoother progression.
-    - LimitbreakNotRefreshable: Make it impossible to refresh to get your limit-break.
-    - JunctionDependOfLevel: Junction value is linked to level instead of the number of magic junctionned
-    - JunctionDependOfMinLevelQuantity: Junction value is the min between the level and the number of magic junctionned.
-    
-  - Little gameplay mod:
-    - NoXP: Don't earn any XP at end of battle.
-    
-  - Dev setup:
-    - AddRandomVar: Allow modders to use random numbers in the AI.
-    
-  Special thanks to:
-  - myst6re for Deling tool and RE work
-  - Nihil for AI researches
-  - Unicorngoulash for assembly editing
-  - AxlRoses for the awesome preview
-  - Maki for his work on RE
-  - Dulca for the monster preview
-   
-  Join the team or follow the news by clicking on the link ! Help me to continue this work participating to the Patreon page !
-  
-Dev note - This mod use the following cave code:
-0x45B38C, 0x4670DC, 0x462605, 0x4626F9
-  </Description>
+ <Description>
+            &#9658; The most ambitious gameplay mod &#9668;
+
+This mod will be the reference in gameplay. It will offer many option to enjoy the game.
+Thus, everyone will find his way of playing: No XP, balanced mod, nightmare mod, ...
+It provides also simple change for everyone that just want specific change on their vanilla game.
+With this mod you can make the following modification:
+
+    &#9670; General option &#9670;
+        &#8226; Language: For the moment only English works, except for gerogero uncensored.
+
+    &#9670; Monster rework (Until Ifrit) &#9670;
+        &#8226; MonsterRework: Stat rework (Mathematical improved formula and stat change) + AI rework
+
+    &#9670; Cronos Rework &#9670;
+        &#8226; EncountersRework: Change all encounters in the game
+        &#8226; FieldRework: Change fields data like dialog, quest, save point position,..
+        &#8226; MngrpRework: GF refine abilities
+        &#8226; ShopRework: Shop rework
+        &#8226; StartData: The data you start with
+        &#8226; DrawPoint: The draw point magic/quantity
+        &#8226; KernelRework: Change magic/item/weapon/abilities/monster attack/...
+        &#8226; WIP: For testers
+
+    &#9670; Game fix &#9670;
+        &#8226; BahamutRareItem: Now actually increase the probability of really rare item.
+        &#8226; GerogeroUncensoredMenu: Use the japanese version without color change.
+        &#8226; GerogeroUncensoredBattle: Use the japanese version without color change.
+        &#8226; NoUnequippedOnDream: Stop this madness of re-equipped everything on temporary characters !
+        &#8226; TrueRandomness: Use a real random generator.
+        &#8226; SquallComputeHit: Make squall fail sometimes !
+
+    &#9670; Quality of life &#9670;
+        &#8226; DamageCap: All damage can deal up to 65.535 (Eden damage is also cap to 65.535).
+        &#8226; NoMagicDepletion: Using magic doesn't decrease your stock.
+        &#8226; 255AP: Earn 255 AP after battle.
+        &#8226; SaveAnywhere: To be able to save in field. Use at your own risk !
+
+    &#9670; Little gameplay mod &#9670;
+        &#8226; NoXP: Don't earn any XP at end of battle.
+        &#8226; TripleTryhard: Card values changed for a challenge. => To be tested
+        &#8226; QueenForest: Queen of cards and Chocobo forest updated to be more convenient => To be tested
+
+    &#9670; DifficultyBalance &#9670;
+        &#8226; LimitbreakNotRefreshable: Make it impossible to refresh to get your limit-break.
+        &#8226; NoGfHeal: No free heal on GF on hotel or by walking?
+        &#8226; DamageFormulaUpdate: Change damage formula to have a smoother progression. Don't divide magic monster damage by 2.
+        &#8226; JunctionRework: Junction value is linked to level or min between the level and the number of magic junctionned.
+        &#8226; DrawRework: Change the draw logic(Either draw more than 9 or draw 100)
+        &#8226; 255HitCanFail: Make that weapon can fail even at 255%.
+
+    &#9670; Dev setup &#9670;
+        &#8226; AddRandomVar: Allow modders to use random numbers in the AI.
+
+    &#9670; Special thanks &#9670;
+        &#8226; myst6re for Deling tool and RE work
+        &#8226; Nihil for AI, stat, encounter rework
+        &#8226; Malekith for stat rework
+        &#8226; Unicorngoulash for LimitBreakNotRefreshable
+        &#8226; AxlRoses for the awesome preview
+        &#8226; Maki for his work on RE
+        &#8226; Dulca for TripleTryHard and QueenForest
+        &#8226; Dangerous Dom for beta testing
+
+        Join the team or follow the news by clicking on the link ! Help me to continue this work participating in the Patreon page !
+
+        Dev note - This mod use the following cave code:
+        0x45B38C, 0x4670DC, 0x462605, 0x4626F9, 0x463090
+    </Description>
   <LatestVersion>
     <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/cronos.zip</Link>
-    <Version>0.4</Version>
-      <ReleaseDate>2025-05-30</ReleaseDate>
+    <Version>0.6</Version>
+      <ReleaseDate>2025-11-23</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/Cronos_Preview.png</PreviewImage>
-  <ReleaseNotes>
-Release note:
-  - 0.1: Adding:
-    MaximumDraw, DamageCap, NoMagicDepletion
-  - 0.2: Adding:
-    255AP, SaveAnywhere, BahamutRareItem, GerogeroUncensored, NoUnequippedOnDream, NoXP
-  - 0.3: Fixing SaveAnywhere
-  - 0.4: Adding DamageFormulaUpdate, LimitbreakNotRefreshable, JunctionDependOfLevel, JunctionDependOfMinLevelQuantity, TrueRandomness, G-Soldier
-</ReleaseNotes>
-   <DownloadSize>1350</DownloadSize>
+    <ReleaseNotes>
+    &#8226; 0.1
+        Adding MaximumDraw, DamageCap, NoMagicDepletion
+    &#8226; 0.2
+        Adding 255AP, SaveAnywhere, BahamutRareItem, GerogeroUncensored, NoUnequippedOnDream, NoXP
+    &#8226; 0.3
+        Fixing SaveAnywhere
+    &#8226; 0.4:
+        Adding DamageFormulaUpdate, LimitbreakNotRefreshable, JunctionDependOfLevel, JunctionDependOfMinLevelQuantity, TrueRandomness, G-Soldier
+    &#8226; 0.5:
+        Change DamageFormulaUpdate, DrawNotLimited
+    &#8226; 0.6:
+        Adding AiRework, QueenForest , TripleTryhard, SquallComputeHit, 255HitCanFail, GerogeroUncensoredMenu, GerogeroUncensoredBattle
+               DrawPoint, FieldRework, MngrpRework, ShopRework, WIP, MonsterRework/Balanced
+        Fixing SaveAnywhere
+    </ReleaseNotes>
+   <DownloadSize>2110</DownloadSize>
   </LatestVersion>
   <Link>https://discord.gg/A7uFA4WqQY</Link>
   <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
