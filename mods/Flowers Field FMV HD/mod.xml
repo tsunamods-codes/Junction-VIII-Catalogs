@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>4c5070a1-8a3b-498a-8b4d-f079c29d5cad</ID>
+  <Name>Flowers Field FMV HD</Name>
+  <Author>myst6re</Author>
+  <Category>Media</Category>
+  <Description>AI upscaled FMV (HD: 1280x896).</Description>
+  <LatestVersion>
+    <Link>iroj://GDrive/1YHidRr00_7stYumIfANqey3NoU7RD2wh</Link>
+    <Version>1.00</Version>
+    <ReleaseDate>2025-11-24</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://www.ff8.fr/pub/images/flowers-field-fmv-hd-preview.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>2892740</DownloadSize>
+  </LatestVersion>
+  <Link>https://forums.qhimm.com/index.php?topic=30338.0</Link>
+  <Tags>
+    <string>myst6re</string>
+    <string>Media</string>
+    <string>Movies</string>
+    <string>FMV</string>
+    <string>Upscale</string>
+    <string>HD</string>
+    <string>AI</string>
+  </Tags>
+</Mod>
