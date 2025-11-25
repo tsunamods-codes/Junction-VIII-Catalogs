@@ -3,7 +3,7 @@
   <Name>Cronos WIP</Name>
   <Author>Hobbitdur &amp; Cronos Team</Author>
   <Category>Gameplay</Category>
- <Description>
+    <Description>
             &#9658; The most ambitious gameplay mod &#9668;
 
 This mod will be the reference in gameplay. It will offer many option to enjoy the game.
@@ -31,7 +31,6 @@ With this mod you can make the following modification:
         &#8226; BahamutRareItem: Now actually increase the probability of really rare item.
         &#8226; GerogeroUncensoredMenu: Use the japanese version without color change.
         &#8226; GerogeroUncensoredBattle: Use the japanese version without color change.
-        &#8226; NoUnequippedOnDream: Stop this madness of re-equipped everything on temporary characters !
         &#8226; TrueRandomness: Use a real random generator.
         &#8226; SquallComputeHit: Make squall fail sometimes !
 
@@ -74,8 +73,8 @@ With this mod you can make the following modification:
     </Description>
   <LatestVersion>
     <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/cronos.zip</Link>
-    <Version>0.6</Version>
-      <ReleaseDate>2025-11-23</ReleaseDate>
+    <Version>0.7</Version>
+      <ReleaseDate>2025-11-25</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/Cronos_Preview.png</PreviewImage>
     <ReleaseNotes>
@@ -93,6 +92,9 @@ With this mod you can make the following modification:
         Adding AiRework, QueenForest , TripleTryhard, SquallComputeHit, 255HitCanFail, GerogeroUncensoredMenu, GerogeroUncensoredBattle
                DrawPoint, FieldRework, MngrpRework, ShopRework, WIP, MonsterRework/Balanced
         Fixing SaveAnywhere
+    &#8226; 0.7:
+        Fix worldmap draw by changing SquallComputeHit, fix DrawRework/Draw100, fix encounter in forest
+        Remove NoUnequippedOnDream (Creates bug when switching GF).
     </ReleaseNotes>
    <DownloadSize>2110</DownloadSize>
   </LatestVersion>
