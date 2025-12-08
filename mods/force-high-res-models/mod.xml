@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>378ffda3-55b5-4e98-961b-c00b7005ca9f</ID>
+  <Name>Force high res models</Name>
+  <Author>myst6re</Author>
+  <Category>Field Models</Category>
+  <Description>Always use high res models when available. FF8 data already contains several versions of party members for optimization purpose. FFNx version 1.23.0.29+ required.</Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$www.ff8.fr/pub/force-high-res-models-v1.00.iroj</Link>
+    <Version>1.00</Version>
+    <ReleaseDate>2025-12-09</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://www.ff8.fr/pub/images/force-high-res-models-preview.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>2170</DownloadSize>
+  </LatestVersion>
+  <Tags>
+    <string>myst6re</string>
+    <string>Field</string>
+    <string>Models</string>
+    <string>HD</string>
+    <string>Highres</string>
+    <string>Improve</string>
+  </Tags>
+</Mod>
