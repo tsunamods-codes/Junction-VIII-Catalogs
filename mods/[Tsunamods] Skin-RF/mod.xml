@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>556bffa4-48be-4ae4-8e98-0dba4aa8da4a</ID>
+  <Name>[Tsunamods] Skin-RF (Character Model and Texture Replacement)</Name>
+  <Author>Dulca + Slimebucket</Author>
+  <Category>Battle Models</Category>
+  <Description> New weapons, and Cloudie McDoom costume!
+Skin-RF is a graphical upgrade for battle and field models for playable characters and soon NPCs and Field objects too. You'll find a variety of costumes to use in and out of combat. You can customize your team to your liking even more with options for weapons. </Description>
+  <LatestVersion>
+  <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/skin-RF.7z</Link>
+  <Version>1.31</Version>
+  <ReleaseDate>2025-12-15</ReleaseDate>
+  <CompatibleGameVersions>All</CompatibleGameVersions>
+  <PreviewImage>https://www.gp-mc.net/mcindus/chump/skinrfpreview.png</PreviewImage>
+  <ReleaseNotes>
+Version 1.31 - minor fixes
+Version 1.30 - Cloudie McDoom costume for Squall added
+Version 1.20 - Slimebucket weapons for Squall added
+Version 1.10 - minor fixes
+Version 1.00 - First Release!
+  </ReleaseNotes>
+  <DownloadSize>235616</DownloadSize>
+  </LatestVersion>
+  <Link/>
+  <DonationLink/>
+  <Tags>
+    <string>tsunamods</string>
+    <string>costume</string>
+    <string>customize</string>
+    <string>weapon</string>
+    <string>skin</string>
+    <string>model</string>
+    <string>dulca</string>
+    <string>Slimebucket</string>
+  </Tags>
+</Mod>
