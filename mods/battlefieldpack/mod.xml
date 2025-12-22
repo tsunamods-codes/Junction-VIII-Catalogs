@@ -1,29 +1,33 @@
 <?xml version="1.0"?>
 <Mod>
     <ID>aa49a689-a113-41fb-af64-945aeb9f8df9</ID>
-    <Name>BattlefieldPack (Field Textures)</Name>
+    <Name>BattlefieldPack Plus (Field Textures)</Name>
     <Author>MCINDUS + Fated Courage + G-Nite + Slimebucket</Author>
     <Category>Field Textures</Category>
     <Description>Battlefield Pack Plus- Battlefield Texture replacement mod.
   
   Upscales all battlefield backgrounds. 
 
-        version 1.2 now live. Fixes many random issues and bugs. 
+        version 2.0 now live.   - Reconverted DDS files to have MIPMAPS for better preformance
+                                - crash at disk 3 right after entering Lunatic Pandoria has been fixed
+                                - Mod now gets the Plus in its title 
 
 Original mod Battlefieldpack v3.1 created by MCINDUS + FatedCourage
 ffnx conversion to ffnx G-Nite
  extra work and junction8 conversion by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/battlefieldpack.7z</Link>
-      <Version>1.2</Version>
-      <ReleaseDate>2025-08-27</ReleaseDate>
+      <Version>2.0</Version>
+      <ReleaseDate>2025-12-22</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/ynY7ZCQC/preview.png</PreviewImage>
       <ReleaseNotes>
-        First Release - minor fix1
-                      -minor fix2
+                Version 2.0 - Reconverted DDS files to include mipmaps, crash fix on disk 3.
+                Version 1.2 - minor fix1
+                Version 1.1 - minor fix2
+                Version 1.0 - Converted Tonberry mod to FFnX and J8
       </ReleaseNotes>
-      <DownloadSize>335795</DownloadSize>
+      <DownloadSize>188078</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
