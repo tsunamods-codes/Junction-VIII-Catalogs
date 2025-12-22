@@ -5,16 +5,22 @@
   <Author>Slimebucket + Digixu + AxlRose + Megachocobo</Author>
   <Category>Field Models</Category>
   <Description>
+- New GUNBLADE textures for squall!
+- New Cloudie McDoom costume for Squall
+    
 - Replace all Main_chr poly models with their hi-res Textures.
 - 8x (1024x1024) Upscaled Textures by Magochocobo *used with permission
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/poly_up.7z</Link>
-    <Version>3.2</Version>
-    <ReleaseDate>2025-11-01</ReleaseDate>
+    <Version>4.0</Version>
+    <ReleaseDate>2025-12-22</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.ibb.co/5FFTx1Z/preview.png</PreviewImage>
     <ReleaseNotes>
+ Version 4.0 
+- New Gunblade textures for Squall
+- New Cloudie McDoom costume for Squall
  Version 3.2
 - minor fixes to Squall and Laguna.
  Version 3.1
@@ -24,22 +30,20 @@
 - fixed a few of textures sized wrong
   
 Version 3.0: 
-- Low Poly textures removed, new mod made for those called Flame Rebirth Plus.
 - Eye fix 2.0 is here! random artifacts from eyes has been fixed
 - Many textures have been replaced. The textures where a mix of both Mago and Devina edits, replaced all Devina textures to MAGO ones to make everything uniform and the same
 - Confuration of mod has been updated and now you can select each individual character to active. 
-    ~ Having more than 2 active at a time can and will cause crashes in scenes where more than 3 playable characters appear on screen at the same time.
       
 Version 2.5:
-- The eye bug has been squashed (many thanks to slimebucket for that)
+- The eye bug has been squashed
 - Rinoa white dress has a new face hopefully will not scare as many people. 
 
 WARNING - HighPoly Mode WILL CRASH THE GAME on any scene that has more then 3 high poly characters on it.
    </ReleaseNotes>
-    <DownloadSize>50899</DownloadSize>
+    <DownloadSize>86186</DownloadSize>
   </LatestVersion>
   <Link></Link>
-  <DonationLink>https://www.paypal.com/donate/?business=T4VCT9B4ZXECJ&amp;no_recurring=0&amp;item_name=Modding+the+great+and+awsome+game+FF8&amp;currency_code=GBP</DonationLink>
+  <DonationLink></DonationLink>
   <Tags>
     <string>Model</string>
     <string>Battle</string>
