@@ -41,3 +41,8 @@ Add-Content -Path $finalXml -Value '</Catalog>'
 
 # Lint the final XML
 dotnet run --project app/CatalogValidator $finalXml
+
+if ($LASTEXITCODE -ne 0) {
+  Write-Error "Catalog validation failed for: $finalXml"
+  exit $LASTEXITCODE
+}
