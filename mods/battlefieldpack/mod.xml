@@ -8,9 +8,7 @@
   
   Upscales all battlefield backgrounds. 
 
-        version 2.0 now live.   - Reconverted DDS files to have MIPMAPS for better preformance
-                                - crash at disk 3 right after entering Lunatic Pandoria has been fixed
-                                - Mod now gets the Plus in its title 
+        version 2.1 out now! - Broken battlefield at Balamb Garden battle between NORG and CID forces fixed!
 
 Original mod Battlefieldpack v3.1 created by MCINDUS + FatedCourage
 ffnx conversion to ffnx G-Nite
@@ -18,16 +16,17 @@ ffnx conversion to ffnx G-Nite
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/battlefieldpack.7z</Link>
       <Version>2.0</Version>
-      <ReleaseDate>2025-12-22</ReleaseDate>
+      <ReleaseDate>2026-01-27</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/ynY7ZCQC/preview.png</PreviewImage>
       <ReleaseNotes>
+                Version 2.1 - Broken battlefield at Balamb Garden fight between NORG and CID forces fixed
                 Version 2.0 - Reconverted DDS files to include mipmaps, crash fix on disk 3.
                 Version 1.2 - minor fix1
                 Version 1.1 - minor fix2
                 Version 1.0 - Converted Tonberry mod to FFnX and J8
       </ReleaseNotes>
-      <DownloadSize>188078</DownloadSize>
+      <DownloadSize>187795</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
