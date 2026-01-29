@@ -6,21 +6,22 @@
     <Category>Battle Textures</Category>
     <Description>Lunar Cry - Enemy Texture replacement mod.
 
-- Version 4.2 now out!
-        - Crash at Oilboyle fight at bottom of Balamb Garden fixed!
-        - BGH251F2 textures replaced with new ones to fix issue with old one
+- Version 4.3 now out!
+        - Master NORG fixed
+        - BGH251F2 Broken version textures replaced
         
 Original mod created by MCINDUS
 ffnx conversion by Nameless27
 Junction8 Conversion by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/lunarcry.7z</Link>
-      <Version>4.2</Version>
-      <ReleaseDate>2026-01-27</ReleaseDate>
+      <Version>4.3</Version>
+      <ReleaseDate>2026-01-28</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/BVFDGVmT/preview.png</PreviewImage>
       <ReleaseNotes>
-        Version 4.2 - BGH251F2 texture replaced, Oilboyle crash fixed
+        Version 4.3 - BGH251F2 Broken version textures replaced, Master NORG fixed
+        Version 4.2 - BGH251F2 textures replaced, Oilboyle crash fixed
         Version 4.1 - Crash fix- Iguions, Cerberus and Ruby Dragon fights
         Version 4.0 - Third Bahamut optionial skin added. More fixes to G-Soldiers, red blue and green.
         Version 3.1 - Fatal crash fixed!
@@ -28,7 +29,7 @@ Junction8 Conversion by Slimebucket</Description>
                     - Alternate Bahamut and Brothers added
         Version 2.0 - dds fix - alternate ifrit added 
       </ReleaseNotes>
-      <DownloadSize>279974</DownloadSize>
+      <DownloadSize>280678</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
