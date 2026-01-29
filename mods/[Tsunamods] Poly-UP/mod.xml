@@ -1,23 +1,30 @@
 <?xml version="1.0"?>
 <Mod>
   <ID>384a9591-78cc-423e-ae8e-b86bfbf3dbea</ID>
-  <Name>[Tsunamods] Poly-UP (Main Char. Field Models)</Name>
+  <Name>[Tsunamods] Poly-UP (Character Models and Textures)</Name>
   <Author>Slimebucket + Digixu + AxlRose + Megachocobo</Author>
   <Category>Field Models</Category>
   <Description>
-- New GUNBLADE textures for squall!
-- New Cloudie McDoom costume for Squall
+New version 4.1 now out! Rinoa Eye fix, Pumpkin Head Quistis fixed, Kid Squall fixed
+
+Poly-Up is the one stop shop for Character enahncements. Use this mod over Rebirth Flame.
+
+Rebrith Flame does not use better models, and is just a texture replacement mod, 
+
+Poly-Up replaces Models, Textures, weapons, and even some NPCs!
     
 - Replace all Main_chr poly models with their hi-res Textures.
 - 8x (1024x1024) Upscaled Textures by Magochocobo *used with permission
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/poly_up.7z</Link>
-    <Version>4.0</Version>
-    <ReleaseDate>2025-12-22</ReleaseDate>
+    <Version>4.1</Version>
+    <ReleaseDate>2026-01-28</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.ibb.co/5FFTx1Z/preview.png</PreviewImage>
     <ReleaseNotes>
+ Version 4.1
+- Rinow eye fix, Pumpkin head Qusitis fixed, Kid Squall fixed
  Version 4.0 
 - New Gunblade textures for Squall
 - New Cloudie McDoom costume for Squall
@@ -40,7 +47,7 @@ Version 2.5:
 
 WARNING - HighPoly Mode WILL CRASH THE GAME on any scene that has more then 3 high poly characters on it.
    </ReleaseNotes>
-    <DownloadSize>86186</DownloadSize>
+    <DownloadSize>86161</DownloadSize>
   </LatestVersion>
   <Link></Link>
   <DonationLink></DonationLink>
