@@ -5,7 +5,8 @@
     <Author>Fated Courage + Slimebucket</Author>
     <Category>Field Textures</Category>
     <Description>Rebirth Flame Plus
-	
+		Version 1.8 now out - Rinow Eye fix and Kid Squall added
+				
 		Replaces playable character textures. 8x size of orignal textures ~ 1024x1024
 	
 		Includes main texture pack, and both Mago and Devina version of Squall, Rinoa and Quistis.
@@ -14,18 +15,19 @@
     J8 port, and extra texture work, eye fix by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/flame_rebirth_plus.7z</Link>
-      <Version>1.7</Version>
-      <ReleaseDate>2025-11-02</ReleaseDate>
+      <Version>1.8</Version>
+      <ReleaseDate>2026-01-28</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/NnSQnyY6/preview.png</PreviewImage>
       <ReleaseNotes>
+		v1.8 - minor fixes - Rinoa - Kid Squall
 		v1.7 - minor fixes - Quistis
 		v1.6 - minor fixes - RInoa Selphie
 		v1.5 - More eye fixes, Rinoa, Squall and Laguna
 		v1.4 - Many texture fixes, more eye fixes
         v1.3 - First release
       </ReleaseNotes>
-      <DownloadSize>70144</DownloadSize>
+      <DownloadSize>70131</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
