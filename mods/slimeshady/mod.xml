@@ -17,14 +17,16 @@
 	in the game, chances are, they will no longer look upscaled.</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/slimeshady.7z</Link>
-      <Version>1.1</Version>
-      <ReleaseDate>2025-11-02</ReleaseDate>
+      <Version>1.2</Version>
+      <ReleaseDate>2026-01-30</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/TMxG23Yk/preview.png</PreviewImage>
-      <ReleaseNotes>Version 1.1 - More textures added, pngs converted to dds
+      <ReleaseNotes>
+		  Version 1.2 - more config options, test textures removed
+		  Version 1.1 - More textures added, pngs converted to dds
 		  Version 1 - First Release!
       </ReleaseNotes>
-      <DownloadSize>15585</DownloadSize>
+      <DownloadSize>13384</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
