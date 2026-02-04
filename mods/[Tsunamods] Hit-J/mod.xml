@@ -2,27 +2,33 @@
 <Mod>
   <ID>6728d336-9cb6-4e97-8ab7-474f435e1f6d</ID>
     <Name>[Tsunamods] Hit-J</Name>
-    <Author>Digixu</Author>
-    <Category>Battle Textures</Category>
-    <Description>4x AI Upscale of battle effects - Hits/Particles/Status Effects/Dust/Enemy Abilities
-
-magic to come soon! </Description>
+    <Author>Slimebucket + Digixu</Author>
+    <Category>Spell Textures</Category>
+    <Description> Version 2.0 of Hit-J is out! fixes for stutters, 400 more textures for magic and effects.
+  
+  Magic and effect Textures! 4x size of base textures. 
+  
+  Includes textures for magic spells, items, and effects in GF summons.
+    </Description>
     <LatestVersion>
-      <Link>iroj://GDrive/1nqrnRmkvgAgp40DMzRkz5CkZ7iwLTyeB</Link>
-      <Version>1.0</Version>
-      <ReleaseDate>2024-12-01</ReleaseDate>
+      <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/hitj.7z</Link>
+      <Version>2.0</Version>
+      <ReleaseDate>2026-02-04</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/99cWmZq/preview.png</PreviewImage>
       <ReleaseNotes>
+        V2.0 - Re work of mod to decrease stuttering, 400 textures added
         V1.0 - Initial Release
       </ReleaseNotes>
-      <DownloadSize>78087</DownloadSize>
+      <DownloadSize>104827</DownloadSize>
     </LatestVersion>
-    <Link></Link>
-<DonationLink>https://www.paypal.com/donate/?business=T4VCT9B4ZXECJ&amp;no_recurring=0&amp;item_name=Modding+the+great+and+awsome+game+FF8&amp;currency_code=GBP</DonationLink>
+  <Link />
+  <DonationLink />
     <Tags>
       <string>Battle</string>
+      <string>Spell</string>
       <string>Textures</string>
       <string>Digixu</string>
+      <string>Slimebucket</string>
     </Tags>
   </Mod>

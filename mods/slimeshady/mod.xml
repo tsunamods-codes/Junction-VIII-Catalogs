@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Mod>
     <ID>99f32272-bced-462d-893b-f238134c1fff</ID>
-    <Name>SlimeSHADY (Shader Pack + Misc Textures )</Name>
+    <Name>SlimeSHADY (ReShader Pack)</Name>
     <Author>Slimebucket</Author>
     <Category>ReShade Shaders</Category>
     <Description>A ReShade mod by slimebucket. Brighter colors
@@ -24,7 +24,7 @@
       <ReleaseNotes>
 		  Version 1.2 - more config options, test textures removed
 		  Version 1.1 - More textures added, pngs converted to dds
-		  Version 1 - First Release!
+		  Version 1.0 - First Release!
       </ReleaseNotes>
       <DownloadSize>4439</DownloadSize>
     </LatestVersion>
