@@ -8,25 +8,26 @@
   
   Upscales all battlefield backgrounds. 
 
-        version 2.1 out now! - Broken battlefield at Balamb Garden battle between NORG and CID forces fixed!
+        version 2.2 out now! - Fixed lines in the ground at battlefield By Balamb - A0STG101.X-0_00
 
 Original mod Battlefieldpack v3.1 created by MCINDUS + FatedCourage
 ffnx conversion to ffnx G-Nite
  extra work and junction8 conversion by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/battlefieldpack.7z</Link>
-      <Version>2.1</Version>
-      <ReleaseDate>2026-01-27</ReleaseDate>
+      <Version>2.2</Version>
+      <ReleaseDate>2026-02-18</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/ynY7ZCQC/preview.png</PreviewImage>
       <ReleaseNotes>
+                Version 2.2 - fixed lines in ground on A0STG101.X-0_00
                 Version 2.1 - Broken battlefield at Balamb Garden fight between NORG and CID forces fixed
                 Version 2.0 - Reconverted DDS files to include mipmaps, crash fix on disk 3.
                 Version 1.2 - minor fix1
                 Version 1.1 - minor fix2
                 Version 1.0 - Converted Tonberry mod to FFnX and J8
       </ReleaseNotes>
-      <DownloadSize>187795</DownloadSize>
+      <DownloadSize>187152</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
