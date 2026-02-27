@@ -15,11 +15,11 @@
   To check if the mod is working, you should have magic already available when launching a new game.
   </Description>
   <LatestVersion>
-    <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/ragnarok.zip</Link>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/ragnarok.zip</Link>
     <Version>1.0</Version>
     <ReleaseDate>2025-05-20</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/ragnarok_preview.png</PreviewImage>
+    <PreviewImage>https://modcdn.win/Hobbitdur/ragnarok_preview.png</PreviewImage>
     <ReleaseNotes>
     Release note:
     - 1.0: First release on JunctionVIII with classical

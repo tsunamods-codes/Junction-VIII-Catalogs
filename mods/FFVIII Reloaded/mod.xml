@@ -19,11 +19,11 @@
     - And much more…
     </Description>
   <LatestVersion>
-    <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/ff8_reloaded.iroj</Link>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/ff8_reloaded.iroj</Link>
     <Version>1.0</Version>
       <ReleaseDate>2025-01-03</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/logo_ff8_reloaded.png</PreviewImage>
+    <PreviewImage>https://modcdn.win/Hobbitdur/logo_ff8_reloaded.png</PreviewImage>
     <ReleaseNotes>
     - 1.0: Release french version
     </ReleaseNotes>

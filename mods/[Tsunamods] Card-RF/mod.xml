@@ -12,11 +12,11 @@ and a combination of AI upscaling and many hours of manual touch ups and
 corrections, we have brought this amazing minigame to a more modern appearance
   </Description>
   <LatestVersion>
-    <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/card-rf.zip</Link>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/card-rf.zip</Link>
     <Version>1.4</Version>
     <ReleaseDate>2025-03-28</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/card-rf-logo.png</PreviewImage>
+    <PreviewImage>https://modcdn.win/Hobbitdur/card-rf-logo.png</PreviewImage>
   <ReleaseNotes>
 - 1.2: Fixed Card Menu Textures not working
 - 1.3: Adding language option
