@@ -6,11 +6,11 @@
   <Category>Gameplay</Category>
   <Description>Patch the english version of the game to one of those language: French, Spanish, German, Italian</Description>
   <LatestVersion>
-    <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/ilp.zip</Link>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/ilp.zip</Link>
       <Version>1.7</Version>
       <ReleaseDate>2025-06-13</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/preview_ilp.png</PreviewImage>
+    <PreviewImage>https://modcdn.win/Hobbitdur/preview_ilp.png</PreviewImage>
     <ReleaseNotes>
 Release note:
   - 0.1: Release of French patch

@@ -72,11 +72,11 @@ With this mod you can make the following modification:
         0x45B38C, 0x4670DC, 0x462605, 0x4626F9, 0x463090
     </Description>
   <LatestVersion>
-    <Link>iroj://Url/https$s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/cronos.zip</Link>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/cronos.zip</Link>
     <Version>0.7</Version>
       <ReleaseDate>2025-11-25</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/Cronos_Preview.png</PreviewImage>
+    <PreviewImage>https://modcdn.win/Hobbitdur/Cronos_Preview.png</PreviewImage>
     <ReleaseNotes>
     &#8226; 0.1
         Adding MaximumDraw, DamageCap, NoMagicDepletion
