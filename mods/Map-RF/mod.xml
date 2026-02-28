@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>ea59ec8f-fc0c-43d2-af55-a432a5075642</ID>
+  <Name>Map-RF</Name>
+  <Author>Hobbitdur &amp; Dulca</Author>
+  <Category>World Models</Category>
+  <Description>
+Graphical enhancement of the map. For the moment the quality is "proof of concept". Everyone welcome to propose his map.
+  </Description>
+  <LatestVersion>https$modcdn.win/Hobbitdur/map-rf.zip
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/map-rf.zip</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2026-02-27</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>hhttps://modcdn.win/Hobbitdur/map-rf_preview.png</PreviewImage>
+  <ReleaseNotes>
+- 1.0: Creation of the map
+  </ReleaseNotes>
+    <DownloadSize>64000</DownloadSize>
+  </LatestVersion>
+   <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
+  <DonationLink>https://www.patreon.com/HobbitMods</DonationLink>
+  <Tags>
+    <string>Map</string>
+    <string>world</string>
+    <string>tsunamods</string>
+    <string>hobbitdur</string>
+  </Tags>
+</Mod>
