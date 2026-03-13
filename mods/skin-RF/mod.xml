@@ -4,19 +4,24 @@
     <Name>Skin-RF</Name>
     <Author>Dulca + Slimebucket</Author>
     <Category>Battle Models</Category>
-    <Description>New vesion 1.61 out now! HD Weapons are all done! Selphie, Laguna and Irvine Added. 
-		Ward accidently had Kiro's weapon textures. This has been fixed. Zell's Maverick Alternate weapon has been changed.
-
+    <Description>New vesion 1.62 out now! 
+		
+		Random config menu fixes, Cloudie McDoom costume fix, field weapon textures fixed.
+		
+		HD Weapons are all done!
+		
 Skin-RF -Enhance field models. Multiple Battle models to choose from for Playable characters with synchronized Field models.
 		- Includes Slimebucket Weapon Pack
     </Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/skin-RF.7z</Link>
-      <Version>1.61</Version>
-      <ReleaseDate>2026-02-27</ReleaseDate>
+      <Version>1.62</Version>
+      <ReleaseDate>2026-03-13</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/VW0cZsX8/preview.png</PreviewImage>
       <ReleaseNotes>
+Version 1.62 :Cloudie McDoom Costume fixes, config menu preview images fixes, 
+		      some field Weapon textures got missed. Fixed  
 Version 1.61 : Ward weapon fixed, Zells Maverick Alternate weapon changed.
 Version 1.60 : Selphie Laguna Irvine Weapons added- WEAPONS COMPLETE
 Version 1.50 : More weapons added - Quistis and Rinoa		  
@@ -28,7 +33,7 @@ Version 1.10 : Playable characters have a low poly synced field model.
 			   New Field models for All Playable characters.
 			   Synchrized world map model for Squall.
       </ReleaseNotes>
-      <DownloadSize>250278</DownloadSize>
+      <DownloadSize>248073</DownloadSize>
     </LatestVersion>
   <Link />
   <DonationLink />
