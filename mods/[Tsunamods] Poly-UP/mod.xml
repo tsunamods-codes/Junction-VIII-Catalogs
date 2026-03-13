@@ -5,7 +5,7 @@
   <Author>Slimebucket + Digixu + AxlRose + Megachocobo</Author>
   <Category>Field Models</Category>
   <Description>
-New version 4.3 now out! Slime Weapon Pack now COMPLETE! new options added!
+New version 4.4 now out! Slime Weapon Pack now COMPLETE! new options added!
 
 Poly-Up is the one stop shop for Character enahncements. Use this mod over Rebirth Flame.
 
@@ -18,35 +18,38 @@ Poly-Up replaces Models, Textures, weapons, and even some NPCs!
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/poly_up.7z</Link>
-    <Version>4.3</Version>
+    <Version>4.4</Version>
     <ReleaseDate>2026-03-13</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.ibb.co/5FFTx1Z/preview.png</PreviewImage>
     <ReleaseNotes>
- Version 4.3
--Fixes for weapon previews for Rinoa's Valkyire and Zell's Gauntlet
+Version 4.4
+- Cloudie McDoom Squall costume fixes
+- Slime Weapon Pack INVERTED Field textures fixed
+- errors in mod.xml fixed
+Version 4.3
+- Fixes for weapon previews for Rinoa's Valkyire and Zell's Gauntlet
 - Fixes for Cloudie McDoom Squall costume
- Version 4.2
+Version 4.2
 - Slime Weapon Pack Complete! 
 - New config options added
 - Selphie's Flail (MAGO) fixed
- Version 4.1
+Version 4.1
 - Rinow eye fix, Pumpkin head Qusitis fixed, Kid Squall fixed
- Version 4.0 
+Version 4.0 
 - New Gunblade textures for Squall
 - New Cloudie McDoom costume for Squall
- Version 3.2
+Version 3.2
 - minor fixes to Squall and Laguna.
- Version 3.1
+Version 3.1
 - preview pics added to config menu for main characters
 - Fixed texture issue with UNIFORMED Quistis. No more PUMPKIN QUEEN
 - Fixed MORE eyes on many characters
 - fixed a few of textures sized wrong
-Version 3.0: 
+Version 3.0
 - Eye fix 2.0 is here! random artifacts from eyes has been fixed
 - Many textures have been replaced. The textures where a mix of both Mago and Devina edits, replaced all Devina textures to MAGO ones to make everything uniform and the same
-   </ReleaseNotes>
-    <DownloadSize>102228</DownloadSize>
+    <DownloadSize>102670</DownloadSize>
   </LatestVersion>
   <Link></Link>
   <DonationLink></DonationLink>
