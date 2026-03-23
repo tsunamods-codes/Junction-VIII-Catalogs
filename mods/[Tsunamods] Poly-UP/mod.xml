@@ -5,7 +5,7 @@
   <Author>Slimebucket + Digixu + AxlRose + Megachocobo</Author>
   <Category>Field Models</Category>
   <Description>
-New version 4.4 now out! Slime Weapon Pack now COMPLETE! new options added!
+New version 4.5 now out! Slime Weapon Pack now COMPLETE! new options added!
 
 Poly-Up is the one stop shop for Character enahncements. Use this mod over Rebirth Flame.
 
@@ -18,11 +18,13 @@ Poly-Up replaces Models, Textures, weapons, and even some NPCs!
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/poly_up.7z</Link>
-    <Version>4.4</Version>
-    <ReleaseDate>2026-03-13</ReleaseDate>
+    <Version>4.5</Version>
+    <ReleaseDate>2026-03-22</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.ibb.co/5FFTx1Z/preview.png</PreviewImage>
     <ReleaseNotes>
+ Version 4.5
+-Selphie eye fix
  Version 4.4
 - Field weapon textures SLIME PACK INVERTED fixed
 - Cloudie McDoom costume fixes
@@ -50,7 +52,7 @@ Version 3.0:
 - Eye fix 2.0 is here! random artifacts from eyes has been fixed
 - Many textures have been replaced. The textures where a mix of both Mago and Devina edits, replaced all Devina textures to MAGO ones to make everything uniform and the same
    </ReleaseNotes>
-    <DownloadSize>102670</DownloadSize>
+    <DownloadSize>101935</DownloadSize>
   </LatestVersion>
   <Link></Link>
   <DonationLink></DonationLink>
