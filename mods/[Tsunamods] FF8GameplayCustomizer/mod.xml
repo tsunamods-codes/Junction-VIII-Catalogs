@@ -12,6 +12,8 @@ This mods aims to bring lots of options to the gameplay to enjoy your game how y
         &#8226; DamageCap: All damage can deal up to 65.535 (Eden damage is also cap to 65.535).
         &#8226; NoMagicDepletion: Using magic doesn't decrease your stock.
         &#8226; DrawRework: Change the draw logic (Either draw more than 9 or draw 100)
+        &#8226; AP: Get from 0 to 255AP. Thanks to Satan-fatalityz for funding part of this !
+        &#8226; XP: Earn from 0XP to x8 XP. Thanks to Satan-fatalityz for funding part of this !
 
     &#9670; Special thanks &#9668;
         &#8226; myst6re for Deling tool and RE work
@@ -22,14 +24,15 @@ This mods aims to bring lots of options to the gameplay to enjoy your game how y
     </Description>
   <LatestVersion>
     <Link>iroj://Url/https$download.tsunamods.com?id=24</Link>
-    <Version>0.1</Version>
-      <ReleaseDate>2026-03-29</ReleaseDate>
+    <Version>0.2</Version>
+      <ReleaseDate>2026-04-03</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://modcdn.win/Hobbitdur/customizer_preview.png</PreviewImage>
     <ReleaseNotes>
     &#8226; 0.1
         Adding DrawRework, DamageCap, NoMagicDepletion
-
+    &#8226; 0.2
+        Adding AP, XP
     </ReleaseNotes>
    <DownloadSize>2110</DownloadSize>
   </LatestVersion>
