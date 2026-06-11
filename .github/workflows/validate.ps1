@@ -39,8 +39,15 @@ foreach ($file in $files) {
 Add-Content -Path $finalXml -Value '</Mods>'
 Add-Content -Path $finalXml -Value '</Catalog>'
 
-# Lint the final XML
-dotnet run --property WarningLevel=0 --project app/CatalogValidator $finalXml
+# Build dotnet run arguments
+$dotnetArgs = @('run', '--property', 'WarningLevel=0;NuGetAudit=false', '--project', 'app/CatalogValidator')
+
+$appArgs = @($finalXml)
+  if ($env:_VALIDATE_LINKS -eq 'true') {
+    $appArgs += '--validate-links'
+  }
+
+  & dotnet @dotnetArgs -- @appArgs
 
 if ($LASTEXITCODE -ne 0) {
   Write-Error "Catalog validation failed for: $finalXml"
