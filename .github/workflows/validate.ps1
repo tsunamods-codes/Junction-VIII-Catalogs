@@ -40,7 +40,7 @@ Add-Content -Path $finalXml -Value '</Mods>'
 Add-Content -Path $finalXml -Value '</Catalog>'
 
 # Lint the final XML
-dotnet run --project app/CatalogValidator $finalXml
+dotnet run --property WarningLevel=0 --project app/CatalogValidator $finalXml
 
 if ($LASTEXITCODE -ne 0) {
   Write-Error "Catalog validation failed for: $finalXml"
