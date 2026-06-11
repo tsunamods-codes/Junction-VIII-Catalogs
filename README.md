@@ -1,4 +1,4 @@
-![License](https://img.shields.io/github/license/tsunamods-codes/Junction-VIII-Catalogs) ![Overall Downloads](https://img.shields.io/github/downloads/tsunamods-codes/Junction-VIII-Catalogs/total?label=Overall%20Downloads) ![GitHub Actions Workflow Status](https://github.com/tsunamods-codes/Junction-VIII-Catalogs/actions/workflows/release.yml/badge.svg?branch=master)
+![License](https://img.shields.io/github/license/tsunamods-codes/Junction-VIII-Catalogs) ![Overall Downloads](https://img.shields.io/github/downloads/tsunamods-codes/Junction-VIII-Catalogs/total?label=Overall%20Downloads) ![GitHub Actions Workflow Status](https://github.com/tsunamods-codes/Junction-VIII-Catalogs/actions/workflows/main.yml/badge.svg?branch=master)
 
 # Junction-VIII-Catalogs
 
