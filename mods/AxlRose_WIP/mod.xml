@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <Mod>
   <ID>7cc32d70-5024-4bf0-a7f8-a7c583b54f9c</ID>
   <Name>AxlRose&apos;s WIP &#40;Incomplete&#41;</Name>
@@ -9,25 +10,25 @@
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$www.gp-mc.net/ff8/tsunamods/AxlRoseWIP.7z</Link>
-    <Version>2026.0329</Version>
+    <Version>2026.0705</Version>
     <ReleaseDate>2025-01-12</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://www.gp-mc.net/ff8/tsunamods/wip_2026.0326.png</PreviewImage>
-    <ReleaseNotes>  v2026.0329 &gt; FIELD BACKGROUNDS!&#58;
-      &#45; 4x Upscales&#58; 80&#47;950
-      &#45; Custom&#58; 20&#47;950
+    <PreviewImage>https://www.gp-mc.net/ff8/tsunamods/wip_2026.0705.png</PreviewImage>
+    <ReleaseNotes>v2026.0705 &gt; FIELD BACKGROUNDS!&#58;
+      &#45; 4x Upscales&#58; 157&#47;877 &#40;Balamb Garden COMPLETE&#41;
+      &#45; Custom&#58; 20&#47;877
+      
   UI&#58;
       &#45; Replaced Remaster fonts with perfect monospaced fonts &#45; New Avatar pack options 
       &#40;JamesTheCat and AxlRose&#41; &#45; New Start Screen options &#40;AxlRose or Vanilla&#41; &#45; New cursor
       options &#40;Gunblade or Hand&#41; &#45; New option for controller buttons &#40;Keyboard, PlayStation
       or XBox&#41; &#45; Enhanced UI and Themes&#58; Blue Gradient, FF9 Blue, FF9 Black, Vanilla, Purpur
       and Light Purple are NEW
+      
   Field character models&#58;
-      &#45; Squall&apos;s d000 and d001 field model &#40;low/high poly model&#41; but then removed 
-      the High Poly field models &#40;until fully supported by the engine to prevent crashes
-      and artifacts&#41;
+      &#45; Squall&apos;s d000 and d001 field model &#40;low/high poly model&#41;
     </ReleaseNotes>
-    <DownloadSize>270692</DownloadSize>
+    <DownloadSize>328727</DownloadSize>
   </LatestVersion>
   <Link>https://discord.com/invite/7Rsvsewghz</Link>
   <DonationLink>https://www.paypal.com/donate/?hosted_button_id=FTA38UUZJ5QAN</DonationLink>
@@ -36,5 +37,6 @@
     <string>tsunamods</string>
     <string>backgrounds</string>
     <string>ai</string>
+    <string>upscales</string>
   </Tags>
 </Mod>
