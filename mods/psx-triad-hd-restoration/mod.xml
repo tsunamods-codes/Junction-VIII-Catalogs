@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Mod>
+<ID>f704a6c4-1ef7-47e8-ad71-fcc1a0003463</ID>
+<Name>PSX Triad HD Restoration</Name>
+<Author>YoRHa Numberless</Author>
+<Category>Minigames</Category>
+<Description>PSX TRIAD HD RESTORATION Fully replaces the Triple Triad textures with a faithful, high-definition recreation of the original PSX design.
+
+► CARD DESIGN
+All 110 cards artwork and layout faithful to the original PSX version.
+
+► NUMBERS AND CHARACTERS
+Card power numbering, score, affinity bonus and typeface restored.
+
+► ELEMENTAL ICONS
+Fire, Ice, Thunder, Wind, Earth, Water, Poison and Holy, recreated in good quality.
+
+► GAME BOARD AND PLAYMAT
+Challenging screen, grid and background also reworked.
+
+► CARDS BACK AND FRAME
+PSX-style card back design and frames with their decorative elements and shape.</Description>
+<LatestVersion>
+<Link>iroj://GDrive/1msM6ITYl954tUPRzCsg5-gQl-mbdihAR</Link>
+<Version>1.2</Version>
+<ReleaseDate>2026-07-28</ReleaseDate>
+<CompatibleGameVersions>Non-Remastered</CompatibleGameVersions>
+<PreviewImage>iroj://GDrive/1fcPjEyjcq4j2FcnCJQ4A9ZQsU9U8JI-5</PreviewImage>
+<ReleaseNotes>
+—1.0: Initial release for FFVIII Remastered.
+—1.1: Several pose, color and resolution corrections and adjustments for accuracy purposes. Some models reworked.
+—1.2: Abadon Card tweaked. Elemental Icons reworked. Power value Numbers adjusted. General alignment corrections. Junction VIII version released.
+</ReleaseNotes>
+<DownloadSize>92160</DownloadSize>
+</LatestVersion>
+<Link>https://forums.qhimm.com/index.php?topic=31211</Link>
+<DonationLink>https://www.tipeeestream.com/yorha-numberless/donation</DonationLink>
+<Tags>
+<string>Minigames</string>
+<string>TripleTriad</string>
+</Tags>
+</Mod>
