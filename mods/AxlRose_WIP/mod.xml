@@ -4,17 +4,17 @@
   <Name>AxlRose&apos;s WIP &#40;Incomplete&#41;</Name>
   <Author>AxlRose</Author>
   <Category>Miscellaneous</Category>
-  <Description>  Work in Progress mod &#40;manually set at the top of list&#41;
+  <Description> Work in Progress mod &#40;manually set at the top of list&#41;
         &#45; Few field upscaled backgrounds and field character textures
         &#45; Enhanced UI and Themes plus tons of new stuff
   </Description>
   <LatestVersion>
-    <Link>iroj://Url/https$www.gp-mc.net/ff8/tsunamods/AxlRoseWIP.7z</Link>
+    <Link>iroj://Url/https$github.com/AxlRose-RX/AxlRoseWIP/releases/latest/download/AxlRoseWIP.7z</Link>
     <Version>2026.0705</Version>
     <ReleaseDate>2025-01-12</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://www.gp-mc.net/ff8/tsunamods/wip_2026.0705.png</PreviewImage>
-    <ReleaseNotes>v2026.0705 &gt; FIELD BACKGROUNDS!&#58;
+    <PreviewImage>https://raw.githubusercontent.com/AxlRose-RX/AxlRoseWIP/canary/preview/preview_v2026.0705.png</PreviewImage>
+    <ReleaseNotes>  v2026.0705 &gt; FIELD BACKGROUNDS!&#58;
       &#45; 4x Upscales&#58; 157&#47;877 &#40;Balamb Garden COMPLETE&#41;
       &#45; Custom&#58; 20&#47;877
       
@@ -27,8 +27,8 @@
       
   Field character models&#58;
       &#45; Squall&apos;s d000 and d001 field model &#40;low/high poly model&#41;
-    </ReleaseNotes>
-    <DownloadSize>328727</DownloadSize>
+  </ReleaseNotes>
+    <DownloadSize>315844</DownloadSize>
   </LatestVersion>
   <Link>https://discord.com/invite/7Rsvsewghz</Link>
   <DonationLink>https://www.paypal.com/donate/?hosted_button_id=FTA38UUZJ5QAN</DonationLink>
