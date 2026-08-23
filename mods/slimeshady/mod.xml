@@ -3,7 +3,7 @@
     <ID>99f32272-bced-462d-893b-f238134c1fff</ID>
     <Name>SlimeSHADY (ReShader Pack)</Name>
     <Author>Slimebucket</Author>
-    <Category>ReShade Shaders</Category>
+    <Category>Shaders</Category>
     <Description>A ReShade mod by slimebucket. Brighter colors
   
     - Uses: Colorness,  Vibrance
@@ -17,16 +17,17 @@
 	in the game, chances are, they will no longer look upscaled.</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/slimeshady.7z</Link>
-      <Version>1.2</Version>
-      <ReleaseDate>2026-01-30</ReleaseDate>
+      <Version>1.3</Version>
+      <ReleaseDate>2026-08-23</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/TMxG23Yk/preview.png</PreviewImage>
       <ReleaseNotes>
+		  Version 1.3 - Mod.xml fixes
 		  Version 1.2 - more config options, test textures removed
 		  Version 1.1 - More textures added, pngs converted to dds
 		  Version 1.0 - First Release!
       </ReleaseNotes>
-      <DownloadSize>4439</DownloadSize>
+      <DownloadSize>4331</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
