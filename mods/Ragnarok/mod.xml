@@ -16,13 +16,13 @@
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$modcdn.win/Hobbitdur/ragnarok.zip</Link>
-    <Version>1.0</Version>
-    <ReleaseDate>2025-05-20</ReleaseDate>
+    <Version>1.1</Version>
+    <ReleaseDate>2026-03-29</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://modcdn.win/Hobbitdur/ragnarok_preview.png</PreviewImage>
     <ReleaseNotes>
-    Release note:
-    - 1.0: First release on JunctionVIII with classical
+  &#8226; 1.0: First release on JunctionVIII with classical
+  &#8226; 1.1: Adding LionHeart option. Thanks to vodkup on helping porting this version !
     </ReleaseNotes>
     <DownloadSize>13399</DownloadSize>
   </LatestVersion>
