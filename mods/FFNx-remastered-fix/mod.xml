@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>fdbd43b4-9330-4e0b-8116-c6c6d67c4945</ID>
+  <Name>FFNx remastered fix</Name>
+  <Author>myst6re</Author>
+  <Category>Battle Models</Category>
+  <Description>Fix remastered crashes in battle.</Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$www.ff8.fr/pub/FFNx-remastered-fix-v1.00.iroj</Link>
+    <Version>1.00</Version>
+    <ReleaseDate>2026-02-27</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://www.ff8.fr/pub/images/ffnx-remastered-fix-preview.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>4009</DownloadSize>
+  </LatestVersion>
+  <Tags>
+    <string>myst6re</string>
+    <string>Battle</string>
+    <string>Models</string>
+    <string>Censor</string>
+    <string>Crash</string>
+  </Tags>
+</Mod>
