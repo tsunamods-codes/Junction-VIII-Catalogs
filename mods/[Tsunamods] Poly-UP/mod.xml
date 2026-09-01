@@ -5,15 +5,9 @@
   <Author>Slimebucket + Digixu + AxlRose + Megachocobo</Author>
   <Category>Field Models</Category>
   <Description>
-WARNING!! - REMASTER EDITION - If character textures are messed up DISABLE THIS MOD 
-WARNING!! - There is an update coming to ffnx to fix this issue soon
-WARNING!! - I will remove this warning at that time
+New version 4.7 now out! Cloudie McDoom costume fixed!
     
-New version 4.6 now out! Zell DOLLET field texture fixed!
-
-Poly-Up is the one stop shop for Character enahncements. Use this mod over Rebirth Flame.
-
-Rebrith Flame does not use better models, and is just a texture replacement mod, 
+Poly-Up is the one stop shop for Character enahncements. Includes Slimebucket's weapon pack and Cloudie McDoom Squall costume.
 
 Poly-Up replaces Models, Textures, weapons, and even some NPCs!
     
@@ -22,11 +16,14 @@ Poly-Up replaces Models, Textures, weapons, and even some NPCs!
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/poly_up.7z</Link>
-    <Version>4.6</Version>
-    <ReleaseDate>2026-08-27</ReleaseDate>
+    <Version>4.7</Version>
+    <ReleaseDate>2026-08-31</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.ibb.co/5FFTx1Z/preview.png</PreviewImage>
     <ReleaseNotes>
+ Version 4.7   
+ -Cloudie McDoom Squall costume fixed
+ -ffnx REMASTER edition usage warning removed
  Version 4.6
  -Zell Dollet field texture fixed, minor texture fixes, Remaster edition usage warning added
  Version 4.5

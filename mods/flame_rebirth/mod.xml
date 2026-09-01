@@ -5,25 +5,28 @@
     <Author>Fated Courage + Slimebucket</Author>
     <Category>Field Textures</Category>
     <Description>Rebirth Flame Plus
-    WARNING!! - REMASTER EDITION - If character textures are messed up DISABLE THIS MOD 
-    WARNING!! - There is an update coming to ffnx to fix this issue soon
-    WARNING!! - I will remove this warning at that time
-		
-		Version 2.1 now out
+    WARNING!! - REMASTER EDITION - DOES NOT WORK WITH THIS MOD 
+    WARNING!! - IF YOU WANT TO USE REMASTER EDTION USE POLY-UP or SKIN-RF
+
+		Version 2.2 now out
 				
 		Replaces playable character textures. 8x size of orignal textures ~ 1024x1024
 	
 		Includes main texture pack, and both Mago and Devina version of Squall, Rinoa and Quistis.
+
+		Recommonded to use Poly-Up or Skin-RF over this mod, they have nicer textures and models.
+		This mod works with OG 2013 assets only and does not work the REMASTER assets.
     
     Original mod Flame Rebirth 1.3 by Fated Courage
     J8 port, and extra texture work, eye fix by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/flame_rebirth_plus.7z</Link>
-      <Version>2.1</Version>
-      <ReleaseDate>2026-08-27</ReleaseDate>
+      <Version>2.2</Version>
+      <ReleaseDate>2026-08-31</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/NnSQnyY6/preview.png</PreviewImage>
       <ReleaseNotes>
+		v2.2 - remaster edition usage warning edited
 		v2.1 - minor texture fixes, remaster edition usage warning added
 		v2.0 - minor fix   - Selphie eye fix
 		v1.9 - minor fixes - Selphies Flail , Squalls Cutting Edge fixed, Field weapon textures fixed. 
