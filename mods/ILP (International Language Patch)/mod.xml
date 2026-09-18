@@ -4,11 +4,11 @@
   <Name>FF8 ILP (International Language Patch)</Name>
   <Author>Hobbitdur</Author>
   <Category>Gameplay</Category>
-  <Description>Patch the english version of the game to one of those language: French, Spanish, German, Italian</Description>
+  <Description>Patch the english version of the game to one of those language: French, Spanish, German, Italian. Includes retranslation of original japan script to English. </Description>
   <LatestVersion>
     <Link>iroj://Url/https$modcdn.win/Hobbitdur/ilp.zip</Link>
-      <Version>1.7</Version>
-      <ReleaseDate>2025-06-13</ReleaseDate>
+      <Version>1.8</Version>
+      <ReleaseDate>2026-09-18</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://modcdn.win/Hobbitdur/preview_ilp.png</PreviewImage>
     <ReleaseNotes>
@@ -23,6 +23,7 @@ Release note:
   - 1.5: Fix world map not loading monsters
   - 1.6 Fix menu crashing in name selection
   - 1.7 Fix scan text
+  - 1.8 Added english retranslation of original Japan script to English
 Known limitation:
   - Card game "You lose" and others not translated => Use Card-RF
   - Some UI not translated (like "Target" in battle), some specific graphic work to do => WIP
@@ -30,7 +31,8 @@ Acknowledgment:
   - Big thanks to myst6re for his Deling tool and all modification done on it for this mod
   - Special thanks to Riccardo for heavy beta testing of ShumiTranslator
   - Thanks to Martin for the preview image
-  - Thanks to Ducladoncladon for some asset work
+  - Thanks to Dulca for some asset work
+  - Thanks to PeterSly for the English retranslation from japanese
 </ReleaseNotes>
   <DownloadSize>291000</DownloadSize>
   </LatestVersion>
