@@ -2,39 +2,41 @@
 <Mod>
   <ID>b1e52b98-adb0-4f42-bc14-2e450eab8284</ID>
   <Name>Ragnarok</Name>
-  <Author>Callisto (ported by Hobbitdur)</Author>
+  <Author>Callisto</Author>
   <Category>Gameplay</Category>
-  <Description>Famous Ragnarok mod from Callisto now available on JunctionVIII !
+  <Description>
+This mod was created with the aim of rebalancing several gameplay aspects of Final Fantasy VIII, such as the usefulness of all characters in battle, the power level of Limit Breaks, and the ways of obtaining powerful tools to become stronger. Not only does this mod limit the gains from playing Triple Triad or make enemies more challenging, but it also adds various convenience functions not present in the original game, such as lifting the Draw cap in battles, providing additional save possibilities, or giving the characters basic spells right off the bat.
 
-  Hello everyone, and welcome to the Ragnarok Mod. This mod was created with the aim of rebalancing several gameplay aspects of Final Fantasy VIII, such as usefulness of all characters in battle, the power level of Limit Breaks, or the ways of obtaining powerful tools to become stronger. Not only does this mod limit the gains from playing Triple Triad or makes enemies more challenging, it also adds various convenience functions not present in the original game, such as lifting the Draw cap in battles, providing additional save possibilities or giving the characters basic spells right off the bat.
+Overall, the mod is for those who look for a new challenge and maybe those who would like to relive Final Fantasy VIII the way they did during their very first playthrough, when they didn't know the game inside out yet. Of course, new players are welcome as well, but they should get accustomed to how the general gameplay mechanics work first.
 
-  Overall, the mod is for those who look for a new challenge and maybe those who would like to relive Final Fantasy VIII the way they did during their very first playthrough, when they didn't know the game inside out yet. Of course, new players are welcome as well, but should get accustomed to how the general gameplay mechanics work first.
+The mod has been playtested from start to finish and should be largely bug-free. If you give this mod a try and discover something off, please report it on the forum or Discord. 
 
-  It has been playtested from start to finish and should be largely bug-free. Also don't be shy to share any impressions about the mod, such as the balancing changes being on point or not, or any suggestions for improvement.
-
-  To check if the mod is working, you should have magic already available when launching a new game.
+To check if the mod is working, you should have magic already available when launching a new game. In battles, you should have no problem drawing more than 10 spells per Draw for low-level magic, such as Cure, Fire, or Blizzard.
   </Description>
+
   <LatestVersion>
-    <Link>iroj://Url/https$modcdn.win/Hobbitdur/ragnarok.zip</Link>
-    <Version>1.1</Version>
-    <ReleaseDate>2026-03-29</ReleaseDate>
+    <Link>iroj://GDrive/1UUIuTGurJzY0hLGaf_mgjJjhgKeFIzoo</Link>
+    <Version>2.0</Version>
+    <ReleaseDate>2026-09-21</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://modcdn.win/Hobbitdur/ragnarok_preview.png</PreviewImage>
+    <PreviewImage>https://i.imgur.com/6cmvP7A.png</PreviewImage>
     <ReleaseNotes>
-  &#8226; 1.0: First release on JunctionVIII with classical
-  &#8226; 1.1: Adding LionHeart option. Thanks to vodkup on helping porting this version !
+&#8226; 1.0: First release on JunctionVIII, ported by Hobbitdur
+&#8226; 1.1: Lionheart difficulty option added, ported by Hobbitdur and vodkup
+&#8226; 2.0: Recent version with major updates, check the forum link for details
     </ReleaseNotes>
-    <DownloadSize>13399</DownloadSize>
+    <DownloadSize>245725</DownloadSize>
   </LatestVersion>
-  <Link>https://discord.com/channels/318179907098116106/1343458840212930600</Link>
-  <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
+
+  <Link>https://forums.qhimm.com/index.php?topic=18404.0</Link>
+  <DonationLink>https://ko-fi.com/callisto8</DonationLink>
+
   <Tags>
     <string>ragnarok</string>
     <string>hard</string>
     <string>mod</string>
     <string>gameplay</string>
-    <string>hobbit</string>
-    <string>hobbitdur</string>
     <string>Callisto</string>
   </Tags>
+
 </Mod>
