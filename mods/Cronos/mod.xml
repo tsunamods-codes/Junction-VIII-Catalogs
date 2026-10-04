@@ -1,102 +1,98 @@
+<?xml version="1.0"?>
 <Mod>
   <ID>260dd8f3-537a-4d34-b3d5-956cda71eac9</ID>
-  <Name>Cronos WIP</Name>
-  <Author>Hobbitdur &amp; Cronos Team</Author>
+  <Name>Cronos DEMO</Name>
+  <Author>Cronos Team</Author>
   <Category>Gameplay</Category>
-    <Description>
-            &#9658; The most ambitious gameplay mod &#9668;
+  <Description>
+            ► The most ambitious gameplay mod! ◄
 
-This mod will be the reference in gameplay. It will offer many option to enjoy the game.
-Thus, everyone will find his way of playing: No XP, balanced mod, nightmare mod, ...
-It provides also simple change for everyone that just want specific change on their vanilla game.
-With this mod you can make the following modification:
+This mod aims to set a new standard for gameplay enhancements.
+It introduces many innovative ideas, below is a list of some of the changes:
 
-    &#9670; General option &#9670;
-        &#8226; Language: For the moment only English works, except for gerogero uncensored.
+    ◆ General options: ◄
+        • Language: currently, only English is supported.
+        • Monsters Difficulty: Balanced (full Cronos mod) or VanillaNightmare (harder vanilla game, stat rework only).
+        • WIP mode: intended for testers only.
 
-    &#9670; Monster rework (Until Ifrit) &#9670;
-        &#8226; MonsterRework: Stat rework (Mathematical improved formula and stat change) + AI rework
+    ◆ Monsters rework (currently up to Ifrit) ◄
+        • Enhanced AI, rewritten from the ground up.
+        • Stat overhaul (using an improved mathematical formula).
+        • Modified loot.
+        • Overhaul to all in-game encounters.
 
-    &#9670; Cronos Rework &#9670;
-        &#8226; EncountersRework: Change all encounters in the game
-        &#8226; FieldRework: Change fields data like dialog, quest, save point position,..
-        &#8226; MngrpRework: GF refine abilities
-        &#8226; ShopRework: Shop rework
-        &#8226; StartData: The data you start with
-        &#8226; DrawPoint: The draw point magic/quantity
-        &#8226; KernelRework: Change magic/item/weapon/abilities/monster attack/...
-        &#8226; WIP: For testers
+    ◆ Systems Rework ◄
+        • Custom damage formula.
+        • Junction values reworked.
+        • Junction strength no longer based on stock,
+        • but on minimum between character level and stock.
+        • Overhauled magic, items, weapons, abilities, monster attacks, and more.
+        • Reworked magic progression to be more gradual.
+        • New magic and battle items to play with.
+        • Limit break farming removed, no more skip turn spam!
+        • Modified field data such as dialogue and new quests.
+        • GF abilities overhaul.
+        • GFs also won't heal while walking or when resting.
+        • Complete shop rework, with new item prices.
+        • Rebalanced refines.
+        • SeeD salary no longer gained from moving.
+        • New perks for SeeD rank.
+        • Adjusted draw points.
+        • Damage no longer capped at 9999.
+        • Draws no longer capped at 9.
 
-    &#9670; Game fix &#9670;
-        &#8226; BahamutRareItem: Now actually increase the probability of really rare item.
-        &#8226; GerogeroUncensoredMenu: Use the japanese version without color change.
-        &#8226; GerogeroUncensoredBattle: Use the japanese version without color change.
-        &#8226; TrueRandomness: Use a real random generator.
-        &#8226; SquallComputeHit: Make squall fail sometimes !
+    ◆ Game fixes ◄
+        • Rare Item: Now properly increases the probability of obtaining rare items.
+        • Uncensored Gerogero: Uses the original, uncensored Japanese version.
+        • True Randomness: Implements a true random number generator.
+        • Squall hit computation: Allows Squall to occasionally miss!
 
-    &#9670; Quality of life &#9670;
-        &#8226; DamageCap: All damage can deal up to 65.535 (Eden damage is also cap to 65.535).
-        &#8226; NoMagicDepletion: Using magic doesn't decrease your stock.
-        &#8226; 255AP: Earn 255 AP after battle.
-        &#8226; SaveAnywhere: To be able to save in field. Use at your own risk !
+    ◆ Credits ◄
+        • Dangerous Dom: extensive testing.
+        • Hobbitdur: reverse engineering, HEXT and modding tools.
+        • Nihil: monsters and systems rework.
+        • Malekith: damage and base monster stat formulas.
+        • Unicorngoulash: limit break turn skip abuse fix.
 
-    &#9670; Little gameplay mod &#9670;
-        &#8226; NoXP: Don't earn any XP at end of battle.
-        &#8226; TripleTryhard: Card values changed for a challenge. => To be tested
-        &#8226; QueenForest: Queen of cards and Chocobo forest updated to be more convenient => To be tested
+    ◆ Special thanks ◄
+        • AxlRoses for the awesome preview.
+        • Kurireddo for helping and testing.
+        • Maki for his reverse engineering work.
+        • myst6re for the Deling tool and reverse engineering work.
 
-    &#9670; DifficultyBalance &#9670;
-        &#8226; LimitbreakNotRefreshable: Make it impossible to refresh to get your limit-break.
-        &#8226; NoGfHeal: No free heal on GF on hotel or by walking?
-        &#8226; DamageFormulaUpdate: Change damage formula to have a smoother progression. Don't divide magic monster damage by 2.
-        &#8226; JunctionRework: Junction value is linked to level or min between the level and the number of magic junctionned.
-        &#8226; DrawRework: Change the draw logic(Either draw more than 9 or draw 100)
-        &#8226; 255HitCanFail: Make that weapon can fail even at 255%.
+        Join the team or follow the news by clicking the link! Help Hobbit continue this work by supporting him on Patreon!
 
-    &#9670; Dev setup &#9670;
-        &#8226; AddRandomVar: Allow modders to use random numbers in the AI.
-
-    &#9670; Special thanks &#9670;
-        &#8226; myst6re for Deling tool and RE work
-        &#8226; Nihil for AI, stat, encounter rework
-        &#8226; Malekith for stat rework
-        &#8226; Unicorngoulash for LimitBreakNotRefreshable
-        &#8226; AxlRoses for the awesome preview
-        &#8226; Maki for his work on RE
-        &#8226; Dulca for TripleTryHard and QueenForest
-        &#8226; Dangerous Dom for beta testing
-
-        Join the team or follow the news by clicking on the link ! Help me to continue this work participating in the Patreon page !
-
-        Dev note - This mod use the following cave code:
+        Dev note: This mod uses the following code cave:
         0x45B38C, 0x4670DC, 0x462605, 0x4626F9, 0x463090
     </Description>
   <LatestVersion>
-    <Link>iroj://Url/https$modcdn.win/Hobbitdur/cronos.zip</Link>
-    <Version>0.7</Version>
-      <ReleaseDate>2025-11-25</ReleaseDate>
+    <Version>0.8</Version>
+    <ReleaseDate>2026-10-03</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://modcdn.win/Hobbitdur/Cronos_Preview.png</PreviewImage>
     <ReleaseNotes>
-    &#8226; 0.1
-        Adding MaximumDraw, DamageCap, NoMagicDepletion
-    &#8226; 0.2
-        Adding 255AP, SaveAnywhere, BahamutRareItem, GerogeroUncensored, NoUnequippedOnDream, NoXP
-    &#8226; 0.3
-        Fixing SaveAnywhere
-    &#8226; 0.4:
-        Adding DamageFormulaUpdate, LimitbreakNotRefreshable, JunctionDependOfLevel, JunctionDependOfMinLevelQuantity, TrueRandomness, G-Soldier
-    &#8226; 0.5:
-        Change DamageFormulaUpdate, DrawNotLimited
-    &#8226; 0.6:
-        Adding AiRework, QueenForest , TripleTryhard, SquallComputeHit, 255HitCanFail, GerogeroUncensoredMenu, GerogeroUncensoredBattle
-               DrawPoint, FieldRework, MngrpRework, ShopRework, WIP, MonsterRework/Balanced
-        Fixing SaveAnywhere
-    &#8226; 0.7:
-        Fix worldmap draw by changing SquallComputeHit, fix DrawRework/Draw100, fix encounter in forest
-        Remove NoUnequippedOnDream (Creates bug when switching GF).
+    • 0.1
+        Added MaximumDraw, DamageCap, NoMagicDepletion.
+    • 0.2
+        Added 255AP, SaveAnywhere, BahamutRareItem, GerogeroUncensored, NoUnequippedOnDream, NoXP.
+    • 0.3
+        Fixed SaveAnywhere.
+    • 0.4
+        Added DamageFormulaUpdate, LimitbreakNotRefreshable, JunctionDependOfLevel, JunctionDependOfMinLevelQuantity, TrueRandomness, G-Soldier.
+    • 0.5
+        Changed DamageFormulaUpdate, DrawNotLimited.
+    • 0.6
+        Added AiRework, QueenForest, TripleTryhard, SquallComputeHit, 255HitCanFail, GerogeroUncensoredMenu, GerogeroUncensoredBattle,
+        DrawPoint, FieldRework, MngrpRework, ShopRework, WIP, MonsterRework/Balanced.
+        Fixed SaveAnywhere.
+    • 0.7:
+        Fixed worldmap draw by modifying SquallComputeHit; fixed DrawRework/Draw100; fixed encounters in forests.
+        Removed NoUnequippedOnDream (caused bugs when switching GFs).
+    • 0.8: Split from FF8 Gameplay Customizer mod.
+    • 0.9: Added EscapeByEnemyHP, fixed SquallComputeHit, TrueWaitMode.
     </ReleaseNotes>
-   <DownloadSize>2110</DownloadSize>
+    <DownloadSize>21774</DownloadSize>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/cronos.zip</Link>
   </LatestVersion>
   <Link>https://discord.gg/A7uFA4WqQY</Link>
   <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
