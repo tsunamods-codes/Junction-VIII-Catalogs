@@ -8,22 +8,23 @@
 
 If you can create an HD remaster of the graphics, can you create an HD remaster of the story? 
 
-Yes, you can...and in honor of this game's 20th anniversary, that's exactly what I've done. </Description>
+Yes, you can...and in honor of this game's 20th anniversary, that's exactly what I've done. 
+  </Description>
   <LatestVersion>
-    <Link>iroj://Url/https$modcdn.win/Hobbitdur/succession.zip</Link>
     <Version>1.10</Version>
-    <ReleaseDate>2025-05-21</ReleaseDate>
+    <ReleaseDate>2026-10-03</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://modcdn.win/Hobbitdur/preview-succession.png</PreviewImage>
     <ReleaseNotes>
-    Release note:
-    - 1.10: First release on JunctionVIII
-    </ReleaseNotes>
-    <DownloadSize>1170</DownloadSize>
+Release note:
+  - 1.10: First release on JunctionVIII
+</ReleaseNotes>
+    <DownloadSize>1196</DownloadSize>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/succession.zip</Link>
   </LatestVersion>
   <Link>https://forums.qhimm.com/index.php?topic=19184.0</Link>
   <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
-    <Tags>
+  <Tags>
     <string>succession</string>
     <string>percival</string>
     <string>story</string>
