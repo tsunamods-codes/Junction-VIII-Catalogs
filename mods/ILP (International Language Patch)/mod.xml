@@ -2,13 +2,13 @@
 <Mod>
   <ID>3d7436a1-2cd7-4503-821a-910b0f7aa7e3</ID>
   <Name>FF8 ILP (International Language Patch)</Name>
-  <Author>Hobbitdur</Author>
+  <Author>Hobbitdur &amp; Myst6re</Author>
   <Category>Gameplay</Category>
-  <Description>Patch the english version of the game to one of those language: French, Spanish, German, Italian. Includes retranslation of original japan script to English. </Description>
+  <Description>Patch the english version of the game to one of those language: French, Spanish, German, Italian. Includes retranslation of original japan script to English. 
+  </Description>
   <LatestVersion>
-    <Link>iroj://Url/https$modcdn.win/Hobbitdur/ilp.zip</Link>
-      <Version>1.8</Version>
-      <ReleaseDate>2026-09-18</ReleaseDate>
+    <Version>1.8</Version>
+    <ReleaseDate>2026-10-03</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://modcdn.win/Hobbitdur/preview_ilp.png</PreviewImage>
     <ReleaseNotes>
@@ -25,8 +25,8 @@ Release note:
   - 1.7 Fix scan text
   - 1.8 Added english retranslation of original Japan script to English
 Known limitation:
-  - Card game "You lose" and others not translated => Use Card-RF
-  - Some UI not translated (like "Target" in battle), some specific graphic work to do => WIP
+  - Card game "You lose" and others not translated =&gt; Use Card-RF
+  - Some UI not translated (like "Target" in battle), some specific graphic work to do =&gt; WIP
 Acknowledgment:
   - Big thanks to myst6re for his Deling tool and all modification done on it for this mod
   - Special thanks to Riccardo for heavy beta testing of ShumiTranslator
@@ -34,7 +34,8 @@ Acknowledgment:
   - Thanks to Dulca for some asset work
   - Thanks to PeterSly for the English retranslation from japanese
 </ReleaseNotes>
-  <DownloadSize>301076</DownloadSize>
+    <DownloadSize>297328</DownloadSize>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/ilp.zip</Link>
   </LatestVersion>
   <Link>https://discord.com/channels/318179907098116106/1244453452394790992</Link>
   <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
