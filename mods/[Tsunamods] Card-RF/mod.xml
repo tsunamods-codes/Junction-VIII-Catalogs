@@ -2,31 +2,32 @@
 <Mod>
   <ID>042ff62e-5819-4b2e-b993-e65e806fafd5</ID>
   <Name>[Tsunamods] Card-RF</Name>
-  <Author>Ducladoncladon &amp; Hobbitdur</Author>
-  <Category>Gameplay</Category>
+  <Author>Dulca &amp; XHRIS &amp; Hobbitdur &amp; Ash &amp; Slimebuck</Author>
+  <Category>Battle Textures</Category>
   <Description>
-Card-RF is a graphical update to the beloved Triple Triad minigame!
-Which can now be played in full 60 FPS thanks to FFNx.
-Using original reference artworks from Final Fantasy 8 and higher,
-and a combination of AI upscaling and many hours of manual touch ups and
-corrections, we have brought this amazing minigame to a more modern appearance
-  </Description>
+        Card-RF is a graphical update to the beloved Triple Triad minigame!
+        Which can now be played in full 60 FPS thanks to FFNx.
+        Either using the vanilla upscale, or the Xylo option that use only
+        original reference artworks from Final Fantasy 8 and higher,
+        we have brought this amazing minigame to a more modern appearance
+    </Description>
   <LatestVersion>
-    <Link>iroj://Url/https$modcdn.win/Hobbitdur/card-rf.zip</Link>
-    <Version>1.4</Version>
-    <ReleaseDate>2025-03-28</ReleaseDate>
+    <Version>1.5</Version>
+    <ReleaseDate>2026-10-03</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://modcdn.win/Hobbitdur/card-rf-logo.png</PreviewImage>
-  <ReleaseNotes>
-- 1.2: Fixed Card Menu Textures not working
-- 1.3: Adding language option
-- 1.4: New configuration options, languages and cards : 
-  - Vanilla enhanced cards
-  - New boards (credits to Ash)
-  </ReleaseNotes>
-    <DownloadSize>272000</DownloadSize>
+    <ReleaseNotes>
+        - 1.2: Fixed Card Menu Textures not working
+        - 1.3: Adding language option
+        - 1.4: New configuration options, languages and cards : 
+            - Vanilla enhanced cards
+            - New boards (credits to Ash)
+        - 1.5: New Vanilla enhanced option (credits to XHRIS and Slimebuck)
+    </ReleaseNotes>
+    <DownloadSize>452213</DownloadSize>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/card-rf.zip</Link>
   </LatestVersion>
-   <Link>https://discord.gg/Bu5ZAzdwXV</Link>
+  <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
   <DonationLink>https://www.patreon.com/HobbitMods</DonationLink>
   <Tags>
     <string>T3</string>
