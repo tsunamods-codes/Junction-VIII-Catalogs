@@ -1,45 +1,45 @@
+<?xml version="1.0"?>
 <Mod>
   <ID>260dd8f3-537a-4d34-b3d5-956cda71eaca</ID>
   <Name>[Tsunamods] FF8 Gameplay Customizer</Name>
   <Author>Hobbitdur</Author>
   <Category>Gameplay</Category>
-     <Description>
-            &#9658; The ultimate gameplay tweaks &#9668;
+  <Description>
+            ► The ultimate gameplay tweaks ◄
 
-This mods aims to bring lots of options to the gameplay to enjoy your game how you want it !
+This mods aims to bring lots of gameplay tweaks to FF8 and allow you to customize it to suit your preferences!
 
-    &#9670; Quality of life &#9670;
-        &#8226; DamageCapIncreased: Bring the damage cap up to 65.535.
-        &#8226; NoMagicDepletion: Using magic doesn't decrease your stock.
-        &#8226; DrawRework: Change the draw logic (Draw cap of 9 lifted, or always draw 100).
-        &#8226; AP: Earn from 0 to 255AP. Thanks to Satan-fatalityz for funding part of this!
-        &#8226; EXP: Earn from 0 EXP to x8 EXP. Thanks to Satan-fatalityz for funding part of this!
-        &#8226; SaveAnywhere: Allow to save in any field, but keep a side save on normal save point to be sure.
+    ◆ Quality of life ◆
+        • DamageCapIncreased: Bring the damage cap up to 65.535.
+        • NoMagicDepletion: Using magic doesn't decrease your stock.
+        • DrawRework: Change the draw logic (Draw cap of 9 lifted, or always draw 100).
+        • AP: Earn from 0 to 255AP. Thanks to Satan-fatalityz for funding part of this!
+        • EXP: Earn from 0 EXP to x16 EXP. Thanks to Satan-fatalityz for funding part of this!
+       • SaveAnywhere: Allow to save in any field, but keep a side save on normal save point to be sure.
 
-    &#9670; Special thanks &#9670;
-        &#8226; myst6re for Deling tool and RE work
-        &#8226; Maki for his work on RE
-        &#8226; DangerousDom and Nihil for testing
-        &#8226; SlimeBucket for the preview
-
+    ◆ Special thanks ◆
+        • myst6re for Deling tool and RE work
+        • Maki for his work on RE
+        • DangerousDom and Nihil for testing
+        • SlimeBucket for the preview
     </Description>
   <LatestVersion>
-    <Link>iroj://Url/https$download.tsunamods.com?id=24</Link>
     <Version>0.4</Version>
-      <ReleaseDate>2026-09-20</ReleaseDate>
+    <ReleaseDate>2026-10-03</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://modcdn.win/Hobbitdur/customizer_preview.png</PreviewImage>
     <ReleaseNotes>
-    &#8226; 0.1
+    • 0.1
         Adding DrawRework, DamageCapIncreased, NoMagicDepletion
-    &#8226; 0.2
+    • 0.2
         Adding AP, EXP
-    &#8226; 0.3
+    • 0.3
         Adding SaveAnywhere
-    &#8226; 0.4
+    • 0.4
         Fixing field and worldmap draw for DrawRework - MaximumDraw.
     </ReleaseNotes>
-   <DownloadSize>4238</DownloadSize>
+    <DownloadSize>4293</DownloadSize>
+    <Link>iroj://Url/https$download.tsunamods.com?id=24</Link>
   </LatestVersion>
   <Link>https://discord.gg/A7uFA4WqQY</Link>
   <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
