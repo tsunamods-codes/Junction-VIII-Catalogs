@@ -3,8 +3,8 @@
   <ID>42713d86-16ce-4a15-bf90-7c39235f458e</ID>
   <Name>FFVIII Reloaded</Name>
   <Author>Mexico (ported by HobbitDur)</Author>
-    <Category>Gameplay</Category>
-    <Description>
+  <Category>Gameplay</Category>
+  <Description>
     Hard mod for FFVIII
     DESCRIPTION:
     The changes made to the game are numerous, so I won’t list them all here. Instead, I’ll let you discover them for yourself. However, here’s a brief overview to answer some of your questions:
@@ -19,18 +19,18 @@
     - And much more…
     </Description>
   <LatestVersion>
-    <Link>iroj://Url/https$modcdn.win/Hobbitdur/ff8_reloaded.iroj</Link>
     <Version>1.0</Version>
-      <ReleaseDate>2025-01-03</ReleaseDate>
+    <ReleaseDate>2026-10-03</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://modcdn.win/Hobbitdur/logo_ff8_reloaded.png</PreviewImage>
     <ReleaseNotes>
     - 1.0: Release french version
     </ReleaseNotes>
-    <DownloadSize>619241</DownloadSize>
+    <DownloadSize>665044</DownloadSize>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/ff8_reloaded.iroj</Link>
   </LatestVersion>
-  <Link>https://discord.com/channels/318179907098116106/1244453452394790992</Link>
-  <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
+  <Link>https://www.youtube.com/watch?v=68CLED6NDMk</Link>
+  <DonationLink>https://www.patreon.com/HobbitMods</DonationLink>
   <Tags>
     <string>ff8</string>
     <string>reloaded</string>
