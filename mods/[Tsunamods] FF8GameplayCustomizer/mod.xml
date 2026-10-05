@@ -12,7 +12,7 @@ This mods aims to bring lots of gameplay tweaks to FF8 and allow you to customiz
     ◆ Quality of life ◆
         • DamageCapIncreased: Bring the damage cap up to 65.535.
         • NoMagicDepletion: Using magic doesn't decrease your stock.
-        • DrawRework: Change the draw logic (Draw cap of 9 lifted, or always draw 100).
+        • DrawRework: Configure battle drawing, with separate Draw 100 options for field and world-map draw points.
         • AP: Earn from 0 to 255AP. Thanks to Satan-fatalityz for funding part of this!
         • EXP: Earn from 0 EXP to x16 EXP. Thanks to Satan-fatalityz for funding part of this!
        • SaveAnywhere: Allow to save in any field, but keep a side save on normal save point to be sure.
@@ -24,8 +24,8 @@ This mods aims to bring lots of gameplay tweaks to FF8 and allow you to customiz
         • SlimeBucket for the preview
     </Description>
   <LatestVersion>
-    <Version>0.4</Version>
-    <ReleaseDate>2026-10-03</ReleaseDate>
+    <Version>0.5</Version>
+    <ReleaseDate>2026-10-05</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://modcdn.win/Hobbitdur/customizer_preview.png</PreviewImage>
     <ReleaseNotes>
@@ -37,6 +37,8 @@ This mods aims to bring lots of gameplay tweaks to FF8 and allow you to customiz
         Adding SaveAnywhere
     • 0.4
         Fixing field and worldmap draw for DrawRework - MaximumDraw.
+    • 0.5
+        Split MaximumDraw into independent battle, field and world-map options.
     </ReleaseNotes>
     <DownloadSize>4293</DownloadSize>
     <Link>iroj://Url/https$download.tsunamods.com?id=24</Link>
