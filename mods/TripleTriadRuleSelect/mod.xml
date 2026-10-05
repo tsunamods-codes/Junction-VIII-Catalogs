@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>4f1c2d9a-7b3e-4c51-9a8e-2d6f0b1e7a01</ID>
+  <Name>Triple Triad Rule Select</Name>
+  <Author>BreDoyliesSea</Author>
+  <Category>Minigames</Category>
+  <Description>
+Pick the Triple Triad rules yourself, in Junction VIII's mod configuration.
+
+    &#8226; Open, Same, Plus, Random, Sudden Death, Same Wall, Elemental: each one Region default, Always on or Always off.
+    &#8226; Trade rule: Region default, One, Diff, Direct, All, or None (no cards change hands).
+    &#8226; Applies to every card game in every region. "Region default" keeps the game's own rule spreading and abolishing.
+
+Requires the Steam 2013 English release (FF8_EN.exe). Not for the Remastered edition, other languages or the 2000 release.
+  </Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$github.com/BreDoyliesSea/FF8Mods-releases/releases/download/v1.0/TripleTriadRuleSelect-1.0.zip</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2026-10-05</ReleaseDate>
+    <CompatibleGameVersions>Steam</CompatibleGameVersions>
+    <PreviewImage />
+    <ReleaseNotes>
+Version 1.0:
+  &#8226; Initial release.
+    </ReleaseNotes>
+    <DownloadSize>8</DownloadSize>
+  </LatestVersion>
+  <Link>https://github.com/BreDoyliesSea/FF8Mods-releases</Link>
+  <DonationLink />
+  <Tags>
+    <string>triple triad</string>
+    <string>cards</string>
+    <string>rules</string>
+    <string>minigame</string>
+    <string>hext</string>
+  </Tags>
+  <GameLanguage>EN</GameLanguage>
+</Mod>
