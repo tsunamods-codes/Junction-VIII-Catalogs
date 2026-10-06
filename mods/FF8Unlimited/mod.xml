@@ -23,6 +23,8 @@ Lifts FF8's list limits and lets you pick the Triple Triad rules. Each part is a
 
 Page numbers past 9 show both digits (P.12).
 
+Works alongside Cronos and FF8 Gameplay Customizer: keep FF8 Unlimited below them in the mod list (Junction VIII warns if not). While All Magic is on, their Junction value rework option can't be set to JunctionDependOfMinLevelQuantity, which reads magic from the old 32-slot location; Vanilla and JunctionDependOfLevel work.
+
 Requires the Steam 2013 English release (FF8_EN.exe). Not for the Remastered edition, other languages or the 2000 release.
 
 Dev note - memory this mod uses (only while that part is on):
@@ -32,14 +34,14 @@ Dev note - memory this mod uses (only while that part is on):
     &#8226; Page numbers: rewrites 0x4C0370-0x4C03D7 in place.
   </Description>
   <LatestVersion>
-    <Link>iroj://Url/https$github.com/BreDoyliesSea/FF8Mods-releases/releases/download/v1.1/FF8Unlimited-1.1.zip</Link>
-    <Version>1.1</Version>
-    <ReleaseDate>2026-10-05</ReleaseDate>
+    <Link>iroj://Url/https$github.com/BreDoyliesSea/FF8Mods-releases/releases/download/v1.2/FF8Unlimited-1.2.zip</Link>
+    <Version>1.2</Version>
+    <ReleaseDate>2026-10-06</ReleaseDate>
     <CompatibleGameVersions>Steam</CompatibleGameVersions>
     <PreviewImage />
     <ReleaseNotes>
-Version 1.1:
-  &#8226; Combines Triple Triad Rule Select, Unlimited GF Abilities and All Magic Per Character into one mod with options. Page numbers past 9 show two digits.
+Version 1.2:
+  &#8226; 1.2: works alongside Cronos and FF8 Gameplay Customizer: load order and their Junction value rework option are checked by Junction VIII. 1.1: combines Triple Triad Rule Select, Unlimited GF Abilities and All Magic Per Character into one mod with options. Page numbers past 9 show two digits.
     </ReleaseNotes>
     <DownloadSize>19</DownloadSize>
   </LatestVersion>
