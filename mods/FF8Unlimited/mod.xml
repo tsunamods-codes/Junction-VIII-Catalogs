@@ -34,16 +34,16 @@ Dev note - memory this mod uses (only while that part is on):
     &#8226; Page numbers: rewrites 0x4C0370-0x4C03D7 in place.
   </Description>
   <LatestVersion>
-    <Link>iroj://Url/https$github.com/BreDoyliesSea/FF8Mods-releases/releases/download/v1.2/FF8Unlimited-1.2.zip</Link>
-    <Version>1.2</Version>
-    <ReleaseDate>2026-10-06</ReleaseDate>
+    <Link>iroj://Url/https$github.com/BreDoyliesSea/FF8Mods-releases/releases/download/v1.3/FF8Unlimited-1.3.iroj</Link>
+    <Version>1.3</Version>
+    <ReleaseDate>2026-10-07</ReleaseDate>
     <CompatibleGameVersions>Steam</CompatibleGameVersions>
     <PreviewImage />
     <ReleaseNotes>
-Version 1.2:
-  &#8226; 1.2: works alongside Cronos and FF8 Gameplay Customizer: load order and their Junction value rework option are checked by Junction VIII. 1.1: combines Triple Triad Rule Select, Unlimited GF Abilities and All Magic Per Character into one mod with options. Page numbers past 9 show two digits.
+Version 1.3:
+  &#8226; 1.3: released as a Junction VIII .iroj archive, so installing from the catalog works. 1.2: works alongside Cronos and FF8 Gameplay Customizer: load order and their Junction value rework option are checked by Junction VIII. 1.1: combines Triple Triad Rule Select, Unlimited GF Abilities and All Magic Per Character into one mod with options. Page numbers past 9 show two digits.
     </ReleaseNotes>
-    <DownloadSize>19</DownloadSize>
+    <DownloadSize>55</DownloadSize>
   </LatestVersion>
   <Link>https://github.com/BreDoyliesSea/FF8Mods-releases</Link>
   <DonationLink />
