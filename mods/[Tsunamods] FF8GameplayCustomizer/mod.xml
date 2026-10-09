@@ -13,9 +13,16 @@ This mods aims to bring lots of gameplay tweaks to FF8 and allow you to customiz
         • DamageCapIncreased: Bring the damage cap up to 65.535.
         • NoMagicDepletion: Using magic doesn't decrease your stock.
         • DrawRework: Configure battle drawing, with separate Draw 100 options for field and world-map draw points.
+        • NoUnequippedOnDream: Dream characters inherit their normal counterparts' full junction setups.
         • AP: Earn from 0 to 255AP. Thanks to Satan-fatalityz for funding part of this!
         • EXP: Earn from 0 EXP to x16 EXP. Thanks to Satan-fatalityz for funding part of this!
        • SaveAnywhere: Allow to save in any field, but keep a side save on normal save point to be sure.
+
+    ◆ Game fix ◆
+        • BahamutRareItem: Fix rare item drop and mug probabilities.
+        • TrueRandomness: Replace the lookup-table RNG with the system rand function.
+        • GerogeroUncensoredCard: Restore Gerogero's uncensored card texture.
+        • GerogeroUncensoredBattle: Restore Gerogero's uncensored battle textures.
 
     ◆ Special thanks ◆
         • myst6re for Deling tool and RE work
@@ -24,8 +31,8 @@ This mods aims to bring lots of gameplay tweaks to FF8 and allow you to customiz
         • SlimeBucket for the preview
     </Description>
   <LatestVersion>
-    <Version>0.5</Version>
-    <ReleaseDate>2026-10-05</ReleaseDate>
+    <Version>0.6</Version>
+    <ReleaseDate>2026-10-09</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://modcdn.win/Hobbitdur/customizer_preview.png</PreviewImage>
     <ReleaseNotes>
@@ -39,8 +46,11 @@ This mods aims to bring lots of gameplay tweaks to FF8 and allow you to customiz
         Fixing field and worldmap draw for DrawRework - MaximumDraw.
     • 0.5
         Split MaximumDraw into independent battle, field and world-map options.
+    • 0.6
+        Add BahamutRareItem, TrueRandomness, GerogeroUncensoredCard, GerogeroUncensoredBattle and NoUnequippedOnDream.
+        Enable Difficulty Balance options and update Squall can miss with the corrected Cronos patch.
     </ReleaseNotes>
-    <DownloadSize>4293</DownloadSize>
+    <DownloadSize>4363</DownloadSize>
     <Link>iroj://Url/https$download.tsunamods.com?id=24</Link>
   </LatestVersion>
   <Link>https://discord.gg/A7uFA4WqQY</Link>
