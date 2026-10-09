@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>6ed51118-e60c-4087-8626-e9e9b6acd886</ID>
+  <Name>FF8 Unlimited</Name>
+  <Author>BreDoyliesSea</Author>
+  <Category>Gameplay</Category>
+  <Description>
+Lifts FF8's list limits and lets you pick the Triple Triad rules. Each part is an option in Configure and can be switched off on its own.
+
+    &#9670; All Magic Per Character &#9670;
+        &#8226; Every character holds every spell at once (64 slots instead of 32), up to 100 each.
+        &#8226; Every magic screen pages through them: magic menu, draw, refine, junction and auto-junction, item and exchange screens.
+        &#8226; The extra magic is kept in your normal save; older saves are converted when loaded. Saves made with it need it on to load their magic.
+
+    &#9670; Unlimited GF Abilities &#9670;
+        &#8226; No 22-ability limit per GF: teach any number of abilities with items, no Amnesia Greens needed.
+        &#8226; The GF menu Learn list, the item teach/forget list and the junction GF ability popup page through all of them.
+        &#8226; Saves stay in the vanilla format.
+
+    &#9670; Card rules &#9670;
+        &#8226; Open, Same, Plus, Random, Sudden Death, Same Wall, Elemental: Region default, Always on or Always off.
+        &#8226; Trade rule: Region default, One, Diff, Direct, All or None. Applies to every match in every region.
+
+Page numbers past 9 show both digits (P.12).
+
+Works alongside Cronos and FF8 Gameplay Customizer: keep FF8 Unlimited below them in the mod list (Junction VIII warns if not). While All Magic is on, their Junction value rework option can't be set to JunctionDependOfMinLevelQuantity, which reads magic from the old 32-slot location; Vanilla and JunctionDependOfLevel work.
+
+Requires the Steam 2013 English release (FF8_EN.exe). Not for the Remastered edition, other languages or the 2000 release.
+
+Dev note - memory this mod uses (only while that part is on):
+    &#8226; All Magic: code cave 0x24B6000-0x24B6572 and data 0x24B5000-0x24B5B28, 0x25D5000-0x25D7980 (unused .data); about 440 patched sites.
+    &#8226; GF Abilities: code cave 0xB68940-0xB68C0E (end of .text) and data 0x400400-0x400860 (PE header tail).
+    &#8226; Card rules: code cave 0xB68E00-0xB68E3D (end of .text); hook at 0x522652.
+    &#8226; Page numbers: rewrites 0x4C0370-0x4C03D7 in place.
+  </Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$github.com/BreDoyliesSea/FF8Mods-releases/releases/download/v1.3/FF8Unlimited-1.3.iroj</Link>
+    <Version>1.3</Version>
+    <ReleaseDate>2026-10-07</ReleaseDate>
+    <CompatibleGameVersions>Steam</CompatibleGameVersions>
+    <PreviewImage />
+    <ReleaseNotes>
+Version 1.3:
+  &#8226; 1.3: released as a Junction VIII .iroj archive, so installing from the catalog works. 1.2: works alongside Cronos and FF8 Gameplay Customizer: load order and their Junction value rework option are checked by Junction VIII. 1.1: combines Triple Triad Rule Select, Unlimited GF Abilities and All Magic Per Character into one mod with options. Page numbers past 9 show two digits.
+    </ReleaseNotes>
+    <DownloadSize>55</DownloadSize>
+  </LatestVersion>
+  <Link>https://github.com/BreDoyliesSea/FF8Mods-releases</Link>
+  <DonationLink />
+  <Tags>
+    <string>magic</string>
+    <string>gf</string>
+    <string>guardian force</string>
+    <string>abilities</string>
+    <string>triple triad</string>
+    <string>cards</string>
+    <string>rules</string>
+    <string>junction</string>
+    <string>gameplay</string>
+    <string>hext</string>
+  </Tags>
+  <GameLanguage>EN</GameLanguage>
+</Mod>
