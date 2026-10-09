@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>a98fb2fb-e455-4aa2-ba89-be6fe94a2e87</ID>
+  <Name>SkipIntro</Name>
+  <Author>HobbitDur</Author>
+  <Category>Miscellaneous</Category>
+  <Description>
+        ► Get into FFVIII faster ◄
+
+Choose which startup sequences to skip, or keep the ones you enjoy!
+
+    ◆ Quality of life ◆
+        • Square Enix logo: Skip the publisher movie.
+        • Squaresoft logo: Skip the logo image and its fades.
+        • Initial black pause: Skip the pause before the FF8 credits images.
+        • FF8 images: Skip the credits images and Overture music.
+        • Instant manual skip: Go to the title menu immediately when pressing the skip button.
+
+All five options are enabled by default and can be changed independently.
+Turn off “Skip FF8 images” to enjoy the images and music with the other tweaks.
+    </Description>
+  <LatestVersion>
+    <Version>1.0</Version>
+    <ReleaseDate>2026-10-05</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage />
+    <ReleaseNotes>
+    • 1.0
+        Mod creation
+    </ReleaseNotes>
+    <DownloadSize>381</DownloadSize>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/skipintro.zip</Link>
+  </LatestVersion>
+  <Link>https://discord.gg/A7uFA4WqQY</Link>
+  <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
+  <Tags>
+    <string>ff8</string>
+    <string>skipintro</string>
+    <string>hobbitdur</string>
+  </Tags>
+</Mod>
