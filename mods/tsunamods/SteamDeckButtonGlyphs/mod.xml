@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>0b3d409a-1923-4e94-9d41-ffa331b6d517</ID>
+  <Name>FF8 Steam Deck Button Glyphs</Name>
+  <Author>todi</Author>
+  <Category>User Interface</Category>
+  <Description>
+    Shows the Steam Deck buttons (A, B, X, Y, L1/R1, L2/R2, View, Menu) wherever FF8 names a button, instead of "B1", "B2", ...
+    The glyphs follow your bindings from the in-game Config screen.
+
+    Requires the English Steam 2013 version (FF8_EN.exe) with FFNx. Turns on FFNx's ff8_use_gamepad_icons.
+    With AxlRose's WIP (UI on): place this mod above it in the list.
+  </Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$github.com/CrashTestButter/ff8-deck-glyphs/releases/download/v0.8/FF8DeckGlyphs.iroj</Link>
+    <Version>0.8</Version>
+    <ReleaseDate>2026-10-12</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://raw.githubusercontent.com/CrashTestButter/ff8-deck-glyphs/v0.8/docs/button-assignment.png</PreviewImage>
+    <ReleaseNotes>
+      0.8: first catalog release, textures only.
+    </ReleaseNotes>
+    <DownloadSize>8194</DownloadSize>
+  </LatestVersion>
+  <Link>https://github.com/CrashTestButter/ff8-deck-glyphs</Link>
+  <DonationLink></DonationLink>
+  <Tags>
+    <string>UI</string>
+    <string>Buttons</string>
+    <string>Controller</string>
+    <string>Steam Deck</string>
+  </Tags>
+</Mod>
