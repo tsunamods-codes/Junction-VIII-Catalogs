@@ -12,11 +12,11 @@
     With AxlRose's WIP (UI on): place this mod above it in the list.
   </Description>
   <LatestVersion>
-	  <Link>iroj://Url/https$github.com/CrashTestButter/ff8-deck-glyphs/releases/download/v0.8/FF8DeckGlyphs.iroj</Link>
+    <Link>iroj://Url/https$github.com/CrashTestButter/ff8-deck-glyphs/releases/download/v0.8/FF8DeckGlyphs.iroj</Link>
     <Version>0.8</Version>
     <ReleaseDate>2026-10-12</ReleaseDate>
-    <CompatibleGameVersions>Steam</CompatibleGameVersions>
-    <PreviewImage>https://raw.githubusercontent.com/CrashTestButter/ff8-deck-glyphs/master/docs/button-assignment.png</PreviewImage>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://raw.githubusercontent.com/CrashTestButter/ff8-deck-glyphs/v0.8/docs/button-assignment.png</PreviewImage>
     <ReleaseNotes>
       0.8: first catalog release, textures only.
     </ReleaseNotes>
