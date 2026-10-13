@@ -16,30 +16,6 @@ Catalogs for Junction-VIII - Maintained by the Tsunamods community
 
 ## `mod.xml` Template
 
-```xml
-<?xml version="1.0"?>
-<Mod>
-    <ID></ID>
-    <Name></Name>
-    <Author></Author>
-    <Category></Category>
-    <Description></Description>
-    <LatestVersion>
-      <Link></Link>
-      <Version></Version>
-      <ReleaseDate></ReleaseDate>
-      <CompatibleGameVersions></CompatibleGameVersions>
-      <PreviewImage></PreviewImage>
-      <ReleaseNotes>
-      </ReleaseNotes>
-      <DownloadSize></DownloadSize>
-    </LatestVersion>
-    <Link></Link>
-    <DonationLink></DonationLink>
-    <Tags>
-      <string></string>
-    </Tags>
-  </Mod>
-```
+See https://github.com/tsunamods-codes/Junction-VIII/blob/master/docs/CATALOG.md
 
-You may also have a look at [any of the mods](mods) already present in this repository to have a look at the structure.
+More examples can be found in the [mods](mods) directory.
