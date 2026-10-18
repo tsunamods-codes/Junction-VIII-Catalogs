@@ -1,0 +1,1364 @@
+<?xml version="1.0"?>
+<Catalog Name="Tsunamods Catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Mods>
+
+<Mod>
+  <ID>7a3c8d1f-4e6b-4a9c-b123-8f9e4d2c7a1b</ID>
+  <Name>andr33ww - Glacial Eyedrop [1st Preview]</Name>
+  <Author>andr33ww</Author>
+  <Category>User Interface</Category>
+  <Description>
+- Glacial Eyedrop is a graphical user interface mod that tries to replace 2D arts on the game with
+  manually redrawn higher resolution (4x original) version.
+- Glacial Eyedrop doesn't use ai, I (andr33ww) drew all the image on top of the original
+  one (scaled by times 4) pixel by pixel, with reference from the original art and original
+  3d model and original cutscenes.
+- The target of this mod will cover: All Character Art (Switch Menu, Junction Menu, Save and load Menu),
+  All GF Art (Currently not available), All Card Art (Currently: 52 cards on works), and Card Game UI (bringback old ps1 style font with modern touch, and all
+  redrawn elements, backgrounds, etc)
+- This mod is still in early development, all released image might change from time to time,
+  I usually review and redraw and reedit images that doesn't look or move too away from the
+  original images from time to time.
+- Every suggestions and donations would be so considered and much apreciated and will help me in
+  develop this mod to the finish.
+  </Description>
+  <LatestVersion>
+    <Link>iroj://GDrive/1sPNO0Op0VLhJ-6dqEMozLfcK3_25RXkm</Link>
+    <Version>0.1</Version>
+    <ReleaseDate>2025-03-11</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/1yKnvW1.jpeg</PreviewImage>
+    <ReleaseNotes>
+Version 0.1 [Initial Preview Release]:
+- All Character on Menu (Switch Menu, Junction Menu, Save and load Menu)
+- All Main Character Cards
+- Almost all of GF Cards
+- Some enemies Cards
+- Cards borders and backgrounds
+- Playstation 1 Style Cardgame Fonts
+- All card elements
+- You Win, You Lose, Draw, Same, Combo and Plus signs 
+    </ReleaseNotes>
+    <DownloadSize>83036</DownloadSize>
+  </LatestVersion>
+  <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
+  <DonationLink>https://paypal.me/andr33ww</DonationLink>
+  <Tags>
+    <string>andr33ww</string>
+    <string>glacial</string>
+    <string>eyedrop</string>
+    <string>card</string>
+    <string>tripletriad</string>
+  </Tags>
+</Mod>
+
+
+<Mod>
+  <ID>7cc32d70-5024-4bf0-a7f8-a7c583b54f9c</ID>
+  <Name>AxlRose&apos;s WIP &#40;Incomplete&#41;</Name>
+  <Author>AxlRose</Author>
+  <Category>Miscellaneous</Category>
+  <Description>        Work in Progress mod &#40;manually set at the top of the list&#41;
+
+            &#45; Few upscaled field backgrounds &#40;AI assisted&#41; and field character textures
+            &#45; Enhanced UI and Themes plus tons of new stuff
+  </Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$github.com/AxlRose-RX/AxlRoseWIP/releases/latest/download/AxlRoseWIP.7z</Link>
+    <Version>2026.0914</Version>
+    <ReleaseDate>2025-01-12</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://raw.githubusercontent.com/AxlRose-RX/AxlRoseWIP/canary/preview/preview_v2026.0914.png</PreviewImage>
+    <ReleaseNotes>     v2026.0914 &gt; FIELD BACKGROUNDS!&#58;
+
+        &#45; 146 extra 4x upscaled &#40;AI assisted&#41; field backgrounds&#58; 303&#47;877
+        &#45; All new bv, cd, cr, cw, dd, do, ea and eb sets&#58;
+      
+            Train,
+            Centra Excavation Site,
+            Centra Ruins,
+            Chocobo Forest,
+            Deep Sea Deposit,
+            Deep Sea Research Center Levels,
+            Dollet,
+            and Lunatic Pandora
+  </ReleaseNotes>
+    <DownloadSize>531782</DownloadSize>
+  </LatestVersion>
+  <Link>https://discord.com/invite/7Rsvsewghz</Link>
+  <DonationLink>https://www.paypal.com/donate/?hosted_button_id=FTA38UUZJ5QAN</DonationLink>
+  <Tags>
+    <string>axlrose</string>
+    <string>tsunamods</string>
+    <string>backgrounds</string>
+    <string>ai</string>
+    <string>upscales</string>
+  </Tags>
+</Mod>
+
+
+<Mod>
+    <ID>aa49a689-a113-41fb-af64-945aeb9f8df9</ID>
+    <Name>BattlefieldPack Plus (Battle Textures)</Name>
+    <Author>MCINDUS + Fated Courage + G-Nite + Slimebucket</Author>
+    <Category>Battle Textures</Category>
+    <Description>Battlefield Pack Plus - Battlefield Texture replacement mod.
+  
+  Upscales all battlefield backgrounds. 
+
+        version 2.2 out now! - Fixed lines in the ground at battlefield By Balamb - A0STG101.X-0_00
+
+Original mod Battlefieldpack v3.1 created by MCINDUS + FatedCourage
+ffnx conversion to ffnx G-Nite
+ extra work and junction8 conversion by Slimebucket</Description>
+    <LatestVersion>
+      <Link>iroj://Url/https$www.gp-mc.net/mcindus/battlefieldpack.7z</Link>
+      <Version>2.2</Version>
+      <ReleaseDate>2026-02-18</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/ynY7ZCQC/preview.png</PreviewImage>
+      <ReleaseNotes>
+                Version 2.2 - fixed lines in ground on A0STG101.X-0_00
+                Version 2.1 - Broken battlefield at Balamb Garden fight between NORG and CID forces fixed
+                Version 2.0 - Reconverted DDS files to include mipmaps, crash fix on disk 3.
+                Version 1.2 - minor fix1
+                Version 1.1 - minor fix2
+                Version 1.0 - Converted Tonberry mod to FFnX and J8
+      </ReleaseNotes>
+      <DownloadSize>187152</DownloadSize>
+    </LatestVersion>
+    <Link></Link>
+    <DonationLink></DonationLink>
+    <Tags>
+      <string>Battlefield</string>
+      <string>Textures</string>
+      <string>MCINDUS</string>
+      <string>G-Nite</string>
+      <string>slimebucket</string>
+    </Tags>
+  </Mod>
+
+<Mod>
+  <ID>260dd8f3-537a-4d34-b3d5-956cda71eac9</ID>
+  <Name>Cronos WIP</Name>
+  <Author>Hobbitdur &amp; Cronos Team</Author>
+  <Category>Gameplay</Category>
+    <Description>
+            &#9658; The most ambitious gameplay mod &#9668;
+
+This mod will be the reference in gameplay. It will offer many option to enjoy the game.
+Thus, everyone will find his way of playing: No XP, balanced mod, nightmare mod, ...
+It provides also simple change for everyone that just want specific change on their vanilla game.
+With this mod you can make the following modification:
+
+    &#9670; General option &#9670;
+        &#8226; Language: For the moment only English works, except for gerogero uncensored.
+
+    &#9670; Monster rework (Until Ifrit) &#9670;
+        &#8226; MonsterRework: Stat rework (Mathematical improved formula and stat change) + AI rework
+
+    &#9670; Cronos Rework &#9670;
+        &#8226; EncountersRework: Change all encounters in the game
+        &#8226; FieldRework: Change fields data like dialog, quest, save point position,..
+        &#8226; MngrpRework: GF refine abilities
+        &#8226; ShopRework: Shop rework
+        &#8226; StartData: The data you start with
+        &#8226; DrawPoint: The draw point magic/quantity
+        &#8226; KernelRework: Change magic/item/weapon/abilities/monster attack/...
+        &#8226; WIP: For testers
+
+    &#9670; Game fix &#9670;
+        &#8226; BahamutRareItem: Now actually increase the probability of really rare item.
+        &#8226; GerogeroUncensoredMenu: Use the japanese version without color change.
+        &#8226; GerogeroUncensoredBattle: Use the japanese version without color change.
+        &#8226; TrueRandomness: Use a real random generator.
+        &#8226; SquallComputeHit: Make squall fail sometimes !
+
+    &#9670; Quality of life &#9670;
+        &#8226; DamageCap: All damage can deal up to 65.535 (Eden damage is also cap to 65.535).
+        &#8226; NoMagicDepletion: Using magic doesn't decrease your stock.
+        &#8226; 255AP: Earn 255 AP after battle.
+        &#8226; SaveAnywhere: To be able to save in field. Use at your own risk !
+
+    &#9670; Little gameplay mod &#9670;
+        &#8226; NoXP: Don't earn any XP at end of battle.
+        &#8226; TripleTryhard: Card values changed for a challenge. => To be tested
+        &#8226; QueenForest: Queen of cards and Chocobo forest updated to be more convenient => To be tested
+
+    &#9670; DifficultyBalance &#9670;
+        &#8226; LimitbreakNotRefreshable: Make it impossible to refresh to get your limit-break.
+        &#8226; NoGfHeal: No free heal on GF on hotel or by walking?
+        &#8226; DamageFormulaUpdate: Change damage formula to have a smoother progression. Don't divide magic monster damage by 2.
+        &#8226; JunctionRework: Junction value is linked to level or min between the level and the number of magic junctionned.
+        &#8226; DrawRework: Change the draw logic(Either draw more than 9 or draw 100)
+        &#8226; 255HitCanFail: Make that weapon can fail even at 255%.
+
+    &#9670; Dev setup &#9670;
+        &#8226; AddRandomVar: Allow modders to use random numbers in the AI.
+
+    &#9670; Special thanks &#9670;
+        &#8226; myst6re for Deling tool and RE work
+        &#8226; Nihil for AI, stat, encounter rework
+        &#8226; Malekith for stat rework
+        &#8226; Unicorngoulash for LimitBreakNotRefreshable
+        &#8226; AxlRoses for the awesome preview
+        &#8226; Maki for his work on RE
+        &#8226; Dulca for TripleTryHard and QueenForest
+        &#8226; Dangerous Dom for beta testing
+
+        Join the team or follow the news by clicking on the link ! Help me to continue this work participating in the Patreon page !
+
+        Dev note - This mod use the following cave code:
+        0x45B38C, 0x4670DC, 0x462605, 0x4626F9, 0x463090
+    </Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/cronos.zip</Link>
+    <Version>0.7</Version>
+      <ReleaseDate>2025-11-25</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://modcdn.win/Hobbitdur/Cronos_Preview.png</PreviewImage>
+    <ReleaseNotes>
+    &#8226; 0.1
+        Adding MaximumDraw, DamageCap, NoMagicDepletion
+    &#8226; 0.2
+        Adding 255AP, SaveAnywhere, BahamutRareItem, GerogeroUncensored, NoUnequippedOnDream, NoXP
+    &#8226; 0.3
+        Fixing SaveAnywhere
+    &#8226; 0.4:
+        Adding DamageFormulaUpdate, LimitbreakNotRefreshable, JunctionDependOfLevel, JunctionDependOfMinLevelQuantity, TrueRandomness, G-Soldier
+    &#8226; 0.5:
+        Change DamageFormulaUpdate, DrawNotLimited
+    &#8226; 0.6:
+        Adding AiRework, QueenForest , TripleTryhard, SquallComputeHit, 255HitCanFail, GerogeroUncensoredMenu, GerogeroUncensoredBattle
+               DrawPoint, FieldRework, MngrpRework, ShopRework, WIP, MonsterRework/Balanced
+        Fixing SaveAnywhere
+    &#8226; 0.7:
+        Fix worldmap draw by changing SquallComputeHit, fix DrawRework/Draw100, fix encounter in forest
+        Remove NoUnequippedOnDream (Creates bug when switching GF).
+    </ReleaseNotes>
+   <DownloadSize>2110</DownloadSize>
+  </LatestVersion>
+  <Link>https://discord.gg/A7uFA4WqQY</Link>
+  <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
+  <Tags>
+    <string>cronos</string>
+    <string>hard</string>
+    <string>mod</string>
+    <string>gameplay</string>
+    <string>hobbit</string>
+    <string>hobbitdur</string>
+  </Tags>
+</Mod>
+
+
+<Mod>
+  <ID>5bbcc8ef-25ab-4c25-be8a-ccacf705f3c0</ID>
+  <Name>FFNx FF8Music</Name>
+  <Author>myst6re</Author>
+  <Category>Media</Category>
+  <Description>Original MIDIs from PS1, a light alternative to Roses And Wine.</Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$www.ff8.fr/pub/FFNx-FF8Music-v1.06.iroj</Link>
+    <Version>1.06</Version>
+    <ReleaseDate>2020-10-19</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/Yqj6pQU.jpeg</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>15150</DownloadSize>
+  </LatestVersion>
+  <Link>https://forums.qhimm.com/index.php?topic=19968.0</Link>
+  <Tags>
+    <string>myst6re</string>
+    <string>Media</string>
+    <string>Music</string>
+    <string>ost</string>
+  </Tags>
+</Mod>
+
+
+<Mod>
+  <ID>42713d86-16ce-4a15-bf90-7c39235f458e</ID>
+  <Name>FFVIII Reloaded</Name>
+  <Author>Mexico (ported by HobbitDur)</Author>
+  <Category>Gameplay</Category>
+  <Description>
+    Hard mod for FFVIII
+    DESCRIPTION:
+    The changes made to the game are numerous, so I won’t list them all here. Instead, I’ll let you discover them for yourself. However, here’s a brief overview to answer some of your questions:
+    - Enemy stats and AI adjusted.
+    - New bosses and enemies added.
+    - Magic spells modified in both power and attributes.
+    - GF abilities reworked and improved.
+    - The card mod is only accessible on Disc 4 via an item and only if you’ve completed your collection.
+    - Different enemy drops and magic steals, usually far less plentiful.
+    - Magic draw points altered.
+    - New side quests and changes to existing ones.
+    - And much more…
+    </Description>
+  <LatestVersion>
+    <Version>1.0</Version>
+    <ReleaseDate>2026-10-03</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://modcdn.win/Hobbitdur/logo_ff8_reloaded.png</PreviewImage>
+    <ReleaseNotes>
+    - 1.0: Release french version
+    </ReleaseNotes>
+    <DownloadSize>665044</DownloadSize>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/ff8_reloaded.iroj</Link>
+  </LatestVersion>
+  <Link>https://www.youtube.com/watch?v=68CLED6NDMk</Link>
+  <DonationLink>https://www.patreon.com/HobbitMods</DonationLink>
+  <Tags>
+    <string>ff8</string>
+    <string>reloaded</string>
+    <string>mexico</string>
+    <string>hard</string>
+    <string>mod</string>
+    <string>french</string>
+    <string>gameplay</string>
+  </Tags>
+</Mod>
+
+
+<Mod>
+    <ID>4af1cfda-a597-420e-bfbb-28d7d9091033</ID>
+    <Name>Rebirth Flame Plus (Character Textures)</Name>
+    <Author>Fated Courage + Slimebucket</Author>
+    <Category>Field Textures</Category>
+    <Description>Rebirth Flame Plus
+    WARNING!! - REMASTER EDITION - DOES NOT WORK WITH THIS MOD 
+    WARNING!! - IF YOU WANT TO USE REMASTER EDTION USE POLY-UP or SKIN-RF
+
+		Version 2.2 now out
+				
+		Replaces playable character textures. 8x size of orignal textures ~ 1024x1024
+	
+		Includes main texture pack, and both Mago and Devina version of Squall, Rinoa and Quistis.
+
+		Recommonded to use Poly-Up or Skin-RF over this mod, they have nicer textures and models.
+		This mod works with OG 2013 assets only and does not work the REMASTER assets.
+    
+    Original mod Flame Rebirth 1.3 by Fated Courage
+    J8 port, and extra texture work, eye fix by Slimebucket</Description>
+    <LatestVersion>
+      <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/flame_rebirth_plus.7z</Link>
+      <Version>2.2</Version>
+      <ReleaseDate>2026-08-31</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/NnSQnyY6/preview.png</PreviewImage>
+      <ReleaseNotes>
+		v2.2 - remaster edition usage warning edited
+		v2.1 - minor texture fixes, remaster edition usage warning added
+		v2.0 - minor fix   - Selphie eye fix
+		v1.9 - minor fixes - Selphies Flail , Squalls Cutting Edge fixed, Field weapon textures fixed. 
+		v1.8 - minor fixes - Rinoa - Kid Squall
+		v1.7 - minor fixes - Quistis
+		v1.6 - minor fixes - Rinoa Selphie
+		v1.5 - More eye fixes, Rinoa, Squall and Laguna
+		v1.4 - Many texture fixes, more eye fixes
+        v1.3 - First release
+      </ReleaseNotes>
+      <DownloadSize>70497</DownloadSize>
+    </LatestVersion>
+    <Link></Link>
+    <DonationLink></DonationLink>
+    <Tags>
+      <string>Character</string>
+      <string>Textures</string>
+      <string>FatedCourage</string>
+      <string>slimebucket</string>
+    </Tags>
+  </Mod>
+
+
+<Mod>
+  <ID>4c5070a1-8a3b-498a-8b4d-f079c29d5cad</ID>
+  <Name>Flowers Field FMV HD</Name>
+  <Author>myst6re</Author>
+  <Category>Media</Category>
+  <Description>AI upscaled FMV (HD: 1280x896).</Description>
+  <LatestVersion>
+    <Link>iroj://GDrive/1R3WYhzoOquzI41PYMfy-ioBWI0XteqzX</Link>
+    <Version>1.01</Version>
+    <ReleaseDate>2025-12-13</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://www.ff8.fr/pub/images/flowers-field-fmv-hd-preview.png</PreviewImage>
+    <ReleaseNotes>Improved audio</ReleaseNotes>
+    <DownloadSize>2895994</DownloadSize>
+  </LatestVersion>
+  <Link>https://forums.qhimm.com/index.php?topic=30338.0</Link>
+  <Tags>
+    <string>myst6re</string>
+    <string>Media</string>
+    <string>Movies</string>
+    <string>FMV</string>
+    <string>Upscale</string>
+    <string>HD</string>
+    <string>AI</string>
+  </Tags>
+</Mod>
+
+
+<Mod>
+  <ID>378ffda3-55b5-4e98-961b-c00b7005ca9f</ID>
+  <Name>Force high res models</Name>
+  <Author>myst6re</Author>
+  <Category>Field Models</Category>
+  <Description>Always use high res models when available. FF8 data already contains several versions of party members for optimization purpose. FFNx version 1.23.0.29+ required.</Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$www.ff8.fr/pub/force-high-res-models-v1.00.iroj</Link>
+    <Version>1.00</Version>
+    <ReleaseDate>2025-12-09</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://www.ff8.fr/pub/images/force-high-res-models-preview.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>2170</DownloadSize>
+  </LatestVersion>
+  <Tags>
+    <string>myst6re</string>
+    <string>Field</string>
+    <string>Models</string>
+    <string>HD</string>
+    <string>Highres</string>
+    <string>Improve</string>
+  </Tags>
+</Mod>
+
+
+<Mod>
+    <ID>32c3f785-29e1-41e7-8c9d-b46de5fbad4e</ID>
+    <Name>Horizon Pack Plus (World Textures)</Name>
+    <Author>MCINDUS + Nameless27 + Slimebucket</Author>
+    <Category>World Textures</Category>
+    <Description>Horizon Pack Plus - World Texture replacement mod.
+  - Version 2.4 now out! Fatal crash at Rinoa's house during assassin mission has been fixed!
+        
+  - Towns, world and field model textures re-created using ESRGAN + Gigapixel AI
+
+Original mod Horizonpack v1.0 created by MCINDUS + FatedCourage
+ffnx conversion to ffnx Nameless27
+ extra work and junction8 conversion by Slimebucket</Description>
+    <LatestVersion>
+      <Link>iroj://Url/https$www.gp-mc.net/mcindus/horizonpack.7z</Link>
+      <Version>2.4</Version>
+      <ReleaseDate>2025-12-21</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/dvrp4BW/preview.png</PreviewImage>
+      <ReleaseNotes>
+        version 2.4 - fatal crash at Rinoa's house when doing assassin mission
+        version 2.3 - fatal crash fixed!
+        version 2.2 - fixes field model option!
+        version 2.0 - adds map and field model options
+      </ReleaseNotes>
+      <DownloadSize>15388</DownloadSize>
+    </LatestVersion>
+    <Link></Link>
+    <DonationLink></DonationLink>
+    <Tags>
+      <string>world</string>
+      <string>Textures</string>
+      <string>Nameless27</string>
+      <string>MCINDUS</string>
+      <string>slimebucket</string>
+    </Tags>
+  </Mod>
+
+
+<Mod>
+  <ID>3d7436a1-2cd7-4503-821a-910b0f7aa7e3</ID>
+  <Name>FF8 ILP (International Language Patch)</Name>
+  <Author>Hobbitdur &amp; Myst6re</Author>
+  <Category>Gameplay</Category>
+  <Description>Patch the english version of the game to one of those language: French, Spanish, German, Italian. Includes retranslation of original japan script to English. 
+  </Description>
+  <LatestVersion>
+    <Version>1.8</Version>
+    <ReleaseDate>2026-10-03</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://modcdn.win/Hobbitdur/preview_ilp.png</PreviewImage>
+    <ReleaseNotes>
+Release note:
+  - 0.1: Release of French patch
+  - 0.2: Adding card game misc. text, language texture to the French language, fixing Help menu not appearing
+  - 1.0: Adding all language: Spanish, German and Italian
+  - 1.1: Fixing german field text. Applying the fix to all language.
+  - 1.2: Fixing test seed having always NO as correct value. Adding disc change image in every language for 2000 version.
+  - 1.3: Fix Italian mod and add card text + draw text translation (Thanks to @myst6re)
+  - 1.4: Add world text (draw point, aubel,...) (Thanks to @myst6re) and fixing menu bug
+  - 1.5: Fix world map not loading monsters
+  - 1.6 Fix menu crashing in name selection
+  - 1.7 Fix scan text
+  - 1.8 Added english retranslation of original Japan script to English
+Known limitation:
+  - Card game "You lose" and others not translated =&gt; Use Card-RF
+  - Some UI not translated (like "Target" in battle), some specific graphic work to do =&gt; WIP
+Acknowledgment:
+  - Big thanks to myst6re for his Deling tool and all modification done on it for this mod
+  - Special thanks to Riccardo for heavy beta testing of ShumiTranslator
+  - Thanks to Martin for the preview image
+  - Thanks to Dulca for some asset work
+  - Thanks to PeterSly for the English retranslation from japanese
+</ReleaseNotes>
+    <DownloadSize>297328</DownloadSize>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/ilp.zip</Link>
+  </LatestVersion>
+  <Link>https://discord.com/channels/318179907098116106/1244453452394790992</Link>
+  <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
+  <Tags>
+    <string>language</string>
+    <string>patch</string>
+    <string>english</string>
+    <string>french</string>
+    <string>spanish</string>
+    <string>german</string>
+    <string>italian</string>
+    <string>text</string>
+    <string>ilp</string>
+  </Tags>
+</Mod>
+
+
+<Mod>
+    <ID>dc5d5857-1128-45a9-85cb-6cde1fe88271</ID>
+    <Name>Lunar Cry Plus (Enemy Textures)</Name>
+    <Author>MCINDUS + Nameless27 + Slimebucket</Author>
+    <Category>Battle Textures</Category>
+    <Description>Lunar Cry - Enemy Texture replacement mod.
+
+- Version 4.5 now out!
+        - Elvoret fixed, Adel RINOA fixed, President Deling fixed
+        
+Original mod created by MCINDUS
+ffnx conversion by Nameless27
+Junction8 Conversion by Slimebucket</Description>
+    <LatestVersion>
+      <Link>iroj://Url/https$www.gp-mc.net/mcindus/lunarcry.7z</Link>
+      <Version>4.5</Version>
+      <ReleaseDate>2026-08-23</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/BVFDGVmT/preview.png</PreviewImage>
+      <ReleaseNotes>
+        Version 4.5 - Elvoret, Adel, President Deling textures fixed
+        Version 4.4 - Odin field fixed, King Tonberry battle fixed, Moomba and Shemi fixed
+        Version 4.3 - BGH251F2 Broken version textures replaced, Master NORG fixed
+        Version 4.2 - BGH251F2 textures replaced, Oilboyle crash fixed
+        Version 4.1 - Crash fix- Iguions, Cerberus and Ruby Dragon fights
+        Version 4.0 - Third Bahamut optionial skin added. More fixes to G-Soldiers, red blue and green.
+        Version 3.1 - Fatal crash fixed!
+        Version 3.0 - Many fixes to broken textures
+                    - Alternate Bahamut and Brothers added
+        Version 2.0 - dds fix - alternate ifrit added 
+      </ReleaseNotes>
+      <DownloadSize>264307</DownloadSize>
+    </LatestVersion>
+    <Link></Link>
+    <DonationLink></DonationLink>
+    <Tags>
+      <string>Battle</string>
+      <string>Textures</string>
+      <string>Enemy</string>
+      <string>MCINDUS</string>
+      <string>Nameless27</string>
+      <string>slimebucket</string>
+    </Tags>
+  </Mod>
+
+
+<Mod>
+  <ID>4d519a3a-5b40-4f20-aaa3-8d7126b8470d</ID>
+  <Name>Magic Mirror - Cinema-RF Add-on (30fps)</Name>
+  <Author>Kris2per + AxlRose</Author>
+  <Category>Media</Category>
+  <Description>
+Magic Mirror focuses heavily on enhancing the faces and the eyes of main characters of FF8.
+
+    &#8226; All the images are enhance using stable diffusion. 
+    &#8226; Intro is slightly enhance visually. 
+    &#8226; Other than the intro, most of the enhancements are mainly focused on the faces and the eyes.
+    &#8226; The faces are closely resembling the character portrait. 
+    &#8226; Videos are sourced mainly on the PSX videos, but also incorporated a rare video from the PSX demo.
+    &#8226; Videos have been interpolated to 30fps, thanks to AxlRose.
+  </Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$gp-mc.net/kris2per/magic_mirror.iroj</Link>
+    <Version>2025.1022</Version>
+    <ReleaseDate>2025-10-22</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://www.gp-mc.net/kris2per/magic_mirror.png</PreviewImage>
+    <ReleaseNotes>
+Version 2025.1022:
+  &#8226; Initial release version
+    </ReleaseNotes>
+    <DownloadSize>2007848</DownloadSize>
+  </LatestVersion>
+  <Link>https://discord.com/invite/7Rsvsewghz</Link>
+  <DonationLink />
+  <Tags>
+    <string>kris2per</string>
+    <string>axlrose</string>
+    <string>tsunamods</string>
+    <string>addon</string>
+    <string>fmvs</string>
+    <string>movies</string>
+    <string>30fps</string>
+    <string>ai</string>
+  </Tags>
+</Mod>
+
+
+<Mod>
+  <ID>ea59ec8f-fc0c-43d2-af55-a432a5075642</ID>
+  <Name>[Tsunamods] Map-RF</Name>
+  <Author>Hobbitdur &amp; Dulca</Author>
+  <Category>World Models</Category>
+  <Description>
+Graphical enhancement of the map
+  </Description>
+  <LatestVersion>https$modcdn.win/Hobbitdur/map-rf.zip
+    <Version>1.0</Version>
+    <ReleaseDate>2026-10-03</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://modcdn.win/Hobbitdur/map-rf_preview.png</PreviewImage>
+    <ReleaseNotes>
+- 1.0: Creation of the map
+  </ReleaseNotes>
+    <DownloadSize>62550</DownloadSize>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/map-rf.zip</Link>
+  </LatestVersion>
+  <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
+  <DonationLink>https://www.patreon.com/HobbitMods</DonationLink>
+  <Tags>
+    <string>Map</string>
+    <string>world</string>
+    <string>tsunamods</string>
+    <string>hobbitdur</string>
+  </Tags>
+</Mod>
+
+
+<Mod>
+    <ID>b06ca48b-fd3a-453b-b6f6-6d3efeacc7d4</ID>
+    <Name>ProjectHELLFIRE Plus (GF Textures)</Name>
+    <Author>MCINDUS + Slimebucket</Author>
+    <Category>Battle Textures</Category>
+    <Description>Project Hellfire - GF Texture replacement mod.
+Version 2.6 now live! leviathan black water fixed, Cerebus textures updated
+        
+Original mod created by MCINDUS
+ffnx conversion and extra textures by Slimebucket</Description>
+    <LatestVersion>
+      <Link>iroj://Url/https$www.gp-mc.net/mcindus/ph.7z</Link>
+      <Version>2.6</Version>
+      <ReleaseDate>2026-08-23</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/RGc54Hrt/preview.png</PreviewImage>
+      <ReleaseNotes>
+        Version 2.6 - leviathan's black water fixed, Cerebus textures updated
+        Version 2.5 - Another Alternate Bahamut added!
+        Version 2 - upscaled textures from 512x512 to 1024x1024
+           - Alternate bahamut and Brothers added
+        Version 1 5 - alternate Ifrit Added
+        Version 1.0 Straight conversion from Tonberry Mod
+      </ReleaseNotes>
+      <DownloadSize>62459</DownloadSize>
+    </LatestVersion>
+    <Link></Link>
+    <DonationLink></DonationLink>
+    <Tags>
+      <string>Battle</string>
+      <string>Textures</string>
+      <string>GF</string>
+      <string>MCINDUS</string>
+      <string>slimebucket</string>
+    </Tags>
+  </Mod>
+
+
+<Mod>
+<ID>f704a6c4-1ef7-47e8-ad71-fcc1a0003463</ID>
+<Name>PSX Triad HD Restoration</Name>
+<Author>YoRHa Numberless</Author>
+<Category>Minigames</Category>
+<Description>PSX TRIAD HD RESTORATION Fully replaces the Triple Triad textures with a faithful, high&#45;definition recreation of the original PSX design.
+
+&#9658; CARD DESIGN
+All 110 cards artwork and layout faithful to the original PSX version.
+
+&#9658; NUMBERS AND CHARACTERS
+Card power numbering, score, affinity bonus and typeface restored.
+
+&#9658; ELEMENTAL ICONS
+Fire, Ice, Thunder, Wind, Earth, Water, Poison and Holy, recreated in good quality.
+
+&#9658; GAME BOARD AND PLAYMAT
+Challenging screen, grid and background also reworked.
+
+&#9658; CARDS BACK AND FRAME
+PSX&#45;style card back design and frames with their decorative elements and shape.</Description>
+<LatestVersion>
+<Link>iroj://GDrive/1t13oeaFvaQTyo8zc4d37I1WfwoPkIPiI</Link>
+<Version>1.2</Version>
+<ReleaseDate>2026-07-28</ReleaseDate>
+<CompatibleGameVersions>All</CompatibleGameVersions>
+<PreviewImage>https://img.tedomum.net/data/FFVIII_PSX_Triad_HD_Restoration_J8Preview-271420.png</PreviewImage>
+<ReleaseNotes>
+&#8212;1.0&#58; Initial release for FFVIII Remastered.
+&#8212;1.1&#58; Several pose, color and resolution corrections and adjustments for accuracy purposes. Some models reworked.
+&#8212;1.2&#58; Abadon Card tweaked. Elemental Icons reworked. Power value Numbers adjusted. General alignment corrections. Junction VIII version released.
+</ReleaseNotes>
+<DownloadSize>92160</DownloadSize>
+</LatestVersion>
+<Link>https://forums.qhimm.com/index.php?topic=31211</Link>
+<DonationLink>https://www.tipeeestream.com/yorha-numberless/donation</DonationLink>
+<Tags>
+<string>Minigames</string>
+<string>TripleTriad</string>
+</Tags>
+</Mod>
+
+
+<Mod>
+  <ID>b1e52b98-adb0-4f42-bc14-2e450eab8284</ID>
+  <Name>Ragnarok</Name>
+  <Author>Callisto</Author>
+  <Category>Gameplay</Category>
+  <Description>
+This mod was created with the aim of rebalancing several gameplay aspects of Final Fantasy VIII, such as the usefulness of all characters in battle, the power level of Limit Breaks, and the ways of obtaining powerful tools to become stronger. Not only does this mod limit the gains from playing Triple Triad or make enemies more challenging, but it also adds various convenience functions not present in the original game, such as lifting the Draw cap in battles, providing additional save possibilities, or giving the characters basic spells right off the bat.
+
+Overall, the mod is for those who look for a new challenge and maybe those who would like to relive Final Fantasy VIII the way they did during their very first playthrough, when they didn't know the game inside out yet. Of course, new players are welcome as well, but they should get accustomed to how the general gameplay mechanics work first.
+
+The mod has been playtested from start to finish and should be largely bug-free. If you give this mod a try and discover something off, please report it on the forum or Discord. 
+
+To check if the mod is working, you should have magic already available when launching a new game. In battles, you should have no problem drawing more than 10 spells per Draw for low-level magic, such as Cure, Fire, or Blizzard.
+  </Description>
+
+  <LatestVersion>
+    <Link>iroj://GDrive/1wN2RlFt3PJXZbM2TKVGrdX71lcLctTqa</Link>
+    <Version>2.12</Version>
+    <ReleaseDate>2026-09-21</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.ibb.co/4nwjWw9K/preview.png</PreviewImage>
+    <ReleaseNotes>
+&#8226; 1.00: First release on JunctionVIII, ported by Hobbitdur
+&#8226; 1.01: Lionheart difficulty option added, ported by Hobbitdur and vodkup
+&#8226; 2.12: Recent version with major updates, check the forum link for details
+    </ReleaseNotes>
+    <DownloadSize>245725</DownloadSize>
+  </LatestVersion>
+
+  <Link>https://forums.qhimm.com/index.php?topic=18404.0</Link>
+  <DonationLink>https://ko-fi.com/callisto8</DonationLink>
+
+  <Tags>
+    <string>ragnarok</string>
+    <string>hard</string>
+    <string>mod</string>
+    <string>gameplay</string>
+    <string>Callisto</string>
+  </Tags>
+
+</Mod>
+
+
+<Mod>
+  <ID>556bffa4-48be-4ae4-8e98-0dba4aa8da4a</ID>
+    <Name>Skin-RF</Name>
+    <Author>Dulca + Slimebucket</Author>
+    <Category>Battle Models</Category>
+    <Description>New vesion 1.64 out now!
+
+		Cloudie McDoom Alt (Dollet Mission) skin added
+		
+		HD Weapons are all done!
+
+Skin-RF -Enhance field models. Multiple Battle models to choose from for Playable characters with synchronized Field models.
+		- Includes Slimebucket Weapon Pack
+    </Description>
+    <LatestVersion>
+      <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/skin-RF.7z</Link>
+      <Version>1.64</Version>
+      <ReleaseDate>2026-08-31</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/VW0cZsX8/preview.png</PreviewImage>
+      <ReleaseNotes>
+Version 1.64 :Remaster edition usage warning edited, Cloudie McDoom Alt (Dollet Mission) skin added	  
+Version 1.63 :Remaster edition usage warning added
+Version 1.62 :field weapon textures fixed, Cloudie McDoom Squall costume fixes, config menu preview pictures fixed.
+Version 1.61 : Ward weapon fixed, Zells Maverick Alternate weapon changed.
+Version 1.60 : Selphie Laguna Irvine Weapons added- WEAPONS COMPLETE
+Version 1.50 : More weapons added - Quistis and Rinoa		  
+Version 1.40 : More weapons added - Kiros, Ward, Seifer and Zell
+Version 1.31 : Cloudie McDoom Squall Costume added, minor fixes
+Version 1.21 : Minor bug fixes
+Version 1.20 : Slimebucket Weapon Pack for Squall added.
+Version 1.10 : Playable characters have a low poly synced field model.
+			   New Field models for All Playable characters.
+			   Synchrized world map model for Squall.
+      </ReleaseNotes>
+      <DownloadSize>248073</DownloadSize>
+    </LatestVersion>
+  <Link />
+  <DonationLink />
+    <Tags>
+      <string>skin</string>
+      <string>Textures</string>
+      <string>Dulca</string>
+      <string>Slimebucket</string>
+    </Tags>
+  </Mod>
+
+
+<Mod>
+  <ID>a98fb2fb-e455-4aa2-ba89-be6fe94a2e87</ID>
+  <Name>SkipIntro</Name>
+  <Author>HobbitDur</Author>
+  <Category>Miscellaneous</Category>
+  <Description>
+        ► Get into FFVIII faster ◄
+
+Choose which startup sequences to skip, or keep the ones you enjoy!
+
+    ◆ Quality of life ◆
+        • Square Enix logo: Skip the publisher movie.
+        • Squaresoft logo: Skip the logo image and its fades.
+        • Initial black pause: Skip the pause before the FF8 credits images.
+        • FF8 images: Skip the credits images and Overture music.
+        • Instant manual skip: Go to the title menu immediately when pressing the skip button.
+
+All five options are enabled by default and can be changed independently.
+Turn off “Skip FF8 images” to enjoy the images and music with the other tweaks.
+    </Description>
+  <LatestVersion>
+    <Version>1.0</Version>
+    <ReleaseDate>2026-10-05</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage />
+    <ReleaseNotes>
+    • 1.0
+        Mod creation
+    </ReleaseNotes>
+    <DownloadSize>381</DownloadSize>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/skipintro.zip</Link>
+  </LatestVersion>
+  <Link>https://discord.gg/A7uFA4WqQY</Link>
+  <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
+  <Tags>
+    <string>ff8</string>
+    <string>skipintro</string>
+    <string>hobbitdur</string>
+  </Tags>
+</Mod>
+
+
+<Mod>
+    <ID>99f32272-bced-462d-893b-f238134c1fff</ID>
+    <Name>SlimeSHADY (ReShader Pack)</Name>
+    <Author>Slimebucket</Author>
+    <Category>Shaders</Category>
+    <Description>A ReShade mod by slimebucket. Brighter colors
+  
+    - Uses: Colorness,  Vibrance
+	
+	Misc Texture replacement pack has many misc textures for objects and NPC's that are not in any other mod.
+	The NPC's this mod replaces only will work during story. The way NPC textures work,
+	you need  different texture sheet for every combination of party you can have, making some NPC's need
+	like 32 duplicates of the the same texture. This mod doesnt do that. 
+	It upscales NPC's during the story, where your party is locked and forced to be certian members.
+	So during story moments the NPC's will be upscaled, but if you go back to those NPC's later On
+	in the game, chances are, they will no longer look upscaled.</Description>
+    <LatestVersion>
+      <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/slimeshady.7z</Link>
+      <Version>1.3</Version>
+      <ReleaseDate>2026-08-23</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/TMxG23Yk/preview.png</PreviewImage>
+      <ReleaseNotes>
+		  Version 1.3 - Mod.xml fixes
+		  Version 1.2 - more config options, test textures removed
+		  Version 1.1 - More textures added, pngs converted to dds
+		  Version 1.0 - First Release!
+      </ReleaseNotes>
+      <DownloadSize>4331</DownloadSize>
+    </LatestVersion>
+    <Link></Link>
+    <DonationLink></DonationLink>
+    <Tags>
+      <string>texture</string>
+      <string>vibrance</string>
+      <string>color</string>
+      <string>shader</string>
+      <string>slimebucket</string>
+    </Tags>
+  </Mod>
+
+
+<Mod>
+  <ID>bdd7d71d-8ffd-4aa5-93c1-bf5ae182ad66</ID>
+  <Name>Succession</Name>
+  <Author>Percival (ported by Hobbitdur)</Author>
+  <Category>Gameplay</Category>
+  <Description>I think it will be a shame if we won't be able to cry as we play our own games. - Nobuo Uematsu
+
+If you can create an HD remaster of the graphics, can you create an HD remaster of the story? 
+
+Yes, you can...and in honor of this game's 20th anniversary, that's exactly what I've done. 
+  </Description>
+  <LatestVersion>
+    <Version>1.10</Version>
+    <ReleaseDate>2026-10-03</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://modcdn.win/Hobbitdur/preview-succession.png</PreviewImage>
+    <ReleaseNotes>
+Release note:
+  - 1.10: First release on JunctionVIII
+</ReleaseNotes>
+    <DownloadSize>1196</DownloadSize>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/succession.zip</Link>
+  </LatestVersion>
+  <Link>https://forums.qhimm.com/index.php?topic=19184.0</Link>
+  <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
+  <Tags>
+    <string>succession</string>
+    <string>percival</string>
+    <string>story</string>
+    <string>gameplay</string>
+    <string>hobbit</string>
+    <string>hobbitdur</string>
+  </Tags>
+</Mod>
+
+
+<Mod>
+  <ID>e9028780-2cb5-44b5-962d-342a9206cc1e</ID>
+  <Name>XBOX-BUTTONS</Name>
+  <Author>Digixu</Author>
+  <Category>User Interface</Category>
+  <Description>
+    Simple mod to enable Xbox game icons in game.
+
+    Please make sure UseGamePadIcons is enabled in Junction-VIII Driver settings
+
+  </Description>
+  <LatestVersion>
+    <Link>iroj://GDrive/1SaSrMAT85YLPeKhTM4iAFkme8VnGaZlq</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2024-12-20</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.ibb.co/0hs23Hq/preview.png</PreviewImage>
+    <ReleaseNotes>
+      V1.0 - Initial Release
+    </ReleaseNotes>
+    <DownloadSize>608</DownloadSize>
+  </LatestVersion>
+  <Link></Link>
+    <DonationLink>https://www.paypal.com/donate/?business=T4VCT9B4ZXECJ&amp;no_recurring=0&amp;item_name=Modding+the+great+and+awsome+game+FF8&amp;currency_code=GBP</DonationLink>
+  <Tags>
+    <string>UI</string>
+    <string>User Interface</string>
+    <string>Buttons</string>
+    <string>XBOX</string>
+    <string>Steam</string>
+    <string>Digixu</string>
+
+  </Tags>
+</Mod>
+
+
+<Mod>
+  <ID>042ff62e-5819-4b2e-b993-e65e806fafd5</ID>
+  <Name>[Tsunamods] Card-RF</Name>
+  <Author>Dulca &amp; XHRIS &amp; Hobbitdur &amp; Ash &amp; Slimebuck</Author>
+  <Category>Battle Textures</Category>
+  <Description>
+        Card-RF is a graphical update to the beloved Triple Triad minigame!
+        Which can now be played in full 60 FPS thanks to FFNx.
+        Either using the vanilla upscale, or the Xylo option that use only
+        original reference artworks from Final Fantasy 8 and higher,
+        we have brought this amazing minigame to a more modern appearance
+    </Description>
+  <LatestVersion>
+    <Version>1.5</Version>
+    <ReleaseDate>2026-10-03</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://modcdn.win/Hobbitdur/card-rf-logo.png</PreviewImage>
+    <ReleaseNotes>
+        - 1.2: Fixed Card Menu Textures not working
+        - 1.3: Adding language option
+        - 1.4: New configuration options, languages and cards : 
+            - Vanilla enhanced cards
+            - New boards (credits to Ash)
+        - 1.5: New Vanilla enhanced option (credits to XHRIS and Slimebuck)
+    </ReleaseNotes>
+    <DownloadSize>452213</DownloadSize>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/card-rf.zip</Link>
+  </LatestVersion>
+  <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
+  <DonationLink>https://www.patreon.com/HobbitMods</DonationLink>
+  <Tags>
+    <string>T3</string>
+    <string>tripletriad</string>
+    <string>tsunamods</string>
+    <string>card</string>
+    <string>minigame</string>
+    <string>hobbit</string>
+    <string>ducladoncladon</string>
+  </Tags>
+</Mod>
+
+
+<Mod>
+  <ID>9b839870-3bec-4f2c-9102-d575b6090505</ID>
+  <Name>[Tsunamods] Cinema-RF FMV (30fps)</Name>
+  <Author>AxlRose</Author>
+  <Category>Media</Category>
+  <Description>
+Cinema-RF replaces the FMV&apos;s in Final Fantasy 8 with new, 
+30FPS, AI enhanced with countless hours of manual tweaking 
+to keep them as close to the original as possible. 
+
+With twice the resolution of the originals, and integrated 
+high quality music from the original PSX, this FMV pack 
+makes the FMV&apos;s look the way we thought they looked all those 
+years ago.
+  </Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$download.tsunamods.com/?id=14</Link>
+    <Link>iroj://Url/https$modcdn.win/AxlRose/cinema-rf.iroj</Link>
+    <Version>2025.1021</Version>
+    <ReleaseDate>2024-10-20</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://www.gp-mc.net/ff8/tsunamods/logov_small.png</PreviewImage>
+    <ReleaseNotes>
+Version 2025.1021:
+
+- Fix loading ending FMV (disc03_05h.avi) for FF8 Steam 2013
+- FF8 PC 2000 not affected
+    </ReleaseNotes>
+    <DownloadSize>3456418</DownloadSize>
+  </LatestVersion>
+  <Link>https://discord.com/invite/7Rsvsewghz</Link>
+  <DonationLink>https://www.paypal.com/donate/?hosted_button_id=FTA38UUZJ5QAN</DonationLink>
+  <Tags>
+    <string>axlrose</string>
+    <string>tsunamods</string>
+    <string>fmv</string>
+    <string>fmvs</string>
+    <string>movies</string>
+    <string>30fps</string>
+    <string>ai</string>
+  </Tags>
+</Mod>
+
+
+<Mod>
+  <ID>0b0c03e0-1d84-4068-998b-f310e4430d55</ID>
+  <Name>[Tsunamods] Echo-S 8 Demo</Name>
+  <Author>Tsunamods Team</Author>
+  <Category>Gameplay</Category>
+  <Description>
+Demo for Echo-S 8. Adds voice acting to the game until Timber. Currently Contains Field and FMV dialogue.
+  </Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$download.tsunamods.com/?id=20</Link>
+    <Version>0.1</Version>
+    <ReleaseDate>2024-11-03</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://s3.eu-west-1.amazonaws.com/tsunamods.mods/uprisen/preview.png</PreviewImage>
+    <ReleaseNotes>
+Demo covers from start of game until entering Timber
+    </ReleaseNotes>
+    <DownloadSize>1210938</DownloadSize>
+  </LatestVersion>
+  <Link>https://www.tsunamods.com/echo-s-8/</Link>
+  <DonationLink />
+  <Tags>
+    <string>Voice</string>
+    <string>tsunamods</string>
+  </Tags>
+</Mod>
+
+
+<Mod>
+  <ID>260dd8f3-537a-4d34-b3d5-956cda71eaca</ID>
+  <Name>[Tsunamods] FF8 Gameplay Customizer</Name>
+  <Author>Hobbitdur</Author>
+  <Category>Gameplay</Category>
+  <Description>
+            ► The ultimate gameplay tweaks ◄
+
+This mods aims to bring lots of gameplay tweaks to FF8 and allow you to customize it to suit your preferences!
+
+    ◆ Quality of life ◆
+        • DamageCapIncreased: Bring the damage cap up to 65.535.
+        • NoMagicDepletion: Using magic doesn't decrease your stock.
+        • DrawRework: Configure battle drawing, with separate Draw 100 options for field and world-map draw points.
+        • NoUnequippedOnDream: Dream characters inherit their normal counterparts' full junction setups.
+        • AP: Earn from 0 to 255AP. Thanks to Satan-fatalityz for funding part of this!
+        • EXP: Earn from 0 EXP to x16 EXP. Thanks to Satan-fatalityz for funding part of this!
+       • SaveAnywhere: Allow to save in any field, but keep a side save on normal save point to be sure.
+
+    ◆ Game fix ◆
+        • BahamutRareItem: Fix rare item drop and mug probabilities.
+        • TrueRandomness: Replace the lookup-table RNG with the system rand function.
+        • GerogeroUncensoredCard: Restore Gerogero's uncensored card texture.
+        • GerogeroUncensoredBattle: Restore Gerogero's uncensored battle textures.
+
+    ◆ Special thanks ◆
+        • myst6re for Deling tool and RE work
+        • Maki for his work on RE
+        • DangerousDom and Nihil for testing
+        • SlimeBucket for the preview
+    </Description>
+  <LatestVersion>
+    <Version>0.6</Version>
+    <ReleaseDate>2026-10-09</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://modcdn.win/Hobbitdur/customizer_preview.png</PreviewImage>
+    <ReleaseNotes>
+    • 0.1
+        Adding DrawRework, DamageCapIncreased, NoMagicDepletion
+    • 0.2
+        Adding AP, EXP
+    • 0.3
+        Adding SaveAnywhere
+    • 0.4
+        Fixing field and worldmap draw for DrawRework - MaximumDraw.
+    • 0.5
+        Split MaximumDraw into independent battle, field and world-map options.
+    • 0.6
+        Add BahamutRareItem, TrueRandomness, GerogeroUncensoredCard, GerogeroUncensoredBattle and NoUnequippedOnDream.
+        Enable Difficulty Balance options and update Squall can miss with the corrected Cronos patch.
+    </ReleaseNotes>
+    <DownloadSize>4363</DownloadSize>
+    <Link>iroj://Url/https$download.tsunamods.com?id=24</Link>
+  </LatestVersion>
+  <Link>https://discord.gg/A7uFA4WqQY</Link>
+  <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
+  <Tags>
+    <string>cronos</string>
+    <string>ff8</string>
+    <string>customizer</string>
+    <string>hard</string>
+    <string>mod</string>
+    <string>gameplay</string>
+    <string>hobbit</string>
+    <string>hobbitdur</string>
+  </Tags>
+</Mod>
+
+
+<Mod>
+  <ID>6728d336-9cb6-4e97-8ab7-474f435e1f6d</ID>
+    <Name>[Tsunamods] Hit-J Plus</Name>
+    <Author>Slimebucket + Digixu</Author>
+    <Category>Spell Textures</Category>
+    <Description> Version 2.1 of Hit-J is out! 1024x1024 mode for core 75 textures added.
+  
+  Magic and effect Textures! 4x size of base textures. 
+  
+  Includes textures for magic spells, items, and effects in GF summons.
+    </Description>
+    <LatestVersion>
+      <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/hitj.7z</Link>
+      <Version>2.1</Version>
+      <ReleaseDate>2026-02-09</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/99cWmZq/preview.png</PreviewImage>
+      <ReleaseNotes>
+        v2.1 - 1024x1024 of core 75 magic textures added
+        V2.0 - Re work of mod to decrease stuttering, 400 textures added
+        V1.0 - Initial Release
+      </ReleaseNotes>
+      <DownloadSize>124162</DownloadSize>
+    </LatestVersion>
+  <Link />
+  <DonationLink />
+    <Tags>
+      <string>Battle</string>
+      <string>Spell</string>
+      <string>Textures</string>
+      <string>Digixu</string>
+      <string>Slimebucket</string>
+    </Tags>
+  </Mod>
+
+
+<Mod>
+  <ID>c524b51b-64fd-49f3-bba2-eb94430c0c1d</ID>
+  <Name>[Tsunamods] OST-RF - Arranged Soundtrack</Name>
+  <Author>MikeDoesAudio, Final Fantasy &amp; Chill</Author>
+  <Category>Media</Category>
+  <Description>
+- OST-RF (Original Soundtrack Refinement)
+- The only complete reorchestration of the entire Final Fantasy VIII score. 
+Mixed by 1 person, in the same studio for a consistent and immersive experience.
+Now with Violins by XuJumica and Guitars by Domigit
+Suggested Volume - 60
+- Suggested Volume - 60
+  </Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$download.tsunamods.com/?id=18</Link>
+    <Version>1.2</Version>
+    <ReleaseDate>2024-08-08</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d5dmR6ZXV3ZGJhYjZ4amRhYnZzMDJjZ2hibzZ3ejZvbDFicGNzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0OVhOUGwDL4hU7Hjmi/giphy.gif</PreviewImage>
+    <ReleaseNotes>
+Updated songs for Version 1.2:
+- Under Her Control
+- Don't Be Afraid - Guitars by Domigit
+- Balamb Garden
+- The Oath
+- Blue Fields
+- The Landing
+- The Stage is Set
+- SeeD
+- The Legendary Beast
+- Find your way
+- The Man With The Machine Gun
+- A Sacrifice
+- Compression of Time
+- Ami
+- Timber Owls
+- Love Grows
+- Only a Plank Between One and Perdition
+- Force your Way - Live Violins by XuJumica
+- Fisherman's Horizon
+- Waltz for the Moon - Live Violins by XuJumica
+- Main menu music now added!
+    </ReleaseNotes>
+    <DownloadSize>749204</DownloadSize>
+  </LatestVersion>
+  <Link>https://www.twitch.tv/mikedoesaudio</Link>
+  <DonationLink>https://www.paypal.com/donate/?hosted_button_id=5F67WXE5VV9W2</DonationLink>
+  <Tags>
+    <string>mikedoesautio</string>
+    <string>tsunamods</string>
+    <string>music</string>
+    <string>sound</string>
+  </Tags>
+</Mod>
+
+
+<Mod>
+  <ID>384a9591-78cc-423e-ae8e-b86bfbf3dbea</ID>
+  <Name>[Tsunamods] Poly-UP (Character Models and Textures)</Name>
+  <Author>Slimebucket + Digixu + AxlRose + Megachocobo</Author>
+  <Category>Field Models</Category>
+  <Description>
+New version 4.7 now out! Cloudie McDoom costume fixed!
+    
+Poly-Up is the one stop shop for Character enahncements. Includes Slimebucket's weapon pack and Cloudie McDoom Squall costume.
+
+Poly-Up replaces Models, Textures, weapons, and even some NPCs!
+    
+- Replace all Main_chr poly models with their hi-res Textures.
+- 8x (1024x1024) Upscaled Textures by Magochocobo *used with permission
+  </Description>
+  <LatestVersion>
+    <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/poly_up.7z</Link>
+    <Version>4.7</Version>
+    <ReleaseDate>2026-08-31</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.ibb.co/5FFTx1Z/preview.png</PreviewImage>
+    <ReleaseNotes>
+ Version 4.7   
+ -Cloudie McDoom Squall costume fixed
+ -ffnx REMASTER edition usage warning removed
+ Version 4.6
+ -Zell Dollet field texture fixed, minor texture fixes, Remaster edition usage warning added
+ Version 4.5
+-Selphie eye fix
+ Version 4.4
+- Field weapon textures SLIME PACK INVERTED fixed
+- Cloudie McDoom costume fixes
+- config menu fixes and tweaks
+ Version 4.3
+- Fixes for weapon previews for Rinoa's Valkyire and Zell's Gauntlet
+- Fixes for Cloudie McDoom Squall costume
+ Version 4.2
+- Slime Weapon Pack Complete! 
+- New config options added
+- Selphie's Flail (MAGO) fixed
+ Version 4.1
+- Rinow eye fix, Pumpkin head Qusitis fixed, Kid Squall fixed
+ Version 4.0 
+- New Gunblade textures for Squall
+- New Cloudie McDoom costume for Squall
+ Version 3.2
+- minor fixes to Squall and Laguna.
+ Version 3.1
+- preview pics added to config menu for main characters
+- Fixed texture issue with UNIFORMED Quistis. No more PUMPKIN QUEEN
+- Fixed MORE eyes on many characters
+- fixed a few of textures sized wrong
+Version 3.0: 
+- Eye fix 2.0 is here! random artifacts from eyes has been fixed
+- Many textures have been replaced. The textures where a mix of both Mago and Devina edits, replaced all Devina textures to MAGO ones to make everything uniform and the same
+   </ReleaseNotes>
+    <DownloadSize>101935</DownloadSize>
+  </LatestVersion>
+  <Link></Link>
+  <DonationLink></DonationLink>
+  <Tags>
+    <string>Model</string>
+    <string>Battle</string>
+    <string>Fields</string>
+    <string>digixu</string>
+    <string>axlrose</string>
+    <string>Slimebucket</string>
+    <string>tsunamods</string>
+  </Tags>
+</Mod>
+
+
+<Mod>
+  <ID>4e735663-c755-4d56-a85e-733715678232</ID>
+  <Author>Tsunamods</Author>
+  <Link>https://github.com/tsunamods-codes/reshade-crt-royale</Link>
+  <LatestVersion>
+    <Link>iroj://Url/https$github.com/tsunamods-codes/reshade-crt-royale/releases/download/0.1.3/ReShadeCRTRoyale-v0.1.3.0.iroj</Link>
+    <Version>0.130</Version>
+    <ReleaseDate>2026-10-10</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage></PreviewImage>
+    <ReleaseNotes/>
+    <DownloadSize>618</DownloadSize>
+  </LatestVersion>
+  <Name>[Tsunamods] ReShade CRT-Royale</Name>
+  <Category>Shaders</Category>
+  <Description>
+    A ReShade mod that will provide CRT Royale.
+
+    See the mod link for more information.
+  </Description>
+  <Tags></Tags>
+  <GameLanguage>ANY</GameLanguage>
+</Mod>
+
+
+<Mod>
+  <ID>e1e99f25-154b-4c7d-a38e-151c65febf49</ID>
+  <Author>Tsunamods</Author>
+  <Link>https://github.com/tsunamods-codes/the-debug-room</Link>
+  <LatestVersion>
+    <Link>iroj://Url/https$github.com/tsunamods-codes/the-debug-room/releases/download/0.1.0/TheDebugRoom-v0.1.0.0.iroj</Link>
+    <Version>0.100</Version>
+    <ReleaseDate>2025-07-22</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage></PreviewImage>
+    <ReleaseNotes/>
+    <DownloadSize>516</DownloadSize>
+  </LatestVersion>
+  <Name>[Tsunamods] The Debug Room</Name>
+  <Category>Gameplay</Category>
+  <Description>
+    A Debug room mod for modders needing to test core engine functionalities.
+    Thanks to Myst6re for the original work on this part and for allowing this mod to exist.
+
+    See the mod link for more information.
+  </Description>
+  <Tags></Tags>
+</Mod>
+
+</Mods>
+</Catalog>
