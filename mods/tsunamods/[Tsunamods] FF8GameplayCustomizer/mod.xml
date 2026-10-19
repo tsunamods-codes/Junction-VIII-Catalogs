@@ -21,8 +21,13 @@ This mods aims to bring lots of gameplay tweaks to FF8 and allow you to customiz
     ◆ Game fix ◆
         • BahamutRareItem: Fix rare item drop and mug probabilities.
         • TrueRandomness: Replace the lookup-table RNG with the system rand function.
+
+    ◆ Censorship fix ◆
         • GerogeroUncensoredCard: Restore Gerogero's uncensored card texture.
         • GerogeroUncensoredBattle: Restore Gerogero's uncensored battle textures.
+        • SelphieScanTilt: Allow tilting Selphie's model in the Scan viewer, like every other model.
+        • ArmoryRedBlood: Restore the Japanese red blood in Ultimecia Castle's Armory (green outside Japan).
+        • RedArmband: Restore the red armbands of General Caraway and the D-District Prison warden (blue outside Japan).
 
     ◆ Special thanks ◆
         • myst6re for Deling tool and RE work
@@ -31,8 +36,8 @@ This mods aims to bring lots of gameplay tweaks to FF8 and allow you to customiz
         • SlimeBucket for the preview
     </Description>
   <LatestVersion>
-    <Version>0.6</Version>
-    <ReleaseDate>2026-10-09</ReleaseDate>
+    <Version>0.7</Version>
+    <ReleaseDate>2026-10-19</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://modcdn.win/Hobbitdur/customizer_preview.png</PreviewImage>
     <ReleaseNotes>
@@ -49,8 +54,10 @@ This mods aims to bring lots of gameplay tweaks to FF8 and allow you to customiz
     • 0.6
         Add BahamutRareItem, TrueRandomness, GerogeroUncensoredCard, GerogeroUncensoredBattle and NoUnequippedOnDream.
         Enable Difficulty Balance options and update Squall can miss with the corrected Cronos patch.
+    • 0.7
+        Add a Censorship Fix section: move GerogeroUncensoredCard and GerogeroUncensoredBattle there and add SelphieScanTilt, ArmoryRedBlood and RedArmband.
     </ReleaseNotes>
-    <DownloadSize>4363</DownloadSize>
+    <DownloadSize>5234</DownloadSize>
     <Link>iroj://Url/https$download.tsunamods.com?id=24</Link>
   </LatestVersion>
   <Link>https://discord.gg/A7uFA4WqQY</Link>
