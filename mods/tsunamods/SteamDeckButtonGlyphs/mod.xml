@@ -12,12 +12,13 @@
     With AxlRose's WIP (UI on): place this mod above it in the list.
   </Description>
   <LatestVersion>
-    <Link>iroj://Url/https$github.com/CrashTestButter/ff8-deck-glyphs/releases/download/v0.9/FF8DeckGlyphs.iroj</Link>
-    <Version>0.9</Version>
+    <Link>iroj://Url/https$github.com/CrashTestButter/ff8-deck-glyphs/releases/download/v1.00/FF8DeckGlyphs.iroj</Link>
+    <Version>1.00</Version>
     <ReleaseDate>2026-10-20</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://raw.githubusercontent.com/CrashTestButter/ff8-deck-glyphs/ddffb909d524f85eddf42574595aebe4f54dc8db/docs/button-assignment.png</PreviewImage>
+    <PreviewImage>https://raw.githubusercontent.com/CrashTestButter/ff8-deck-glyphs/v1.00/docs/button-assignment.png</PreviewImage>
     <ReleaseNotes>
+      1.00: new preview image.
       0.9: button glyphs are smaller and sharp-edged, so they no longer overlap the next line of text. Auto Sort now places this mod above AxlRose's WIP.
       0.8: first catalog release, textures only.
     </ReleaseNotes>
