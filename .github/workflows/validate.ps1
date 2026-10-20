@@ -69,6 +69,19 @@ foreach ($dir in $catalogSubfolders) {
     $generatedCatalogs += , $finalXml
 }
 
+# GitHub Actions checks out Junction-VIII into app before running this script.
+# Clone it on local runs when that checkout is not already present.
+if (-not (Test-Path -Path "app/CatalogValidator")) {
+    if (Test-Path -Path "app") {
+        throw "The app directory exists but does not contain CatalogValidator."
+    }
+
+    git clone "https://github.com/tsunamods-codes/Junction-VIII.git" "app"
+    if ($LASTEXITCODE -ne 0) {
+        throw "Failed to clone Junction-VIII into the app directory."
+    }
+}
+
 # Build dotnet run arguments
 $dotnetArgs = @('run', '--property', 'WarningLevel=0;NuGetAudit=false', '--project', 'app/CatalogValidator')
 
