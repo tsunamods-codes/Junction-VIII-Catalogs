@@ -8,7 +8,7 @@
     Shows the Steam Deck buttons (A, B, X, Y, L1/R1, L2/R2, View, Menu) wherever FF8 names a button, instead of "B1", "B2", ...
     The glyphs follow your bindings from the in-game Config screen.
 
-    Requires the English Steam 2013 version (FF8_EN.exe) with FFNx. Turns on FFNx's ff8_use_gamepad_icons.
+    Requires the English Steam 2013 version (FF8_EN.exe) or the Remastered edition, with FFNx. Turns on FFNx's ff8_use_gamepad_icons.
     With AxlRose's WIP (UI on): place this mod above it in the list.
   </Description>
   <LatestVersion>
