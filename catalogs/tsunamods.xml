@@ -858,21 +858,15 @@ Turn off “Skip FF8 images” to enjoy the images and music with the other twea
     <Description>A ReShade mod by slimebucket. Brighter colors
   
     - Uses: Colorness,  Vibrance
-	
-	Misc Texture replacement pack has many misc textures for objects and NPC's that are not in any other mod.
-	The NPC's this mod replaces only will work during story. The way NPC textures work,
-	you need  different texture sheet for every combination of party you can have, making some NPC's need
-	like 32 duplicates of the the same texture. This mod doesnt do that. 
-	It upscales NPC's during the story, where your party is locked and forced to be certian members.
-	So during story moments the NPC's will be upscaled, but if you go back to those NPC's later On
-	in the game, chances are, they will no longer look upscaled.</Description>
+	</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/slimeshady.7z</Link>
-      <Version>1.3</Version>
-      <ReleaseDate>2026-08-23</ReleaseDate>
+      <Version>1.4</Version>
+      <ReleaseDate>2026-10-21</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
-      <PreviewImage>https://i.ibb.co/TMxG23Yk/preview.png</PreviewImage>
+      <PreviewImage>https://i.ibb.co/Ps2KxWsY/preview.png</PreviewImage>
       <ReleaseNotes>
+		  Version 1.4 - Removed settings and simplified mod to prevent failed to compile errors
 		  Version 1.3 - Mod.xml fixes
 		  Version 1.2 - more config options, test textures removed
 		  Version 1.1 - More textures added, pngs converted to dds
@@ -1252,7 +1246,7 @@ Updated songs for Version 1.2:
   <Author>Slimebucket + Digixu + AxlRose + Megachocobo</Author>
   <Category>Field Models</Category>
   <Description>
-New version 4.7 now out! Cloudie McDoom costume fixed!
+New version 4.8 now out! Squall eye fix (2 textures got missed last time I fixed this)
     
 Poly-Up is the one stop shop for Character enahncements. Includes Slimebucket's weapon pack and Cloudie McDoom Squall costume.
 
@@ -1263,11 +1257,13 @@ Poly-Up replaces Models, Textures, weapons, and even some NPCs!
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/poly_up.7z</Link>
-    <Version>4.7</Version>
-    <ReleaseDate>2026-08-31</ReleaseDate>
+    <Version>4.8</Version>
+    <ReleaseDate>2026-10-21</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.ibb.co/5FFTx1Z/preview.png</PreviewImage>
     <ReleaseNotes>
+ Version 4.8
+ - 2 squall textures fixed
  Version 4.7   
  -Cloudie McDoom Squall costume fixed
  -ffnx REMASTER edition usage warning removed
