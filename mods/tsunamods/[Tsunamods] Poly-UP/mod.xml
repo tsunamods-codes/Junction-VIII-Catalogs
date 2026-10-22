@@ -5,7 +5,7 @@
   <Author>Slimebucket + Digixu + AxlRose + Megachocobo</Author>
   <Category>Field Models</Category>
   <Description>
-New version 4.7 now out! Cloudie McDoom costume fixed!
+New version 4.8 now out! Squall eye fix (2 textures got missed last time I fixed this)
     
 Poly-Up is the one stop shop for Character enahncements. Includes Slimebucket's weapon pack and Cloudie McDoom Squall costume.
 
@@ -16,11 +16,13 @@ Poly-Up replaces Models, Textures, weapons, and even some NPCs!
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/poly_up.7z</Link>
-    <Version>4.7</Version>
-    <ReleaseDate>2026-08-31</ReleaseDate>
+    <Version>4.8</Version>
+    <ReleaseDate>2026-10-21</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.ibb.co/5FFTx1Z/preview.png</PreviewImage>
     <ReleaseNotes>
+ Version 4.8
+ - 2 squall textures fixed
  Version 4.7   
  -Cloudie McDoom Squall costume fixed
  -ffnx REMASTER edition usage warning removed
