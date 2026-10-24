@@ -1,63 +1,78 @@
 <?xml version="1.0"?>
 <Mod>
   <ID>260dd8f3-537a-4d34-b3d5-956cda71eaca</ID>
-  <Name>[Tsunamods] FF8 Gameplay Customizer</Name>
+  <Name>[Cronos Team] GameplayCustomizer</Name>
   <Author>Hobbitdur</Author>
   <Category>Gameplay</Category>
   <Description>
             ► The ultimate gameplay tweaks ◄
 
-This mods aims to bring lots of gameplay tweaks to FF8 and allow you to customize it to suit your preferences!
+Customize FF8's gameplay with options to suit your preferences!
 
     ◆ Quality of life ◆
-        • DamageCapIncreased: Bring the damage cap up to 65.535.
-        • NoMagicDepletion: Using magic doesn't decrease your stock.
-        • DrawRework: Configure battle drawing, with separate Draw 100 options for field and world-map draw points.
-        • NoUnequippedOnDream: Dream characters inherit their normal counterparts' full junction setups.
-        • AP: Earn from 0 to 255AP. Thanks to Satan-fatalityz for funding part of this!
-        • EXP: Earn from 0 EXP to x16 EXP. Thanks to Satan-fatalityz for funding part of this!
-       • SaveAnywhere: Allow to save in any field, but keep a side save on normal save point to be sure.
+        • Damage cap increased: Bring the damage cap up to 65.535.
+        • No magic depletion: Using magic doesn't decrease your stock.
+        • Draw - Battle: Choose normal battle drawing, uncapped drawing based on MAG, or Draw 100.
+        • Draw - Field: Draw 100 from field draw points, up to your stock limit.
+        • Draw - World map: Draw 100 from world-map draw points, up to your stock limit.
+        • Keep junctions in dreams: Dream characters inherit their normal counterparts' full junction setups.
+        • AP modifier: Choose an AP multiplier or earn 255 AP after each battle. Thanks to Satan-fatalityz for funding part of this!
+        • EXP modifier: Earn from 0 EXP to x16 EXP. Thanks to Satan-fatalityz for funding part of this!
+        • Save anywhere: Allow to save in any field, but keep a side save on normal save point to be sure.
 
     ◆ Game fix ◆
-        • BahamutRareItem: Fix rare item drop and mug probabilities.
-        • TrueRandomness: Replace the lookup-table RNG with the system rand function.
+        • Bahamut rare item: Fix rare item drop and mug probabilities.
+        • True randomness: Make random outcomes less predictable instead of repeating the game's usual random sequence.
 
-    ◆ Censorship fix ◆
-        • GerogeroUncensoredCard: Restore Gerogero's uncensored card texture.
-        • GerogeroUncensoredBattle: Restore Gerogero's uncensored battle textures.
-        • SelphieScanTilt: Allow tilting Selphie's model in the Scan viewer, like every other model.
-        • ArmoryRedBlood: Restore the Japanese red blood in Ultimecia Castle's Armory (green outside Japan).
-        • RedArmband: Restore the red armbands of General Caraway and the D-District Prison warden (blue outside Japan).
+    ◆ Difficulty balance ◆
+        • Limit break not refreshable: Prevent repeatedly switching characters to make a limit break appear.
+        • No GF Heal: GFs can only recover HP through items, instead of walking or staying at hotels.
+        • Junction value rework: Base junction bonuses on character level, or on the lower of character level and magic stock.
+        • Selphie can miss: Allow Selphie's attacks to miss, including with her ultimate weapon.
+        • Squall can miss: Allow Squall and Seifer's attacks to miss, with Blind reducing their accuracy.
+        • Individual EXP: Calculate battle EXP from each character's own level, helping lower-level party members catch up.
+        • GF level cap: Limit GF EXP growth according to the level of their junctioned character.
+        • No pause during Zell's Duel: Disable pausing during Zell's Duel limit break.
+
+    ◆ Cronos team ◆
+        • Hobbitdur: The code master.
+        • Nihil: The one who actually gets things done.
+        • DangerousDom: The mad tester.
+        • Malekith: The mathematician.
 
     ◆ Special thanks ◆
-        • myst6re for Deling tool and RE work
-        • Maki for his work on RE
-        • DangerousDom and Nihil for testing
         • SlimeBucket for the preview
+        • Unicorngoulash for the limit break fix.
     </Description>
   <LatestVersion>
-    <Version>0.7</Version>
-    <ReleaseDate>2026-10-19</ReleaseDate>
+    <Version>0.9</Version>
+    <ReleaseDate>2026-10-24</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://modcdn.win/Hobbitdur/customizer_preview.png</PreviewImage>
     <ReleaseNotes>
     • 0.1
-        Adding DrawRework, DamageCapIncreased, NoMagicDepletion
+        Add Draw - Battle, Damage cap increased and No magic depletion.
     • 0.2
-        Adding AP, EXP
+        Add AP modifier and EXP modifier.
     • 0.3
-        Adding SaveAnywhere
+        Add Save anywhere.
     • 0.4
-        Fixing field and worldmap draw for DrawRework - MaximumDraw.
+        Fix field and world-map drawing for Draw 100.
     • 0.5
-        Split MaximumDraw into independent battle, field and world-map options.
+        Split Draw 100 into independent battle, field and world-map options.
     • 0.6
-        Add BahamutRareItem, TrueRandomness, GerogeroUncensoredCard, GerogeroUncensoredBattle and NoUnequippedOnDream.
-        Enable Difficulty Balance options and update Squall can miss with the corrected Cronos patch.
+        Add Bahamut rare item, True randomness, Gerogero uncensored card, Gerogero uncensored battle and Keep junctions in dreams.
+        Enable Difficulty Balance options and improve Squall can miss.
     • 0.7
-        Add a Censorship Fix section: move GerogeroUncensoredCard and GerogeroUncensoredBattle there and add SelphieScanTilt, ArmoryRedBlood and RedArmband.
+        Add a Censorship Fix section for Gerogero uncensored card, Gerogero uncensored battle, Selphie scan tilt, Armory red blood and Red armbands.
+    • 0.8
+        Move Censorship Fix and Archeology into their own mods: [Cronos Team] Uncensored and [Cronos Team] Archeology.
+        Install those mods to keep using their options.
+    • 0.9
+        Add Individual EXP, GF level cap and No pause during Zell's Duel under Difficulty Balance. All three options are Off by default.
+        Individual EXP and GF level cap by Malekith.
     </ReleaseNotes>
-    <DownloadSize>5234</DownloadSize>
+    <DownloadSize>3759</DownloadSize>
     <Link>iroj://Url/https$download.tsunamods.com?id=24</Link>
   </LatestVersion>
   <Link>https://discord.gg/A7uFA4WqQY</Link>
