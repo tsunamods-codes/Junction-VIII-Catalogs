@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>e0e133c5-8a71-44b0-9c4f-c843fb7b2c91</ID>
+  <Name>[Cronos Team] Uncensored</Name>
+  <Author>Cronos Team</Author>
+  <Category>Gameplay</Category>
+  <Description>
+            ► Undo the game's censorship ◄
+
+Undo the censorship applied to some versions of the game, mainly the European ones.
+
+    ◆ Censorship fixes ◆
+        • GerogeroUncensoredCard: Restore Gerogero's uncensored card texture.
+        • GerogeroUncensoredBattle: Restore Gerogero's uncensored battle textures.
+        • SelphieScanTilt: Allow tilting Selphie's model in the Scan viewer, like every other model.
+        • ArmoryRedBlood: Restore the Japanese red blood in Ultimecia Castle's Armory (green outside Japan).
+        • RedArmband: Restore the red armbands of General Caraway and the D-District Prison warden (blue outside Japan).
+    </Description>
+  <LatestVersion>
+    <Version>1.0</Version>
+    <ReleaseDate>2026-10-24</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage />
+    <ReleaseNotes>
+    • 1.0
+        Split from FF8 Gameplay Customizer 0.8: GerogeroUncensoredCard, GerogeroUncensoredBattle, SelphieScanTilt, ArmoryRedBlood and RedArmband.
+        Gerogero battle ships only the language-independent FFNx textures.
+    </ReleaseNotes>
+    <DownloadSize>1345</DownloadSize>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/censorship.zip</Link>
+  </LatestVersion>
+  <Link>https://discord.gg/A7uFA4WqQY</Link>
+  <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
+  <Tags>
+    <string>ff8</string>
+    <string>censorship</string>
+    <string>uncensored</string>
+    <string>cronos</string>
+    <string>hobbitdur</string>
+  </Tags>
+</Mod>
