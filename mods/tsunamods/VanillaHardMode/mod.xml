@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>edf84006-5502-4341-a864-4baab690d7bb</ID>
+  <Name>[Cronos Team] Vanilla hard mode</Name>
+  <Author>Cronos Team</Author>
+  <Category>Gameplay</Category>
+  <Description>
+            ► The vanilla experience, but much harder ◄
+
+A much harder version of the vanilla game.
+
+    ◆ Changes ◆
+        • Monster stats refitted to a level curve, draw lists capped to the story progression, new EXP/AP.
+        • Fixed encounter levels per story zone.
+        • Rebalanced character growth, junctions, weapons, GFs, enemy attacks and starting setup.
+
+    ◆ Cronos team ◆
+        • Hobbitdur: The code master.
+        • Nihil: The one who actually gets things done.
+        • DangerousDom: The mad tester.
+        • Malekith: The mathematician.
+
+    </Description>
+  <LatestVersion>
+    <Version>0.2</Version>
+    <ReleaseDate>2026-10-24</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage />
+    <ReleaseNotes>
+    • 0.1
+        Initial release.
+    </ReleaseNotes>
+    <DownloadSize>10989</DownloadSize>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/vanilla_hard_mode.zip</Link>
+  </LatestVersion>
+  <Link>https://discord.gg/A7uFA4WqQY</Link>
+  <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
+  <Tags>
+    <string>ff8</string>
+    <string>hard</string>
+    <string>difficulty</string>
+    <string>cronos</string>
+    <string>hobbitdur</string>
+  </Tags>
+</Mod>
