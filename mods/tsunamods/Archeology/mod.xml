@@ -10,16 +10,18 @@
 Every option is On by default.
 
     ◆ Archeology ◆
-        • RefineGFLevel: Restore the refine GF level check still in the game code (Dark Matter and Hero-trial need a level 100 GF).
-        • WItem: Give Tonberry the unused W-Item battle command, allowing two items in one turn.
-        • AutoNewGame: Switch on the developers' debug auto start: the title screen starts a New Game by itself after a few seconds without input.
-        • OmegaLevel100: Omega Weapon is always level 100, like on PlayStation (1,161,000 HP).
-        • SorceressSuccessionInfo: Unlock the never-reachable Information topic "Succession of Sorceress Power" at Edea's house (disc 3).
-        • PSXOrgan: Restore the PlayStation organ of Ultimecia Castle: 8 notes instead of 4, and each note opens its own grate.
+        • Refine GF level: Restore the refine GF level check still in the game code (Dark Matter and Hero-trial need a level 100 GF).
+        • W-Item: Give Tonberry the unused W-Item battle command, allowing two items in one turn.
+        • Auto New Game: Switch on the developers' debug auto start: the title screen starts a New Game by itself after a few seconds without input.
+        • Omega Weapon level 100: Omega Weapon is always level 100, like on PlayStation (1,161,000 HP).
+        • Succession of Sorceress Power: Unlock the never-reachable Information topic "Succession of Sorceress Power" at Edea's house (disc 3).
+        • PlayStation organ: Restore the PlayStation organ of Ultimecia Castle: 8 notes instead of 4, and each note opens its own grate.
 
-    ◆ Special thanks ◆
-        • myst6re for Deling tool and RE work
-        • Maki for his work on RE
+    ◆ Cronos team ◆
+        • Hobbitdur: The code master.
+        • Nihil: The one who actually gets things done.
+        • DangerousDom: The mad tester.
+        • Malekith: The mathematician.
     </Description>
   <LatestVersion>
     <Version>0.1</Version>
@@ -28,7 +30,7 @@ Every option is On by default.
     <PreviewImage />
     <ReleaseNotes>
     • 0.1
-        Split from FF8 Gameplay Customizer 0.8: RefineGFLevel, WItem, AutoNewGame, OmegaLevel100, SorceressSuccessionInfo and PSXOrgan.
+        Initial release.
     </ReleaseNotes>
     <DownloadSize>404</DownloadSize>
     <Link>iroj://Url/https$modcdn.win/Hobbitdur/archeology.zip</Link>
