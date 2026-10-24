@@ -7,11 +7,11 @@
   <Description>
             ► Unused features found in the game data and code, made usable again ◄
 
-Every option is Off by default.
+Every option is On by default.
 
     ◆ Archeology ◆
         • RefineGFLevel: Restore the refine GF level check still in the game code (Dark Matter and Hero-trial need a level 100 GF).
-        • WItem: Restore W-Item, the unused battle command that uses two items in one turn (replaces kernel.bin and init.out).
+        • WItem: Give Tonberry the unused W-Item battle command, allowing two items in one turn.
         • AutoNewGame: Switch on the developers' debug auto start: the title screen starts a New Game by itself after a few seconds without input.
         • OmegaLevel100: Omega Weapon is always level 100, like on PlayStation (1,161,000 HP).
         • SorceressSuccessionInfo: Unlock the never-reachable Information topic "Succession of Sorceress Power" at Edea's house (disc 3).
