@@ -12,16 +12,10 @@ A much harder version of the vanilla game, WITHOUT the rest of Cronos (no AI, fi
     ◆ Changes ◆
         • Monster stats refitted to a level curve, draw lists capped to the story progression, new EXP/AP.
         • Fixed encounter levels per story zone.
-        • Its own kernel.bin (character growth, junction, weapons, GFs, enemy attacks) and starting data.
+        • Rebalanced character growth, junctions, weapons, GFs, enemy attacks and starting setup.
         • Custom damage formula, damage no longer capped at 9999.
         • Junction strength based on the minimum between character level and stock.
         • Draws no longer capped at 9, limit break farming removed.
-        • Refines keep their GF level requirement.
-
-    ◆ Requirements ◆
-        • Incompatible with Cronos Demo: enable only one of these mods.
-        • Requires [Cronos Team] GameplayCustomizer and [Cronos Team] Archeology. Required settings are selected automatically.
-        • Save anywhere, Keep junctions in dreams and the censorship fixes stay your choice.
 
     ◆ Credits ◆
         • Malekith: stat rework, damage and base monster stat formulas.
@@ -36,7 +30,7 @@ A much harder version of the vanilla game, WITHOUT the rest of Cronos (no AI, fi
     • 0.1
         Split from Cronos, where it was the VanillaNightmare monsters difficulty.
     • 0.2
-        Enable Individual EXP, GF level cap and No pause during Zell's Duel through GameplayCustomizer 0.9.
+        Enable Individual EXP, GF level cap and No pause during Zell's Duel.
         Cronos Demo and Vanilla hard mode remain mutually exclusive.
     </ReleaseNotes>
     <DownloadSize>10989</DownloadSize>
