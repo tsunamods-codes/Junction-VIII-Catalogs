@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>5bdb53dd-2cda-4a58-bc4b-5c2b2504475e</ID>
+  <Name>[HobbitDur] FF8 Battle Menu 60 FPS</Name>
+  <Author>HobbitDur</Author>
+  <Category>Animations</Category>
+  <Description>
+            ► Smoother battle menus at 60 FPS ◄
+
+Enjoy smoother, more responsive battle menus at 60 FPS while keeping the original battle speed and animations.
+    </Description>
+  <LatestVersion>
+    <Version>1.0</Version>
+    <ReleaseDate>2026-10-25</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage />
+    <ReleaseNotes>
+    • 1.0
+        Initial release.
+    </ReleaseNotes>
+    <DownloadSize>130</DownloadSize>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/ff860fps.zip</Link>
+  </LatestVersion>
+  <Link>https://discord.gg/A7uFA4WqQY</Link>
+  <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
+  <Tags>
+    <string>ff8</string>
+    <string>animations</string>
+    <string>60fps</string>
+    <string>hobbitdur</string>
+  </Tags>
+</Mod>
