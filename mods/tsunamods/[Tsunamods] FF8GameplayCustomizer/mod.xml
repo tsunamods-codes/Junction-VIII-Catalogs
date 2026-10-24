@@ -34,11 +34,15 @@ Customize FF8's gameplay with options to suit your preferences!
         • GF level cap: Limit GF EXP growth according to the level of their junctioned character.
         • No pause during Zell's Duel: Disable pausing during Zell's Duel limit break.
 
+    ◆ Cronos team ◆
+        • Hobbitdur: The code master.
+        • Nihil: The one who actually gets things done.
+        • DangerousDom: The mad tester.
+        • Malekith: The mathematician.
+
     ◆ Special thanks ◆
-        • myst6re for Deling tool and RE work
-        • Maki for his work on RE
-        • DangerousDom and Nihil for testing
         • SlimeBucket for the preview
+        • Unicorngoulash for the limit break fix.
     </Description>
   <LatestVersion>
     <Version>0.9</Version>
