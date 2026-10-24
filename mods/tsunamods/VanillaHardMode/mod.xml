@@ -7,19 +7,19 @@
   <Description>
             ► The vanilla experience, but much harder ◄
 
-A much harder version of the vanilla game, WITHOUT the rest of Cronos (no AI, field, shop or other changes from Cronos).
+A much harder version of the vanilla game.
 
     ◆ Changes ◆
         • Monster stats refitted to a level curve, draw lists capped to the story progression, new EXP/AP.
         • Fixed encounter levels per story zone.
         • Rebalanced character growth, junctions, weapons, GFs, enemy attacks and starting setup.
-        • Custom damage formula, damage no longer capped at 9999.
-        • Junction strength based on the minimum between character level and stock.
-        • Draws no longer capped at 9, limit break farming removed.
 
-    ◆ Credits ◆
-        • Malekith: stat rework, damage and base monster stat formulas.
-        • Hobbitdur: reverse engineering, HEXT and modding tools.
+    ◆ Cronos team ◆
+        • Hobbitdur: The code master.
+        • Nihil: The one who actually gets things done.
+        • DangerousDom: The mad tester.
+        • Malekith: The mathematician.
+
     </Description>
   <LatestVersion>
     <Version>0.2</Version>
@@ -28,10 +28,7 @@ A much harder version of the vanilla game, WITHOUT the rest of Cronos (no AI, fi
     <PreviewImage />
     <ReleaseNotes>
     • 0.1
-        Split from Cronos, where it was the VanillaNightmare monsters difficulty.
-    • 0.2
-        Enable Individual EXP, GF level cap and No pause during Zell's Duel.
-        Cronos Demo and Vanilla hard mode remain mutually exclusive.
+        Initial release.
     </ReleaseNotes>
     <DownloadSize>10989</DownloadSize>
     <Link>iroj://Url/https$modcdn.win/Hobbitdur/vanilla_hard_mode.zip</Link>
