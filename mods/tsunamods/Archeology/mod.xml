@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>7800ac20-964e-4549-bc75-347a4bcb865d</ID>
+  <Name>[Cronos Team] Archeology</Name>
+  <Author>Cronos Team</Author>
+  <Category>Gameplay</Category>
+  <Description>
+            ► Unused features found in the game data and code, made usable again ◄
+
+Every option is On by default.
+
+    ◆ Archeology ◆
+        • Refine GF level: Restore the refine GF level check still in the game code (Dark Matter and Hero-trial need a level 100 GF).
+        • W-Item: Give Tonberry the unused W-Item battle command, allowing two items in one turn.
+        • Auto New Game: Switch on the developers' debug auto start: the title screen starts a New Game by itself after a few seconds without input.
+        • Omega Weapon level 100: Omega Weapon is always level 100, like on PlayStation (1,161,000 HP).
+        • Succession of Sorceress Power: Unlock the never-reachable Information topic "Succession of Sorceress Power" at Edea's house (disc 3).
+        • PlayStation organ: Restore the PlayStation organ of Ultimecia Castle: 8 notes instead of 4, and each note opens its own grate.
+
+    ◆ Cronos team ◆
+        • Hobbitdur: The code master.
+        • Nihil: The one who actually gets things done.
+        • DangerousDom: The mad tester.
+        • Malekith: The mathematician.
+    </Description>
+  <LatestVersion>
+    <Version>0.1</Version>
+    <ReleaseDate>2026-10-24</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage />
+    <ReleaseNotes>
+    • 0.1
+        Initial release.
+    </ReleaseNotes>
+    <DownloadSize>404</DownloadSize>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/archeology.zip</Link>
+  </LatestVersion>
+  <Link>https://discord.gg/A7uFA4WqQY</Link>
+  <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
+  <Tags>
+    <string>ff8</string>
+    <string>archeology</string>
+    <string>unused</string>
+    <string>cronos</string>
+    <string>hobbitdur</string>
+  </Tags>
+</Mod>
