@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>edf84006-5502-4341-a864-4baab690d7bb</ID>
+  <Name>[Cronos Team] Vanilla hard mode</Name>
+  <Author>Cronos Team</Author>
+  <Category>Gameplay</Category>
+  <Description>
+            ► The vanilla experience, but much harder ◄
+
+A much harder version of the vanilla game, WITHOUT the rest of Cronos (no AI, field, shop or other changes from Cronos).
+
+    ◆ Changes ◆
+        • Monster stats refitted to a level curve, draw lists capped to the story progression, new EXP/AP.
+        • Fixed encounter levels per story zone.
+        • Its own kernel.bin (character growth, junction, weapons, GFs, enemy attacks) and starting data.
+        • Custom damage formula, damage no longer capped at 9999.
+        • Junction strength based on the minimum between character level and stock.
+        • Draws no longer capped at 9, limit break farming removed.
+        • Refines keep their GF level requirement.
+
+    ◆ Requirements ◆
+        • Incompatible with Cronos Demo: enable only one of these mods.
+        • Requires [Cronos Team] GameplayCustomizer and [Cronos Team] Archeology. Required settings are selected automatically.
+        • Save anywhere, Keep junctions in dreams and the censorship fixes stay your choice.
+
+    ◆ Credits ◆
+        • Malekith: stat rework, damage and base monster stat formulas.
+        • Hobbitdur: reverse engineering, HEXT and modding tools.
+    </Description>
+  <LatestVersion>
+    <Version>0.2</Version>
+    <ReleaseDate>2026-10-24</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage />
+    <ReleaseNotes>
+    • 0.1
+        Split from Cronos, where it was the VanillaNightmare monsters difficulty.
+    • 0.2
+        Enable Individual EXP, GF level cap and No pause during Zell's Duel through GameplayCustomizer 0.9.
+        Cronos Demo and Vanilla hard mode remain mutually exclusive.
+    </ReleaseNotes>
+    <DownloadSize>10989</DownloadSize>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/vanilla_hard_mode.zip</Link>
+  </LatestVersion>
+  <Link>https://discord.gg/A7uFA4WqQY</Link>
+  <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
+  <Tags>
+    <string>ff8</string>
+    <string>hard</string>
+    <string>difficulty</string>
+    <string>cronos</string>
+    <string>hobbitdur</string>
+  </Tags>
+</Mod>
