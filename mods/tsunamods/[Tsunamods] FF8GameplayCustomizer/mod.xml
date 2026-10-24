@@ -22,6 +22,11 @@ This mods aims to bring lots of gameplay tweaks to FF8 and allow you to customiz
         • BahamutRareItem: Fix rare item drop and mug probabilities.
         • TrueRandomness: Replace the lookup-table RNG with the system rand function.
 
+    ◆ Difficulty balance ◆
+        • IndividualExp: Calculate battle EXP from each character's own level, helping lower-level party members catch up.
+        • GFLevelCap: Limit GF EXP growth according to the level of their junctioned character.
+        • NoPauseDuringDuel: Disable pausing during Zell's Duel limit break.
+
     ◆ Special thanks ◆
         • myst6re for Deling tool and RE work
         • Maki for his work on RE
@@ -53,8 +58,8 @@ This mods aims to bring lots of gameplay tweaks to FF8 and allow you to customiz
         Censorship Fix and Archeology moved to their own mods: [Cronos Team] Censorship and [Cronos Team] Archeology.
         Their options no longer exist in the Customizer: install these mods to keep using them.
     • 0.9
-        Add optional Individual EXP, GF level cap and No pause during Zell's Duel under Difficulty Balance.
-        Individual EXP and GF level cap by Malekith; their DLLs preserve vanilla behavior when the options are Off.
+        Add IndividualExp, GFLevelCap and NoPauseDuringDuel under Difficulty Balance. All three options are Off by default.
+        IndividualExp and GFLevelCap by Malekith.
     </ReleaseNotes>
     <DownloadSize>3759</DownloadSize>
     <Link>iroj://Url/https$download.tsunamods.com?id=24</Link>
