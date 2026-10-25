@@ -2,7 +2,7 @@
 <Mod>
   <ID>260dd8f3-537a-4d34-b3d5-956cda71eaca</ID>
   <Name>[Cronos Team] GameplayCustomizer</Name>
-  <Author>Hobbitdur</Author>
+  <Author>Cronos Team</Author>
   <Category>Gameplay</Category>
   <Description>
             ► The ultimate gameplay tweaks ◄
@@ -45,6 +45,7 @@ Customize FF8's gameplay with options to suit your preferences!
         • Unicorngoulash for the limit break fix.
     </Description>
   <LatestVersion>
+    <Link>iroj://Url/https$download.tsunamods.com?id=24</Link>
     <Version>0.9</Version>
     <ReleaseDate>2026-10-24</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -73,7 +74,6 @@ Customize FF8's gameplay with options to suit your preferences!
         Individual EXP and GF level cap by Malekith.
     </ReleaseNotes>
     <DownloadSize>3759</DownloadSize>
-    <Link>iroj://Url/https$download.tsunamods.com?id=24</Link>
   </LatestVersion>
   <Link>https://discord.gg/A7uFA4WqQY</Link>
   <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
