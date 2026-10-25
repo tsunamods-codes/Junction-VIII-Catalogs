@@ -1055,6 +1055,7 @@ Release note:
 A much harder version of the vanilla game.
 
     ◆ Changes ◆
+        • Difficulty: Choose Standard, Nightmare or Hell.
         • Monster stats refitted to a level curve, draw lists capped to the story progression, new EXP/AP.
         • Fixed encounter levels per story zone.
         • Rebalanced character growth, junctions, weapons, GFs, enemy attacks and starting setup.
@@ -1074,8 +1075,10 @@ A much harder version of the vanilla game.
     <ReleaseNotes>
     • 0.1
         Initial release.
+    • 0.2
+        Add Standard, Nightmare and Hell difficulty options.
     </ReleaseNotes>
-    <DownloadSize>10989</DownloadSize>
+    <DownloadSize>32900</DownloadSize>
     <Link>iroj://Url/https$modcdn.win/Hobbitdur/vanilla_hard_mode.zip</Link>
   </LatestVersion>
   <Link>https://discord.gg/A7uFA4WqQY</Link>
