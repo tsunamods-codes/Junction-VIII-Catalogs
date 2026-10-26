@@ -5,15 +5,13 @@
   <Author>Dulca &amp; XHRIS &amp; Hobbitdur &amp; Ash &amp; Slimebuck</Author>
   <Category>Battle Textures</Category>
   <Description>
-        Card-RF is a graphical update to the beloved Triple Triad minigame!
-        Which can now be played in full 60 FPS thanks to FFNx.
-        Either using the vanilla upscale, or the Xylo option that use only
-        original reference artworks from Final Fantasy 8 and higher,
-        we have brought this amazing minigame to a more modern appearance
+        Card-RF improves Triple Triad with three card styles: Full artwork,
+        Mix artwork/enhanced vanilla, and Enhanced vanilla. Choose gameplay card
+        frames, three card backs, icons and boards independently of the card subjects.
     </Description>
   <LatestVersion>
-    <Version>1.5</Version>
-    <ReleaseDate>2026-10-03</ReleaseDate>
+    <Version>1.6</Version>
+    <ReleaseDate>2026-10-26</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://modcdn.win/Hobbitdur/card-rf-logo.png</PreviewImage>
     <ReleaseNotes>
@@ -23,8 +21,9 @@
             - Vanilla enhanced cards
             - New boards (credits to Ash)
         - 1.5: New Vanilla enhanced option (credits to XHRIS and Slimebuck)
+        - 1.6: Full artwork, Mix artwork/enhanced vanilla and Enhanced vanilla
     </ReleaseNotes>
-    <DownloadSize>452213</DownloadSize>
+    <DownloadSize>1222216</DownloadSize>
     <Link>iroj://Url/https$modcdn.win/Hobbitdur/card-rf.zip</Link>
   </LatestVersion>
   <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
