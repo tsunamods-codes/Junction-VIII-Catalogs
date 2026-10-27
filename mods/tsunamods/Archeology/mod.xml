@@ -32,7 +32,7 @@ Every option is On by default.
     • 1.0
         Initial release.
     • 1.1
-        W-Item: fix the crash at the end of every battle (the battle texts of its kernel.bin were compressed).
+        W-Item: fix the crash at the end of every battle.
     </ReleaseNotes>
     <DownloadSize>404</DownloadSize>
     <Link>iroj://Url/https$modcdn.win/Hobbitdur/archeology.zip</Link>
