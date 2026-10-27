@@ -24,13 +24,15 @@ Every option is On by default.
         • Malekith: The mathematician.
     </Description>
   <LatestVersion>
-    <Version>1.0</Version>
-    <ReleaseDate>2026-10-24</ReleaseDate>
+    <Version>1.1</Version>
+    <ReleaseDate>2026-10-27</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage />
     <ReleaseNotes>
     • 1.0
         Initial release.
+    • 1.1
+        W-Item: fix the crash at the end of every battle (the battle texts of its kernel.bin were compressed).
     </ReleaseNotes>
     <DownloadSize>404</DownloadSize>
     <Link>iroj://Url/https$modcdn.win/Hobbitdur/archeology.zip</Link>
