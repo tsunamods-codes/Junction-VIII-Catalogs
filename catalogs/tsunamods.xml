@@ -450,27 +450,22 @@ Enjoy smoother, more responsive battle menus at 60 FPS while keeping the origina
     <Author>Fated Courage + Slimebucket</Author>
     <Category>Field Textures</Category>
     <Description>Rebirth Flame Plus
-    WARNING!! - REMASTER EDITION - DOES NOT WORK WITH THIS MOD 
-    WARNING!! - IF YOU WANT TO USE REMASTER EDTION USE POLY-UP or SKIN-RF
+		Version 3.0 now out! Now works seamlessly with REMASTERED Edition and OG 2013! OG Upscaled option added
 
-		Version 2.2 now out
-				
-		Replaces playable character textures. 8x size of orignal textures ~ 1024x1024
+	For players who want character textures that closely resemble the original style of the game, just higher resolution.
 	
-		Includes main texture pack, and both Mago and Devina version of Squall, Rinoa and Quistis.
-
-		Recommonded to use Poly-Up or Skin-RF over this mod, they have nicer textures and models.
-		This mod works with OG 2013 assets only and does not work the REMASTER assets.
+	2 options of textures, either striaght OG upscaled, or Devina edit, which is slightly stylized but not as much as MAGO from poly up.
     
     Original mod Flame Rebirth 1.3 by Fated Courage
     J8 port, and extra texture work, eye fix by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/flame_rebirth_plus.7z</Link>
-      <Version>2.2</Version>
-      <ReleaseDate>2026-08-31</ReleaseDate>
+      <Version>3.0</Version>
+      <ReleaseDate>2026-10-28</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
-      <PreviewImage>https://i.ibb.co/NnSQnyY6/preview.png</PreviewImage>
+      <PreviewImage>https://i.ibb.co/xqJpwMnG/preview.png</PreviewImage>
       <ReleaseNotes>
+		v3.0 - Remaster seamless Compatibility added. OG Upscaled textures option added
 		v2.2 - remaster edition usage warning edited
 		v2.1 - minor texture fixes, remaster edition usage warning added
 		v2.0 - minor fix   - Selphie eye fix
@@ -482,7 +477,7 @@ Enjoy smoother, more responsive battle menus at 60 FPS while keeping the origina
 		v1.4 - Many texture fixes, more eye fixes
         v1.3 - First release
       </ReleaseNotes>
-      <DownloadSize>70497</DownloadSize>
+      <DownloadSize>166511</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
@@ -649,19 +644,20 @@ Acknowledgment:
     <Category>Battle Textures</Category>
     <Description>Lunar Cry - Enemy Texture replacement mod.
 
-- Version 4.5 now out!
-        - Elvoret fixed, Adel RINOA fixed, President Deling fixed
+- Version 5.0 now out!
+        - Now Works Seamlessly with both REMASTERED and OG2013 version of the game.
         
 Original mod created by MCINDUS
 ffnx conversion by Nameless27
 Junction8 Conversion by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/lunarcry.7z</Link>
-      <Version>4.5</Version>
-      <ReleaseDate>2026-08-23</ReleaseDate>
+      <Version>5.0</Version>
+      <ReleaseDate>2026-10-28</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/BVFDGVmT/preview.png</PreviewImage>
       <ReleaseNotes>
+        Version 5.0 - Works seamlessly in both REMASTERED and OG2013 Editions! Missing textures added, OG2013 extras feature added to config.
         Version 4.5 - Elvoret, Adel, President Deling textures fixed
         Version 4.4 - Odin field fixed, King Tonberry battle fixed, Moomba and Shemi fixed
         Version 4.3 - BGH251F2 Broken version textures replaced, Master NORG fixed
@@ -673,7 +669,7 @@ Junction8 Conversion by Slimebucket</Description>
                     - Alternate Bahamut and Brothers added
         Version 2.0 - dds fix - alternate ifrit added 
       </ReleaseNotes>
-      <DownloadSize>264307</DownloadSize>
+      <DownloadSize>304029</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
@@ -890,22 +886,23 @@ To check if the mod is working, you should have magic already available when lau
     <Name>Skin-RF</Name>
     <Author>Dulca + Slimebucket</Author>
     <Category>Battle Models</Category>
-    <Description>New vesion 1.64 out now!
+    <Description>New vesion 2.00 out now!
 
-		Cloudie McDoom Alt (Dollet Mission) skin added
-		
-		HD Weapons are all done!
+Mod now works seamlessly with REMASTERED edition and OG2013 edition!
+		Various texture fixes for Selphie (Archist) Zell (Fighter) and Squall (Cloudie McDoom)
 
 Skin-RF -Enhance field models. Multiple Battle models to choose from for Playable characters with synchronized Field models.
 		- Includes Slimebucket Weapon Pack
     </Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/skin-RF.7z</Link>
-      <Version>1.64</Version>
-      <ReleaseDate>2026-08-31</ReleaseDate>
+      <Version>2.00</Version>
+      <ReleaseDate>2026-10-28</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/VW0cZsX8/preview.png</PreviewImage>
       <ReleaseNotes>
+Version 2.00 :Fixed Remastered edition! Works Seamlessly now with both. 
+		      Various texture fixes for Selphie (Archist) Zell (Fighter) and Squall (Cloudie McDoom).
 Version 1.64 :Remaster edition usage warning edited, Cloudie McDoom Alt (Dollet Mission) skin added	  
 Version 1.63 :Remaster edition usage warning added
 Version 1.62 :field weapon textures fixed, Cloudie McDoom Squall costume fixes, config menu preview pictures fixed.
@@ -920,7 +917,7 @@ Version 1.10 : Playable characters have a low poly synced field model.
 			   New Field models for All Playable characters.
 			   Synchrized world map model for Squall.
       </ReleaseNotes>
-      <DownloadSize>248073</DownloadSize>
+      <DownloadSize>241572</DownloadSize>
     </LatestVersion>
   <Link />
   <DonationLink />
@@ -1434,7 +1431,7 @@ Updated songs for Version 1.2:
   <Author>Slimebucket + Digixu + AxlRose + Megachocobo</Author>
   <Category>Field Models</Category>
   <Description>
-New version 4.8 now out! Squall eye fix (2 textures got missed last time I fixed this)
+New version 5.0 now out! Now works seamlessly with REMASTERED and OG2013 editions!
     
 Poly-Up is the one stop shop for Character enahncements. Includes Slimebucket's weapon pack and Cloudie McDoom Squall costume.
 
@@ -1445,11 +1442,13 @@ Poly-Up replaces Models, Textures, weapons, and even some NPCs!
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/poly_up.7z</Link>
-    <Version>4.8</Version>
-    <ReleaseDate>2026-10-21</ReleaseDate>
+    <Version>5.0</Version>
+    <ReleaseDate>2026-10-28</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.ibb.co/5FFTx1Z/preview.png</PreviewImage>
     <ReleaseNotes>
+ Version 5.0 
+ - Remastered edition now works, various world texture fixes
  Version 4.8
  - 2 squall textures fixed
  Version 4.7   
@@ -1486,7 +1485,7 @@ Version 3.0:
 - Eye fix 2.0 is here! random artifacts from eyes has been fixed
 - Many textures have been replaced. The textures where a mix of both Mago and Devina edits, replaced all Devina textures to MAGO ones to make everything uniform and the same
    </ReleaseNotes>
-    <DownloadSize>101935</DownloadSize>
+    <DownloadSize>100815</DownloadSize>
   </LatestVersion>
   <Link></Link>
   <DonationLink></DonationLink>
