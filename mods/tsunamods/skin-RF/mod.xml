@@ -4,22 +4,23 @@
     <Name>Skin-RF</Name>
     <Author>Dulca + Slimebucket</Author>
     <Category>Battle Models</Category>
-    <Description>New vesion 1.64 out now!
+    <Description>New vesion 2.00 out now!
 
-		Cloudie McDoom Alt (Dollet Mission) skin added
-		
-		HD Weapons are all done!
+Mod now works seamlessly with REMASTERED edition and OG2013 edition!
+		Various texture fixes for Selphie (Archist) Zell (Fighter) and Squall (Cloudie McDoom)
 
 Skin-RF -Enhance field models. Multiple Battle models to choose from for Playable characters with synchronized Field models.
 		- Includes Slimebucket Weapon Pack
     </Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/skin-RF.7z</Link>
-      <Version>1.64</Version>
-      <ReleaseDate>2026-08-31</ReleaseDate>
+      <Version>2.00</Version>
+      <ReleaseDate>2026-10-28</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/VW0cZsX8/preview.png</PreviewImage>
       <ReleaseNotes>
+Version 2.00 :Fixed Remastered edition! Works Seamlessly now with both. 
+		      Various texture fixes for Selphie (Archist) Zell (Fighter) and Squall (Cloudie McDoom).
 Version 1.64 :Remaster edition usage warning edited, Cloudie McDoom Alt (Dollet Mission) skin added	  
 Version 1.63 :Remaster edition usage warning added
 Version 1.62 :field weapon textures fixed, Cloudie McDoom Squall costume fixes, config menu preview pictures fixed.
@@ -34,7 +35,7 @@ Version 1.10 : Playable characters have a low poly synced field model.
 			   New Field models for All Playable characters.
 			   Synchrized world map model for Squall.
       </ReleaseNotes>
-      <DownloadSize>248073</DownloadSize>
+      <DownloadSize>241572</DownloadSize>
     </LatestVersion>
   <Link />
   <DonationLink />
