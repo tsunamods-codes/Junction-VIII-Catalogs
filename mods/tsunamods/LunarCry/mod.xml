@@ -6,19 +6,20 @@
     <Category>Battle Textures</Category>
     <Description>Lunar Cry - Enemy Texture replacement mod.
 
-- Version 4.5 now out!
-        - Elvoret fixed, Adel RINOA fixed, President Deling fixed
+- Version 5.0 now out!
+        - Now Works Seamlessly with both REMASTERED and OG2013 version of the game.
         
 Original mod created by MCINDUS
 ffnx conversion by Nameless27
 Junction8 Conversion by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/lunarcry.7z</Link>
-      <Version>4.5</Version>
-      <ReleaseDate>2026-08-23</ReleaseDate>
+      <Version>5.0</Version>
+      <ReleaseDate>2026-10-28</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/BVFDGVmT/preview.png</PreviewImage>
       <ReleaseNotes>
+        Version 5.0 - Works seamlessly in both REMASTERED and OG2013 Editions! Missing textures added, OG2013 extras feature added to config.
         Version 4.5 - Elvoret, Adel, President Deling textures fixed
         Version 4.4 - Odin field fixed, King Tonberry battle fixed, Moomba and Shemi fixed
         Version 4.3 - BGH251F2 Broken version textures replaced, Master NORG fixed
@@ -30,7 +31,7 @@ Junction8 Conversion by Slimebucket</Description>
                     - Alternate Bahamut and Brothers added
         Version 2.0 - dds fix - alternate ifrit added 
       </ReleaseNotes>
-      <DownloadSize>264307</DownloadSize>
+      <DownloadSize>304029</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
