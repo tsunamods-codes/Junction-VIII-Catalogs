@@ -5,24 +5,25 @@
   <Author>todi</Author>
   <Category>User Interface</Category>
   <Description>
-    Shows the Steam Deck buttons (A, B, X, Y, L1/R1, L2/R2, View, Menu) wherever FF8 names a button, instead of "B1", "B2", ...
+    Shows the Steam Deck / Steam Controller buttons (A, B, X, Y, L1/R1, L2/R2, View, Menu) wherever FF8 names a button, instead of "B1", "B2", ...
     The glyphs follow your bindings from the in-game Config screen.
 
-    Requires the English Steam 2013 version (FF8_EN.exe) or the Remastered edition, with FFNx. Turns on FFNx's ff8_use_gamepad_icons.
+    Works with the Steam 2013 and Remastered editions, in every game language. Junction VIII turns on FFNx's ff8_use_gamepad_icons for you while the mod is active.
     With AxlRose's WIP (UI on): place this mod above it in the list.
   </Description>
   <LatestVersion>
-    <Link>iroj://Url/https$github.com/CrashTestButter/ff8-deck-glyphs/releases/download/v1.00/FF8DeckGlyphs.iroj</Link>
-    <Version>1.00</Version>
-    <ReleaseDate>2026-10-20</ReleaseDate>
+    <Link>iroj://Url/https$github.com/CrashTestButter/ff8-deck-glyphs/releases/download/v1.10/FF8DeckGlyphs.iroj</Link>
+    <Version>1.10</Version>
+    <ReleaseDate>2026-10-29</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://raw.githubusercontent.com/CrashTestButter/ff8-deck-glyphs/v1.00/docs/button-assignment.png</PreviewImage>
+    <PreviewImage>https://raw.githubusercontent.com/CrashTestButter/ff8-deck-glyphs/v1.10/docs/button-assignment.png</PreviewImage>
     <ReleaseNotes>
+      1.10: works in every game language, including Japanese, and with the low-res icons; smaller download.
       1.00: new preview image.
       0.9: button glyphs are smaller and sharp-edged, so they no longer overlap the next line of text. Auto Sort now places this mod above AxlRose's WIP.
       0.8: first catalog release, textures only.
     </ReleaseNotes>
-    <DownloadSize>8194</DownloadSize>
+    <DownloadSize>720</DownloadSize>
   </LatestVersion>
   <Link>https://github.com/CrashTestButter/ff8-deck-glyphs</Link>
   <DonationLink></DonationLink>
@@ -32,4 +33,5 @@
     <string>Controller</string>
     <string>Steam Deck</string>
   </Tags>
+  <GameLanguage>ANY</GameLanguage>
 </Mod>
