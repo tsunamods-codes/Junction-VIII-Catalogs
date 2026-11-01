@@ -842,29 +842,35 @@ PSX&#45;style card back design and frames with their decorative elements and sha
 
 <Mod>
   <ID>b1e52b98-adb0-4f42-bc14-2e450eab8284</ID>
-  <Name>Ragnarok</Name>
+  <Name>Ragnarok Rebalancing Mod</Name>
   <Author>Callisto</Author>
   <Category>Gameplay</Category>
   <Description>
-This mod was created with the aim of rebalancing several gameplay aspects of Final Fantasy VIII, such as the usefulness of all characters in battle, the power level of Limit Breaks, and the ways of obtaining powerful tools to become stronger. Not only does this mod limit the gains from playing Triple Triad or make enemies more challenging, but it also adds various convenience functions not present in the original game, such as lifting the Draw cap in battles, providing additional save possibilities, or giving the characters basic spells right off the bat.
 
-Overall, the mod is for those who look for a new challenge and maybe those who would like to relive Final Fantasy VIII the way they did during their very first playthrough, when they didn't know the game inside out yet. Of course, new players are welcome as well, but they should get accustomed to how the general gameplay mechanics work first.
+Rebalances the core gameplay to deliver a fresh, engaging challenge for veterans and newcomers alike. This mod scales up enemy difficulty and balances Triple Triad rewards, while injecting major quality-of-life upgrades like a lifted Draw cap, extra save points, and starting spells.
 
-The mod has been playtested from start to finish and should be largely bug-free. If you give this mod a try and discover something off, please report it on the forum or Discord. 
+From version 2.0 onwards, offers an overhauled combat system with several new features:
 
-To check if the mod is working, you should have magic already available when launching a new game. In battles, you should have no problem drawing more than 10 spells per Draw for low-level magic, such as Cure, Fire, or Blizzard.
+• Enhanced character weapons featuring unique passive abilities, multi-stat boosts, and more effects on Limit Breaks.
+• High-impact Guardian Forces made genuinely worth summoning in battle, balanced by a strict limit of one summon per GF per battle.
+• Strategic tactical cooldowns applied to character Limit Breaks after activation.
+• Unique equipment perks and bonus effects attached to every single GF.
+• Expanded character customisation with a suite of new Character and Command Abilities to unlock.
+• An accessible new Casual difficulty option alongside the more brutal Standard and Lionhard modes.
+
+Whether you want to recapture the feel of your very first playthrough or test your tactical limits, feel free to give this mod a go. To share impressions or report bugs, please use the Qhimm forum or Discord!
   </Description>
 
   <LatestVersion>
-    <Link>iroj://GDrive/1wN2RlFt3PJXZbM2TKVGrdX71lcLctTqa</Link>
-    <Version>2.12</Version>
+    <Link>iroj://GDrive/1RPvWjHCw-6oevxsvm_WBa_I9aj-q7GcW</Link>
+    <Version>2.13</Version>
     <ReleaseDate>2026-09-21</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.ibb.co/4nwjWw9K/preview.png</PreviewImage>
     <ReleaseNotes>
 &#8226; 1.00: First release on JunctionVIII, ported by Hobbitdur
 &#8226; 1.01: Lionheart difficulty option added, ported by Hobbitdur and vodkup
-&#8226; 2.12: Recent version with major updates, check the forum link for details
+&#8226; 2.13: Recent version with major updates, check the forum link for details
     </ReleaseNotes>
     <DownloadSize>245725</DownloadSize>
   </LatestVersion>
