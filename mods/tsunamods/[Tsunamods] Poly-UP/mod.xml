@@ -5,7 +5,7 @@
   <Author>Slimebucket + Digixu + AxlRose + Megachocobo</Author>
   <Category>Field Models</Category>
   <Description>
-New version 5.0 now out! Now works seamlessly with REMASTERED and OG2013 editions!
+New version 5.1 now out! Now works seamlessly with REMASTERED and OG2013 editions!
     
 Poly-Up is the one stop shop for Character enahncements. Includes Slimebucket's weapon pack and Cloudie McDoom Squall costume.
 
@@ -16,11 +16,13 @@ Poly-Up replaces Models, Textures, weapons, and even some NPCs!
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/poly_up.7z</Link>
-    <Version>5.0</Version>
-    <ReleaseDate>2026-10-28</ReleaseDate>
+    <Version>5.1</Version>
+    <ReleaseDate>2026-11-01</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.ibb.co/5FFTx1Z/preview.png</PreviewImage>
     <ReleaseNotes>
+ Version 5.1
+ - Fixes Zell's Alternate (Dollet Mission) Model. Cloudie Mc Doom costume added missing textures.
  Version 5.0 
  - Remastered edition now works, various world texture fixes
  Version 4.8
