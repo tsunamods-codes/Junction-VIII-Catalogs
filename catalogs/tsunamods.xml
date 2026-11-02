@@ -451,7 +451,7 @@ Enjoy smoother, more responsive battle menus at 60 FPS while keeping the origina
     <Author>Fated Courage + Slimebucket</Author>
     <Category>Field Textures</Category>
     <Description>Rebirth Flame Plus
-		Version 3.1 now out! Now works seamlessly with REMASTERED Edition and OG 2013! OG Upscaled option added
+		Version 3.2 now out! Now works seamlessly with REMASTERED Edition and OG 2013! OG Upscaled option added
 
 	For players who want character textures that closely resemble the original style of the game, just higher resolution.
 	
@@ -461,11 +461,12 @@ Enjoy smoother, more responsive battle menus at 60 FPS while keeping the origina
     J8 port, and extra texture work, eye fix by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/flame_rebirth_plus.7z</Link>
-      <Version>3.1</Version>
-      <ReleaseDate>2026-10-28</ReleaseDate>
+      <Version>3.2</Version>
+      <ReleaseDate>2026-11-01</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/xqJpwMnG/preview.png</PreviewImage>
       <ReleaseNotes>
+		V3.2 - Zell's Alternate (dollet mission) texture fixed Devina option
 		v3.1 - OG Upscaled option converted from PNG to DDS
 		v3.0 - Remaster seamless Compatibility added. OG Upscaled textures option added
 		v2.2 - remaster edition usage warning edited
@@ -479,7 +480,7 @@ Enjoy smoother, more responsive battle menus at 60 FPS while keeping the origina
 		v1.4 - Many texture fixes, more eye fixes
         v1.3 - First release
       </ReleaseNotes>
-      <DownloadSize>93368</DownloadSize>
+      <DownloadSize>92427</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
@@ -646,19 +647,24 @@ Acknowledgment:
     <Category>Battle Textures</Category>
     <Description>Lunar Cry - Enemy Texture replacement mod.
 
-- Version 5.0 now out!
+- Version 5.3 now out!
         - Now Works Seamlessly with both REMASTERED and OG2013 version of the game.
+
+        - G-Soldier fix for REMASTER edition option added to CONFIGURATION menu.
         
 Original mod created by MCINDUS
 ffnx conversion by Nameless27
 Junction8 Conversion by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/lunarcry.7z</Link>
-      <Version>5.0</Version>
-      <ReleaseDate>2026-10-28</ReleaseDate>
+      <Version>5.3</Version>
+      <ReleaseDate>2026-11-01</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/BVFDGVmT/preview.png</PreviewImage>
       <ReleaseNotes>
+        Version 5.3 - G-Soldier Fix for REMASTER edition added, REMASTER edtion assets file directory changed
+        Version 5.2 - New File system for REMASTER assets
+        Version 5.1 - Testing and bug hunting
         Version 5.0 - Works seamlessly in both REMASTERED and OG2013 Editions! Missing textures added, OG2013 extras feature added to config.
         Version 4.5 - Elvoret, Adel, President Deling textures fixed
         Version 4.4 - Odin field fixed, King Tonberry battle fixed, Moomba and Shemi fixed
@@ -671,7 +677,7 @@ Junction8 Conversion by Slimebucket</Description>
                     - Alternate Bahamut and Brothers added
         Version 2.0 - dds fix - alternate ifrit added 
       </ReleaseNotes>
-      <DownloadSize>304029</DownloadSize>
+      <DownloadSize>301850</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
@@ -894,21 +900,22 @@ Whether you want to recapture the feel of your very first playthrough or test yo
     <Name>Skin-RF</Name>
     <Author>Dulca + Slimebucket</Author>
     <Category>Battle Models</Category>
-    <Description>New vesion 2.00 out now!
+    <Description>New vesion 2.01 out now!
 
 Mod now works seamlessly with REMASTERED edition and OG2013 edition!
-		Various texture fixes for Selphie (Archist) Zell (Fighter) and Squall (Cloudie McDoom)
+		Various texture fixes for Zell alternate model and Squall (Cloudie McDoom) fixes
 
 Skin-RF -Enhance field models. Multiple Battle models to choose from for Playable characters with synchronized Field models.
 		- Includes Slimebucket Weapon Pack
     </Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/skin-RF.7z</Link>
-      <Version>2.00</Version>
-      <ReleaseDate>2026-10-28</ReleaseDate>
+      <Version>2.01</Version>
+      <ReleaseDate>2026-11-01</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/VW0cZsX8/preview.png</PreviewImage>
       <ReleaseNotes>
+Version 2.01 :Fixed Zell's alternate customes model		  
 Version 2.00 :Fixed Remastered edition! Works Seamlessly now with both. 
 		      Various texture fixes for Selphie (Archist) Zell (Fighter) and Squall (Cloudie McDoom).
 Version 1.64 :Remaster edition usage warning edited, Cloudie McDoom Alt (Dollet Mission) skin added	  
@@ -925,7 +932,7 @@ Version 1.10 : Playable characters have a low poly synced field model.
 			   New Field models for All Playable characters.
 			   Synchrized world map model for Squall.
       </ReleaseNotes>
-      <DownloadSize>241572</DownloadSize>
+      <DownloadSize>239330</DownloadSize>
     </LatestVersion>
   <Link />
   <DonationLink />
@@ -1439,7 +1446,7 @@ Updated songs for Version 1.2:
   <Author>Slimebucket + Digixu + AxlRose + Megachocobo</Author>
   <Category>Field Models</Category>
   <Description>
-New version 5.0 now out! Now works seamlessly with REMASTERED and OG2013 editions!
+New version 5.1 now out! Now works seamlessly with REMASTERED and OG2013 editions!
     
 Poly-Up is the one stop shop for Character enahncements. Includes Slimebucket's weapon pack and Cloudie McDoom Squall costume.
 
@@ -1450,11 +1457,13 @@ Poly-Up replaces Models, Textures, weapons, and even some NPCs!
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/poly_up.7z</Link>
-    <Version>5.0</Version>
-    <ReleaseDate>2026-10-28</ReleaseDate>
+    <Version>5.1</Version>
+    <ReleaseDate>2026-11-01</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.ibb.co/5FFTx1Z/preview.png</PreviewImage>
     <ReleaseNotes>
+ Version 5.1
+ - Fixes Zell's Alternate (Dollet Mission) Model. Cloudie Mc Doom costume added missing textures.
  Version 5.0 
  - Remastered edition now works, various world texture fixes
  Version 4.8
