@@ -4,7 +4,7 @@
     <Name>Skin-RF</Name>
     <Author>Dulca + Slimebucket</Author>
     <Category>Battle Models</Category>
-    <Description>New vesion 2.01 out now!
+    <Description>New vesion 2.10 out now!
 
 Mod now works seamlessly with REMASTERED edition and OG2013 edition!
 		Various texture fixes for Zell alternate model and Squall (Cloudie McDoom) fixes
@@ -14,11 +14,12 @@ Skin-RF -Enhance field models. Multiple Battle models to choose from for Playabl
     </Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/skin-RF.7z</Link>
-      <Version>2.01</Version>
-      <ReleaseDate>2026-11-01</ReleaseDate>
+      <Version>2.10</Version>
+      <ReleaseDate>2026-11-02</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/VW0cZsX8/preview.png</PreviewImage>
       <ReleaseNotes>
+Version 2.10 :Models re worked to fix many issues  
 Version 2.01 :Fixed Zell's alternate customes model		  
 Version 2.00 :Fixed Remastered edition! Works Seamlessly now with both. 
 		      Various texture fixes for Selphie (Archist) Zell (Fighter) and Squall (Cloudie McDoom).
@@ -36,7 +37,7 @@ Version 1.10 : Playable characters have a low poly synced field model.
 			   New Field models for All Playable characters.
 			   Synchrized world map model for Squall.
       </ReleaseNotes>
-      <DownloadSize>239330</DownloadSize>
+      <DownloadSize>243499</DownloadSize>
     </LatestVersion>
   <Link />
   <DonationLink />
