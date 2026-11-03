@@ -6,7 +6,7 @@
     <Category>Battle Textures</Category>
     <Description>Lunar Cry - Enemy Texture replacement mod.
 
-- Version 5.3 now out!
+- Version 5.4 now out!
         - Now Works Seamlessly with both REMASTERED and OG2013 version of the game.
 
         - G-Soldier fix for REMASTER edition option added to CONFIGURATION menu.
@@ -16,11 +16,12 @@ ffnx conversion by Nameless27
 Junction8 Conversion by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/lunarcry.7z</Link>
-      <Version>5.3</Version>
-      <ReleaseDate>2026-11-01</ReleaseDate>
+      <Version>5.4</Version>
+      <ReleaseDate>2026-11-02</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/BVFDGVmT/preview.png</PreviewImage>
       <ReleaseNotes>
+        Version 5.4 - G-Soldier Fix updated to fix red dots on center of G-Soldiers helms
         Version 5.3 - G-Soldier Fix for REMASTER edition added, REMASTER edtion assets file directory changed
         Version 5.2 - New File system for REMASTER assets
         Version 5.1 - Testing and bug hunting
@@ -36,7 +37,7 @@ Junction8 Conversion by Slimebucket</Description>
                     - Alternate Bahamut and Brothers added
         Version 2.0 - dds fix - alternate ifrit added 
       </ReleaseNotes>
-      <DownloadSize>301850</DownloadSize>
+      <DownloadSize>302735</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>

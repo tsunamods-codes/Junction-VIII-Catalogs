@@ -5,7 +5,7 @@
     <Author>Fated Courage + Slimebucket</Author>
     <Category>Field Textures</Category>
     <Description>Rebirth Flame Plus
-		Version 3.2 now out! Now works seamlessly with REMASTERED Edition and OG 2013! OG Upscaled option added
+		Version 3.4 now out! Now works seamlessly with REMASTERED Edition and OG 2013! OG Upscaled option added
 
 	For players who want character textures that closely resemble the original style of the game, just higher resolution.
 	
@@ -15,13 +15,15 @@
     J8 port, and extra texture work, eye fix by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/flame_rebirth_plus.7z</Link>
-      <Version>3.2</Version>
-      <ReleaseDate>2026-11-01</ReleaseDate>
+      <Version>3.4</Version>
+      <ReleaseDate>2026-11-02</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/xqJpwMnG/preview.png</PreviewImage>
       <ReleaseNotes>
-		V3.2 - Zell's Alternate (dollet mission) texture fixed Devina option
-		v3.1 - OG Upscaled option converted from PNG to DDS
+		v3.4 - Devina option got many fixes, dollet mission textures got fixed 
+		V3.3 - Zell's Alternate (dollet mission) texture fixed Devina option
+		v3.2 - OG Upscaled option converted from PNG to DDS
+		v3.1 - Model fix
 		v3.0 - Remaster seamless Compatibility added. OG Upscaled textures option added
 		v2.2 - remaster edition usage warning edited
 		v2.1 - minor texture fixes, remaster edition usage warning added
@@ -34,7 +36,7 @@
 		v1.4 - Many texture fixes, more eye fixes
         v1.3 - First release
       </ReleaseNotes>
-      <DownloadSize>92427</DownloadSize>
+      <DownloadSize>90,776</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
