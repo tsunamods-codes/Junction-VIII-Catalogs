@@ -50,5 +50,5 @@ At the moment, enabling the Bilinear Filter in FFNx causes texture alignment iss
 <string>Minigames</string>
 <string>TripleTriad</string>
 </Tags>
-<GameLanguage>EN, FR, DE, ES, IT, JA</GameLanguage>
+<GameLanguage>ANY</GameLanguage>
 </Mod>
