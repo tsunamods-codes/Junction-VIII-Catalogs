@@ -825,20 +825,30 @@ Fire, Ice, Thunder, Wind, Earth, Water, Poison and Holy, recreated in good quali
 Challenging screen, grid and background also reworked.
 
 &#9658; CARDS BACK AND FRAME
-PSX&#45;style card back design and frames with their decorative elements and shape.</Description>
+PSX&#45;style card back design and frames with their decorative elements and shape.
+
+&#9658; MATCH BANNERS
+Match banners &#40;You Win&#33;, You Lose, Draw, Same&#33;, Plus&#33; and Combo&#33;&#41; restored in high definition and translated into English, French, German, Spanish, Italian and Japanese.
+
+&#9658; WIDESCREEN
+16&#58;9 and 16&#58;10 widescreen compatibility, without black bars. It works automatically when the game runs in true 16&#58;9 or true 16&#58;10 &#40;FFNx 1.25.0 or newer&#41;.
+
+&#9658; BILINEAR FILTER
+At the moment, enabling the Bilinear Filter in FFNx causes texture alignment issues that also affect PSX Triad HD Restoration, with inconsistencies in borders, Frames, corners and the position of Numbers. Keep it disabled.</Description>
 <LatestVersion>
-<Link>iroj://GDrive/1LhEUKqYSpfhrsdjIPsPU5pqwBQwENE9Y</Link>
-<Version>1.3</Version>
-<ReleaseDate>2026-07-28</ReleaseDate>
+<Link>iroj://GDrive/1LMNAlkT7olyCR-mXDo0XX3tALV7ESc-K</Link>
+<Version>1.4</Version>
+<ReleaseDate>2026-11-04</ReleaseDate>
 <CompatibleGameVersions>All</CompatibleGameVersions>
 <PreviewImage>https://img.tedomum.net/data/FFVIII_PSX_Triad_HD_Restoration_J8Preview-271420.png</PreviewImage>
 <ReleaseNotes>
-&#8212;1.0&#58; Initial release for FFVIII Remastered.
-&#8212;1.1&#58; Several pose, color and resolution corrections and adjustments for accuracy purposes. Some models reworked.
-&#8212;1.2&#58; Abadon Card tweaked. Elemental Icons reworked. Power value Numbers adjusted. General alignment corrections. Junction VIII version released.
-&#8212;1.3&#58; Added options to choose between Original HD and Modern HD styles for the Frames, Cards' Back and Numbers, independently. Minor corrections in some Designs, Frames, size and position. Compatible with both Remastered and Non&#45;Remastered through Junction VIII.
+&#8212;1.0 &#40;2026&#45;07&#45;23&#41;&#58; Initial release for FFVIII Remastered.
+&#8212;1.1 &#40;2026&#45;07&#45;28&#41;&#58; Several pose, color and resolution corrections and adjustments for accuracy purposes. Some models reworked.
+&#8212;1.2 &#40;2026&#45;07&#45;31&#41;&#58; Abadon Card tweaked. Elemental Icons reworked. Power value Numbers adjusted. General alignment corrections. Junction VIII version released.
+&#8212;1.3 &#40;2026&#45;10&#45;26&#41;&#58; Added options to choose between Original HD and Modern styles for the Frames, Cards&#39; Back and Numbers, independently. Minor corrections in some Designs &#40;including Abadon Card once again, as reported by Hellboy12345 on Nexus Mods&#41;, Frames, size and position. Compatible with both Remastered and Non&#45;Remastered through Junction VIII.
+&#8212;1.4 &#40;2026&#45;11&#45;04&#41;&#58; Added the Clean style to the Power Numbering Style option. Added a Language option to choose the language of the textures. Modern style reworked for both Frames and Cards&#39; Back. Modern Frames removed for regular Enemies and Bosses, as they deviated too much from the original game design. Fixed the Draw and Lose banners in Triple Triad appearing semi&#45;transparent. Corrections in the Torama, Wedge&#45;Biggs, Fujin&#45;Raijin and Funguar Cards. Added 16&#58;9 and 16&#58;10 widescreen compatibility. Reorganized the mod folders to avoid duplicated files and make the mod lighter.
 </ReleaseNotes>
-<DownloadSize>264680</DownloadSize>
+<DownloadSize>599355</DownloadSize>
 </LatestVersion>
 <Link>https://forums.qhimm.com/index.php?topic=31211</Link>
 <DonationLink>https://www.tipeeestream.com/yorha-numberless/donation</DonationLink>
@@ -846,6 +856,7 @@ PSX&#45;style card back design and frames with their decorative elements and sha
 <string>Minigames</string>
 <string>TripleTriad</string>
 </Tags>
+<GameLanguage>ANY</GameLanguage>
 </Mod>
 
 
