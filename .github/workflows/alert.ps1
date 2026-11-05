@@ -3,7 +3,7 @@
 # Process all XML files in catalogs directory
 $contentLines = @()
 
-foreach($xmlFile in Get-ChildItem -Path .\tsunamods.xml)
+foreach($xmlFile in Get-ChildItem -Path .\catalogs\*.xml –Recurse)
 {
     $xmlFileName = $xmlFile.Name
     $baseName = $xmlFile.BaseName

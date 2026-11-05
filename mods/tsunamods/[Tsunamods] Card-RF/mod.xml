@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>042ff62e-5819-4b2e-b993-e65e806fafd5</ID>
+  <Name>[Tsunamods] Card-RF</Name>
+  <Author>Dulca &amp; XHRIS &amp; Hobbitdur &amp; Ash &amp; Slimebuck</Author>
+  <Category>Battle Textures</Category>
+  <Description>
+        Card-RF improves Triple Triad with three card styles: Full artwork,
+        Mix artwork/enhanced vanilla, and Enhanced vanilla. Choose gameplay card
+        frames, three card backs, icons and boards independently of the card subjects.
+    </Description>
+  <LatestVersion>
+    <Version>1.6</Version>
+    <ReleaseDate>2026-10-26</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://modcdn.win/Hobbitdur/card-rf-logo.png</PreviewImage>
+    <ReleaseNotes>
+        - 1.2: Fixed Card Menu Textures not working
+        - 1.3: Adding language option
+        - 1.4: New configuration options, languages and cards : 
+            - Vanilla enhanced cards
+            - New boards (credits to Ash)
+        - 1.5: New Vanilla enhanced option (credits to XHRIS and Slimebuck)
+        - 1.6: Full artwork, Mix artwork/enhanced vanilla and Enhanced vanilla
+    </ReleaseNotes>
+    <DownloadSize>1222216</DownloadSize>
+    <Link>iroj://Url/https$modcdn.win/Hobbitdur/card-rf.zip</Link>
+  </LatestVersion>
+  <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
+  <DonationLink>https://www.patreon.com/HobbitMods</DonationLink>
+  <Tags>
+    <string>T3</string>
+    <string>tripletriad</string>
+    <string>tsunamods</string>
+    <string>card</string>
+    <string>minigame</string>
+    <string>hobbit</string>
+    <string>ducladoncladon</string>
+  </Tags>
+</Mod>

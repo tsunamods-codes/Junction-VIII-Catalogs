@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>b1e52b98-adb0-4f42-bc14-2e450eab8284</ID>
+  <Name>Ragnarok Rebalancing Mod</Name>
+  <Author>Callisto</Author>
+  <Category>Gameplay</Category>
+  <Description>
+
+Rebalances the core gameplay to deliver a fresh, engaging challenge for veterans and newcomers alike. This mod scales up enemy difficulty and balances Triple Triad rewards, while injecting major quality-of-life upgrades like a lifted Draw cap, extra save points, and starting spells.
+
+From version 2.0 onwards, offers an overhauled combat system with several new features:
+
+• Enhanced character weapons featuring unique passive abilities, multi-stat boosts, and more effects on Limit Breaks.
+• High-impact Guardian Forces made genuinely worth summoning in battle, balanced by a strict limit of one summon per GF per battle.
+• Strategic tactical cooldowns applied to character Limit Breaks after activation.
+• Unique equipment perks and bonus effects attached to every single GF.
+• Expanded character customisation with a suite of new Character and Command Abilities to unlock.
+• An accessible new Casual difficulty option alongside the more brutal Standard and Lionhard modes.
+
+Whether you want to recapture the feel of your very first playthrough or test your tactical limits, feel free to give this mod a go. To share impressions or report bugs, please use the Qhimm forum or Discord!
+  </Description>
+
+  <LatestVersion>
+    <Link>iroj://GDrive/1RPvWjHCw-6oevxsvm_WBa_I9aj-q7GcW</Link>
+    <Version>2.13</Version>
+    <ReleaseDate>2026-09-21</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.ibb.co/4nwjWw9K/preview.png</PreviewImage>
+    <ReleaseNotes>
+&#8226; 1.00: First release on JunctionVIII, ported by Hobbitdur
+&#8226; 1.01: Lionheart difficulty option added, ported by Hobbitdur and vodkup
+&#8226; 2.13: Recent version with major updates, check the forum link for details
+    </ReleaseNotes>
+    <DownloadSize>245725</DownloadSize>
+  </LatestVersion>
+
+  <Link>https://forums.qhimm.com/index.php?topic=18404.0</Link>
+  <DonationLink>https://ko-fi.com/callisto8</DonationLink>
+
+  <Tags>
+    <string>ragnarok</string>
+    <string>hard</string>
+    <string>mod</string>
+    <string>gameplay</string>
+    <string>Callisto</string>
+  </Tags>
+
+</Mod>

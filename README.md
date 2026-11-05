@@ -14,32 +14,12 @@ Catalogs for Junction-VIII - Maintained by the Tsunamods community
 6. Automated system will report if there are any errors you need to fix.
 7. Wait for a manager to provide feedback on your Pull Request.
 
+## Validate locally
+
+On Windows, double-click [`validate.bat`](./validate.bat) to run the catalog validation script. Git and the .NET SDK must be installed. On the first run, the script clones Junction-VIII into the `app` directory.
+
 ## `mod.xml` Template
 
-```xml
-<?xml version="1.0"?>
-<Mod>
-    <ID></ID>
-    <Name></Name>
-    <Author></Author>
-    <Category></Category>
-    <Description></Description>
-    <LatestVersion>
-      <Link></Link>
-      <Version></Version>
-      <ReleaseDate></ReleaseDate>
-      <CompatibleGameVersions></CompatibleGameVersions>
-      <PreviewImage></PreviewImage>
-      <ReleaseNotes>
-      </ReleaseNotes>
-      <DownloadSize></DownloadSize>
-    </LatestVersion>
-    <Link></Link>
-    <DonationLink></DonationLink>
-    <Tags>
-      <string></string>
-    </Tags>
-  </Mod>
-```
+See https://github.com/tsunamods-codes/Junction-VIII/blob/master/docs/CATALOG.md
 
-You may also have a look at [any of the mods](mods) already present in this repository to have a look at the structure.
+More examples can be found in the [mods](mods) directory.

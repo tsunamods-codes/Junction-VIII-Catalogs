@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Mod>
+    <ID>aa49a689-a113-41fb-af64-945aeb9f8df9</ID>
+    <Name>BattlefieldPack Plus (Battle Textures)</Name>
+    <Author>MCINDUS + Fated Courage + G-Nite + Slimebucket</Author>
+    <Category>Battle Textures</Category>
+    <Description>Battlefield Pack Plus - Battlefield Texture replacement mod.
+  
+  Upscales all battlefield backgrounds. 
+
+        version 2.3 out now! - Fixed artifacts and water animation at Balamb beach - A0STG107.X-0_00
+
+Original mod Battlefieldpack v3.1 created by MCINDUS + FatedCourage
+ffnx conversion to ffnx G-Nite
+ extra work and junction8 conversion by Slimebucket</Description>
+    <LatestVersion>
+      <Link>iroj://Url/https$www.gp-mc.net/mcindus/battlefieldpack.7z</Link>
+      <Version>2.3</Version>
+      <ReleaseDate>2026-10-29</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/ynY7ZCQC/preview.png</PreviewImage>
+      <ReleaseNotes>
+                Version 2.3 - fixed artifacts and water animation on A0STG107.X-0_00 (Balamb Beach)
+                Version 2.2 - fixed lines in ground on A0STG101.X-0_00 (Balamb field)
+                Version 2.1 - Broken battlefield at Balamb Garden fight between NORG and CID forces fixed
+                Version 2.0 - Reconverted DDS files to include mipmaps, crash fix on disk 3.
+                Version 1.2 - minor fix1
+                Version 1.1 - minor fix2
+                Version 1.0 - Converted Tonberry mod to FFnX and J8
+      </ReleaseNotes>
+      <DownloadSize>188460</DownloadSize>
+    </LatestVersion>
+    <Link></Link>
+    <DonationLink></DonationLink>
+    <Tags>
+      <string>Battlefield</string>
+      <string>Textures</string>
+      <string>MCINDUS</string>
+      <string>G-Nite</string>
+      <string>slimebucket</string>
+    </Tags>
+  </Mod>

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Mod>
+    <ID>4af1cfda-a597-420e-bfbb-28d7d9091033</ID>
+    <Name>Rebirth Flame Plus (Character Textures)</Name>
+    <Author>Fated Courage + Slimebucket</Author>
+    <Category>Field Textures</Category>
+    <Description>Rebirth Flame Plus
+		Version 3.4 now out! Now works seamlessly with REMASTERED Edition and OG 2013! OG Upscaled option added
+
+	For players who want character textures that closely resemble the original style of the game, just higher resolution.
+	
+	2 options of textures, either striaght OG upscaled, or Devina edit, which is slightly stylized but not as much as MAGO from poly up.
+    
+    Original mod Flame Rebirth 1.3 by Fated Courage
+    J8 port, and extra texture work, eye fix by Slimebucket</Description>
+    <LatestVersion>
+      <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/flame_rebirth_plus.7z</Link>
+      <Version>3.4</Version>
+      <ReleaseDate>2026-11-02</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/xqJpwMnG/preview.png</PreviewImage>
+      <ReleaseNotes>
+		v3.4 - Devina option got many fixes, dollet mission textures got fixed 
+		V3.3 - Zell's Alternate (dollet mission) texture fixed Devina option
+		v3.2 - OG Upscaled option converted from PNG to DDS
+		v3.1 - Model fix
+		v3.0 - Remaster seamless Compatibility added. OG Upscaled textures option added
+		v2.2 - remaster edition usage warning edited
+		v2.1 - minor texture fixes, remaster edition usage warning added
+		v2.0 - minor fix   - Selphie eye fix
+		v1.9 - minor fixes - Selphies Flail , Squalls Cutting Edge fixed, Field weapon textures fixed. 
+		v1.8 - minor fixes - Rinoa - Kid Squall
+		v1.7 - minor fixes - Quistis
+		v1.6 - minor fixes - Rinoa Selphie
+		v1.5 - More eye fixes, Rinoa, Squall and Laguna
+		v1.4 - Many texture fixes, more eye fixes
+        v1.3 - First release
+      </ReleaseNotes>
+      <DownloadSize>90776</DownloadSize>
+    </LatestVersion>
+    <Link></Link>
+    <DonationLink></DonationLink>
+    <Tags>
+      <string>Character</string>
+      <string>Textures</string>
+      <string>FatedCourage</string>
+      <string>slimebucket</string>
+    </Tags>
+  </Mod>
