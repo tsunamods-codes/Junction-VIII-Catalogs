@@ -451,7 +451,7 @@ Enjoy smoother, more responsive battle menus at 60 FPS while keeping the origina
     <Author>Fated Courage + Slimebucket</Author>
     <Category>Field Textures</Category>
     <Description>Rebirth Flame Plus
-		Version 3.4 now out! Now works seamlessly with REMASTERED Edition and OG 2013! OG Upscaled option added
+		Version 3.5 now out! Now works seamlessly with REMASTERED Edition and OG 2013! OG Upscaled option added
 
 	For players who want character textures that closely resemble the original style of the game, just higher resolution.
 	
@@ -461,11 +461,12 @@ Enjoy smoother, more responsive battle menus at 60 FPS while keeping the origina
     J8 port, and extra texture work, eye fix by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/flame_rebirth_plus.7z</Link>
-      <Version>3.4</Version>
-      <ReleaseDate>2026-11-02</ReleaseDate>
+      <Version>3.5</Version>
+      <ReleaseDate>2026-11-14</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/xqJpwMnG/preview.png</PreviewImage>
       <ReleaseNotes>
+		v3.5 - OGUpscaled got fixes, missile base g-soldier outfits fixed
 		v3.4 - Devina option got many fixes, dollet mission textures got fixed 
 		V3.3 - Zell's Alternate (dollet mission) texture fixed Devina option
 		v3.2 - OG Upscaled option converted from PNG to DDS
@@ -482,9 +483,9 @@ Enjoy smoother, more responsive battle menus at 60 FPS while keeping the origina
 		v1.4 - Many texture fixes, more eye fixes
         v1.3 - First release
       </ReleaseNotes>
-      <DownloadSize>90776</DownloadSize>
+      <DownloadSize>88251</DownloadSize>
     </LatestVersion>
-    <Link></Link>
+    <Link>https://forums.qhimm.com/index.php?topic=16022.0</Link>
     <DonationLink></DonationLink>
     <Tags>
       <string>Character</string>
@@ -649,7 +650,7 @@ Acknowledgment:
     <Category>Battle Textures</Category>
     <Description>Lunar Cry - Enemy Texture replacement mod.
 
-- Version 5.4 now out!
+- Version 5.5 now out!
         - Now Works Seamlessly with both REMASTERED and OG2013 version of the game.
 
         - G-Soldier fix for REMASTER edition option added to CONFIGURATION menu.
@@ -659,11 +660,12 @@ ffnx conversion by Nameless27
 Junction8 Conversion by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/lunarcry.7z</Link>
-      <Version>5.4</Version>
-      <ReleaseDate>2026-11-02</ReleaseDate>
+      <Version>5.5</Version>
+      <ReleaseDate>2026-11-14</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/BVFDGVmT/preview.png</PreviewImage>
       <ReleaseNotes>
+        Version 5.5 - Gerogero options added - Siefer, edea, tonberry and tonberry king
         Version 5.4 - G-Soldier Fix updated to fix red dots on center of G-Soldiers helms
         Version 5.3 - G-Soldier Fix for REMASTER edition added, REMASTER edtion assets file directory changed
         Version 5.2 - New File system for REMASTER assets
@@ -680,9 +682,9 @@ Junction8 Conversion by Slimebucket</Description>
                     - Alternate Bahamut and Brothers added
         Version 2.0 - dds fix - alternate ifrit added 
       </ReleaseNotes>
-      <DownloadSize>302735</DownloadSize>
+      <DownloadSize>284759</DownloadSize>
     </LatestVersion>
-    <Link></Link>
+    <Link>https://forums.qhimm.com/index.php?topic=15977.0</Link>
     <DonationLink></DonationLink>
     <Tags>
       <string>Battle</string>
@@ -773,16 +775,17 @@ Graphical enhancement of the map
     <Author>MCINDUS + Slimebucket</Author>
     <Category>Battle Textures</Category>
     <Description>Project Hellfire - GF Texture replacement mod.
-Version 3.0 now live! Now works seamlessly with both REMASTERED and OG2013 editions!
+Version 3.1 now live! Now works seamlessly with both REMASTERED and OG2013 editions!
 Original mod created by MCINDUS
 ffnx conversion and extra textures by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/ph.7z</Link>
-      <Version>3.0</Version>
-      <ReleaseDate>2026-10-28</ReleaseDate>
+      <Version>3.1</Version>
+      <ReleaseDate>2026-11-14</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/RGc54Hrt/preview.png</PreviewImage>
       <ReleaseNotes>
+        Version 3.1 - Tonberry textures updated
         Version 3.0 - Now works seamlessly on both REMASTERED and OG2013 Editions!
         Version 2.6 - leviathan's black water fixed, Cerebus textures updated
         Version 2.5 - Another Alternate Bahamut added!
@@ -791,9 +794,9 @@ ffnx conversion and extra textures by Slimebucket</Description>
         Version 1 5 - alternate Ifrit Added
         Version 1.0 Straight conversion from Tonberry Mod
       </ReleaseNotes>
-      <DownloadSize>64585</DownloadSize>
+      <DownloadSize>64395</DownloadSize>
     </LatestVersion>
-    <Link></Link>
+    <Link>https://forums.qhimm.com/index.php?topic=17320.0</Link>
     <DonationLink></DonationLink>
     <Tags>
       <string>Battle</string>
