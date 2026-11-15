@@ -5,16 +5,17 @@
     <Author>MCINDUS + Slimebucket</Author>
     <Category>Battle Textures</Category>
     <Description>Project Hellfire - GF Texture replacement mod.
-Version 3.0 now live! Now works seamlessly with both REMASTERED and OG2013 editions!
+Version 3.1 now live! Now works seamlessly with both REMASTERED and OG2013 editions!
 Original mod created by MCINDUS
 ffnx conversion and extra textures by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/ph.7z</Link>
-      <Version>3.0</Version>
-      <ReleaseDate>2026-10-28</ReleaseDate>
+      <Version>3.1</Version>
+      <ReleaseDate>2026-11-14</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/RGc54Hrt/preview.png</PreviewImage>
       <ReleaseNotes>
+        Version 3.1 - Tonberry textures updated
         Version 3.0 - Now works seamlessly on both REMASTERED and OG2013 Editions!
         Version 2.6 - leviathan's black water fixed, Cerebus textures updated
         Version 2.5 - Another Alternate Bahamut added!
@@ -23,7 +24,7 @@ ffnx conversion and extra textures by Slimebucket</Description>
         Version 1 5 - alternate Ifrit Added
         Version 1.0 Straight conversion from Tonberry Mod
       </ReleaseNotes>
-      <DownloadSize>64585</DownloadSize>
+      <DownloadSize>64395</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
