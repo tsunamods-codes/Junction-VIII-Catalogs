@@ -4,7 +4,7 @@
     <Name>[Tsunamods] Hit-J Plus</Name>
     <Author>Slimebucket + Digixu</Author>
     <Category>Spell Textures</Category>
-    <Description> Version 2.1 of Hit-J is out! 1024x1024 mode for core 75 textures added.
+    <Description> Version 2.2 of Hit-J is out! 1024x1024 mode for core 75 textures added.
   
   Magic and effect Textures! 4x size of base textures. 
   
@@ -12,16 +12,17 @@
     </Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/hitj.7z</Link>
-      <Version>2.1</Version>
-      <ReleaseDate>2026-02-09</ReleaseDate>
+      <Version>2.2</Version>
+      <ReleaseDate>2026-11-15</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/99cWmZq/preview.png</PreviewImage>
       <ReleaseNotes>
+        v2.2 - Cure (REMASTERED) fixed
         v2.1 - 1024x1024 of core 75 magic textures added
         V2.0 - Re work of mod to decrease stuttering, 400 textures added
         V1.0 - Initial Release
       </ReleaseNotes>
-      <DownloadSize>124162</DownloadSize>
+      <DownloadSize>118881</DownloadSize>
     </LatestVersion>
   <Link />
   <DonationLink />
