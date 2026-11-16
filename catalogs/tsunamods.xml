@@ -556,7 +556,7 @@ Enjoy smoother, more responsive battle menus at 60 FPS while keeping the origina
     <Author>MCINDUS + Nameless27 + Slimebucket</Author>
     <Category>World Textures</Category>
     <Description>Horizon Pack Plus - World Texture replacement mod.
-  - Version 2.4 now out! Fatal crash at Rinoa's house during assassin mission has been fixed!
+  - Version 2.5 now out! Fatal crash at Rinoa's house during assassin mission has been fixed!
         
   - Towns, world and field model textures re-created using ESRGAN + Gigapixel AI
 
@@ -565,17 +565,18 @@ ffnx conversion to ffnx Nameless27
  extra work and junction8 conversion by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/horizonpack.7z</Link>
-      <Version>2.4</Version>
-      <ReleaseDate>2025-12-21</ReleaseDate>
+      <Version>2.5</Version>
+      <ReleaseDate>2026-11-15</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/dvrp4BW/preview.png</PreviewImage>
       <ReleaseNotes>
+        version 2.5 - Railways worked on, off option added for maps to be compatible with MAP-RF
         version 2.4 - fatal crash at Rinoa's house when doing assassin mission
         version 2.3 - fatal crash fixed!
         version 2.2 - fixes field model option!
         version 2.0 - adds map and field model options
       </ReleaseNotes>
-      <DownloadSize>15388</DownloadSize>
+      <DownloadSize>15380</DownloadSize>
     </LatestVersion>
     <Link></Link>
     <DonationLink></DonationLink>
@@ -1371,7 +1372,7 @@ Customize FF8's gameplay with options to suit your preferences!
     <Name>[Tsunamods] Hit-J Plus</Name>
     <Author>Slimebucket + Digixu</Author>
     <Category>Spell Textures</Category>
-    <Description> Version 2.1 of Hit-J is out! 1024x1024 mode for core 75 textures added.
+    <Description> Version 2.2 of Hit-J is out! 1024x1024 mode for core 75 textures added.
   
   Magic and effect Textures! 4x size of base textures. 
   
@@ -1379,16 +1380,17 @@ Customize FF8's gameplay with options to suit your preferences!
     </Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/hitj.7z</Link>
-      <Version>2.1</Version>
-      <ReleaseDate>2026-02-09</ReleaseDate>
+      <Version>2.2</Version>
+      <ReleaseDate>2026-11-15</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/99cWmZq/preview.png</PreviewImage>
       <ReleaseNotes>
+        v2.2 - Cure (REMASTERED) fixed
         v2.1 - 1024x1024 of core 75 magic textures added
         V2.0 - Re work of mod to decrease stuttering, 400 textures added
         V1.0 - Initial Release
       </ReleaseNotes>
-      <DownloadSize>124162</DownloadSize>
+      <DownloadSize>118881</DownloadSize>
     </LatestVersion>
   <Link />
   <DonationLink />
