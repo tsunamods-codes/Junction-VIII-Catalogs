@@ -5,7 +5,7 @@
     <Author>Fated Courage + Slimebucket</Author>
     <Category>Field Textures</Category>
     <Description>Rebirth Flame Plus
-		Version 3.5 now out! Now works seamlessly with REMASTERED Edition and OG 2013! OG Upscaled option added
+		Version 3.6 now out! Now works seamlessly with REMASTERED Edition and OG 2013! OG Upscaled option added
 
 	For players who want character textures that closely resemble the original style of the game, just higher resolution.
 	
@@ -15,11 +15,12 @@
     J8 port, and extra texture work, eye fix by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/flame_rebirth_plus.7z</Link>
-      <Version>3.5</Version>
-      <ReleaseDate>2026-11-14</ReleaseDate>
+      <Version>3.6</Version>
+      <ReleaseDate>2026-11-19</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/xqJpwMnG/preview.png</PreviewImage>
       <ReleaseNotes>
+		v3.6 - weapon fixes for REMASTERED Edition
 		v3.5 - OGUpscaled got fixes, missile base g-soldier outfits fixed
 		v3.4 - Devina option got many fixes, dollet mission textures got fixed 
 		V3.3 - Zell's Alternate (dollet mission) texture fixed Devina option
@@ -37,7 +38,7 @@
 		v1.4 - Many texture fixes, more eye fixes
         v1.3 - First release
       </ReleaseNotes>
-      <DownloadSize>88251</DownloadSize>
+      <DownloadSize>88953</DownloadSize>
     </LatestVersion>
     <Link>https://forums.qhimm.com/index.php?topic=16022.0</Link>
     <DonationLink></DonationLink>
