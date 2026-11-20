@@ -344,6 +344,44 @@ With this mod you can make the following modification:
 
 
 <Mod>
+  <ID>ce0071a6-34a1-4513-8c8c-b58c91f043f8</ID>
+    <Name>Dark Squall RE-REVAMPED</Name>
+    <Author>Slimebucket + SquallTheRevenant + Nightfable</Author>
+    <Category>Field Textures</Category>
+    <Description> Dark Squall RE-REVAMPED
+    "This is a reskin of Squall Leonhart's default outfit to make it resemble his Balamb Mercenary C alternate costume from Dissidia NT."
+
+      This mod works on both REMASTERED and OG2013 editions!
+      On REMASTERED edition you have the choice between both REMASTERED and OG Models.
+      https://www.nexusmods.com/finalfantasy8remastered/mods/58 - this is the mod mine is based off of.
+      Darksquall created by SquallTheRevenant
+      REVAMP done by Nightfable
+      Further RE-REVAMP texture work, fixes, Junction 8 porting and catalog work by - Slimebucket
+      OG2013 Dark Squall created by Slimebucket
+    </Description>
+    <LatestVersion>
+      <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/darksquall.7z</Link>
+      <Version>1.00</Version>
+      <ReleaseDate>2026-11-19</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/rKRG33nk/preview.png</PreviewImage>
+      <ReleaseNotes>
+Version 1.00 - Dark Squall First release. 
+      </ReleaseNotes>
+      <DownloadSize>22031</DownloadSize>
+    </LatestVersion>
+  <Link>https://www.nexusmods.com/finalfantasy8remastered/mods/58</Link>
+  <DonationLink />
+    <Tags>
+      <string>Squall</string>
+      <string>Textures</string>
+      <string>Dark</string>
+      <string>Slimebucket</string>
+    </Tags>
+  </Mod>
+
+
+<Mod>
   <ID>5bdb53dd-2cda-4a58-bc4b-5c2b2504475e</ID>
   <Name>Battle Menu 60 FPS</Name>
   <Author>HobbitDur</Author>
@@ -451,7 +489,7 @@ Enjoy smoother, more responsive battle menus at 60 FPS while keeping the origina
     <Author>Fated Courage + Slimebucket</Author>
     <Category>Field Textures</Category>
     <Description>Rebirth Flame Plus
-		Version 3.5 now out! Now works seamlessly with REMASTERED Edition and OG 2013! OG Upscaled option added
+		Version 3.6 now out! Now works seamlessly with REMASTERED Edition and OG 2013! OG Upscaled option added
 
 	For players who want character textures that closely resemble the original style of the game, just higher resolution.
 	
@@ -461,11 +499,12 @@ Enjoy smoother, more responsive battle menus at 60 FPS while keeping the origina
     J8 port, and extra texture work, eye fix by Slimebucket</Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/flame_rebirth_plus.7z</Link>
-      <Version>3.5</Version>
-      <ReleaseDate>2026-11-14</ReleaseDate>
+      <Version>3.6</Version>
+      <ReleaseDate>2026-11-19</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/xqJpwMnG/preview.png</PreviewImage>
       <ReleaseNotes>
+		v3.6 - weapon fixes for REMASTERED Edition
 		v3.5 - OGUpscaled got fixes, missile base g-soldier outfits fixed
 		v3.4 - Devina option got many fixes, dollet mission textures got fixed 
 		V3.3 - Zell's Alternate (dollet mission) texture fixed Devina option
@@ -483,7 +522,7 @@ Enjoy smoother, more responsive battle menus at 60 FPS while keeping the origina
 		v1.4 - Many texture fixes, more eye fixes
         v1.3 - First release
       </ReleaseNotes>
-      <DownloadSize>88251</DownloadSize>
+      <DownloadSize>88953</DownloadSize>
     </LatestVersion>
     <Link>https://forums.qhimm.com/index.php?topic=16022.0</Link>
     <DonationLink></DonationLink>
@@ -918,7 +957,7 @@ Whether you want to recapture the feel of your very first playthrough or test yo
     <Name>Skin-RF</Name>
     <Author>Dulca + Slimebucket</Author>
     <Category>Battle Models</Category>
-    <Description>New vesion 2.10 out now!
+    <Description>New vesion 2.11 out now!
 
 Mod now works seamlessly with REMASTERED edition and OG2013 edition!
 		Various texture fixes for Zell alternate model and Squall (Cloudie McDoom) fixes
@@ -928,11 +967,12 @@ Skin-RF -Enhance field models. Multiple Battle models to choose from for Playabl
     </Description>
     <LatestVersion>
       <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/skin-RF.7z</Link>
-      <Version>2.10</Version>
-      <ReleaseDate>2026-11-02</ReleaseDate>
+      <Version>2.11</Version>
+      <ReleaseDate>2026-11-19</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.ibb.co/VW0cZsX8/preview.png</PreviewImage>
       <ReleaseNotes>
+Version 2.11 :Squall weapon fixes for REMASTERED Edition
 Version 2.10 :Models re worked to fix many issues  
 Version 2.01 :Fixed Zell's alternate customes model		  
 Version 2.00 :Fixed Remastered edition! Works Seamlessly now with both. 
@@ -951,7 +991,7 @@ Version 1.10 : Playable characters have a low poly synced field model.
 			   New Field models for All Playable characters.
 			   Synchrized world map model for Squall.
       </ReleaseNotes>
-      <DownloadSize>243499</DownloadSize>
+      <DownloadSize>244301</DownloadSize>
     </LatestVersion>
   <Link />
   <DonationLink />
@@ -1466,7 +1506,7 @@ Updated songs for Version 1.2:
   <Author>Slimebucket + Digixu + AxlRose + Megachocobo</Author>
   <Category>Field Models</Category>
   <Description>
-New version 5.2 now out! Now works seamlessly with REMASTERED and OG2013 editions!
+New version 5.3 now out! Now works seamlessly with REMASTERED and OG2013 editions!
     
 Poly-Up is the one stop shop for Character enahncements. Includes Slimebucket's weapon pack and Cloudie McDoom Squall costume.
 
@@ -1477,11 +1517,13 @@ Poly-Up replaces Models, Textures, weapons, and even some NPCs!
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/poly_up.7z</Link>
-    <Version>5.2</Version>
-    <ReleaseDate>2026-11-02</ReleaseDate>
+    <Version>5.3</Version>
+    <ReleaseDate>2026-11-19</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.ibb.co/5FFTx1Z/preview.png</PreviewImage>
     <ReleaseNotes>
+ Version 5.3
+ - Weapon fixes for REMASTERED Edition
  Version 5.2
  - Lots of random fixes. Dollet Mission textures got a lot of fixes
  Version 5.1
@@ -1524,7 +1566,7 @@ Version 3.0:
 - Eye fix 2.0 is here! random artifacts from eyes has been fixed
 - Many textures have been replaced. The textures where a mix of both Mago and Devina edits, replaced all Devina textures to MAGO ones to make everything uniform and the same
    </ReleaseNotes>
-    <DownloadSize>101254</DownloadSize>
+    <DownloadSize>100834</DownloadSize>
   </LatestVersion>
   <Link></Link>
   <DonationLink></DonationLink>
