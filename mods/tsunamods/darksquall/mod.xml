@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>ce0071a6-34a1-4513-8c8c-b58c91f043f8</ID>
+    <Name>Dark Squall RE-REVAMPED</Name>
+    <Author>Slimebucket + SquallTheRevenant + Nightfable</Author>
+    <Category>Field Textures</Category>
+    <Description> Dark Squall RE-REVAMPED
+    "This is a reskin of Squall Leonhart's default outfit to make it resemble his Balamb Mercenary C alternate costume from Dissidia NT."
+
+      This mod works on both REMASTERED and OG2013 editions!
+      On REMASTERED edition you have the choice between both REMASTERED and OG Models.
+      https://www.nexusmods.com/finalfantasy8remastered/mods/58 - this is the mod mine is based off of.
+      Darksquall created by SquallTheRevenant
+      REVAMP done by Nightfable
+      Further RE-REVAMP texture work, fixes, Junction 8 porting and catalog work by - Slimebucket
+      OG2013 Dark Squall created by Slimebucket
+    </Description>
+    <LatestVersion>
+      <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/darksquall.7z</Link>
+      <Version>1.00</Version>
+      <ReleaseDate>2026-11-19</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.ibb.co/rKRG33nk/preview.png</PreviewImage>
+      <ReleaseNotes>
+Version 1.00 - Dark Squall First release. 
+      </ReleaseNotes>
+      <DownloadSize>22031</DownloadSize>
+    </LatestVersion>
+  <Link>https://www.nexusmods.com/finalfantasy8remastered/mods/58</Link>
+  <DonationLink />
+    <Tags>
+      <string>Squall</string>
+      <string>Textures</string>
+      <string>Dark</string>
+      <string>Slimebucket</string>
+    </Tags>
+  </Mod>
