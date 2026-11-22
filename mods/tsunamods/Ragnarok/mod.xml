@@ -19,7 +19,6 @@ From version 2.0 onwards, offers an overhauled combat system with several new fe
 
 Whether you want to recapture the feel of your very first playthrough or test your tactical limits, feel free to give this mod a go. To share impressions or report bugs, please use the Qhimm forum or Discord!
   </Description>
-
   <LatestVersion>
     <Link>iroj://GDrive/1RPvWjHCw-6oevxsvm_WBa_I9aj-q7GcW</Link>
     <Version>2.13</Version>
@@ -27,16 +26,14 @@ Whether you want to recapture the feel of your very first playthrough or test yo
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.ibb.co/4nwjWw9K/preview.png</PreviewImage>
     <ReleaseNotes>
-&#8226; 1.00: First release on JunctionVIII, ported by Hobbitdur
-&#8226; 1.01: Lionheart difficulty option added, ported by Hobbitdur and vodkup
-&#8226; 2.13: Recent version with major updates, check the forum link for details
+• 1.00: First release on JunctionVIII, ported by Hobbitdur
+• 1.01: Lionheart difficulty option added, ported by Hobbitdur and vodkup
+• 2.13: Recent version with major updates, check the forum link for details
     </ReleaseNotes>
     <DownloadSize>245725</DownloadSize>
   </LatestVersion>
-
   <Link>https://forums.qhimm.com/index.php?topic=18404.0</Link>
   <DonationLink>https://ko-fi.com/callisto8</DonationLink>
-
   <Tags>
     <string>ragnarok</string>
     <string>hard</string>
@@ -44,5 +41,4 @@ Whether you want to recapture the feel of your very first playthrough or test yo
     <string>gameplay</string>
     <string>Callisto</string>
   </Tags>
-
 </Mod>

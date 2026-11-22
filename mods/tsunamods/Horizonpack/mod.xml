@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <Mod>
-    <ID>32c3f785-29e1-41e7-8c9d-b46de5fbad4e</ID>
-    <Name>Horizon Pack Plus (World Textures)</Name>
-    <Author>MCINDUS + Nameless27 + Slimebucket</Author>
-    <Category>World Textures</Category>
-    <Description>Horizon Pack Plus - World Texture replacement mod.
+  <ID>32c3f785-29e1-41e7-8c9d-b46de5fbad4e</ID>
+  <Name>Horizon Pack Plus (World Textures)</Name>
+  <Author>MCINDUS + Nameless27 + Slimebucket</Author>
+  <Category>World Textures</Category>
+  <Description>Horizon Pack Plus - World Texture replacement mod.
   - Version 2.5 now out! Fatal crash at Rinoa's house during assassin mission has been fixed!
         
   - Towns, world and field model textures re-created using ESRGAN + Gigapixel AI
@@ -12,28 +12,28 @@
 Original mod Horizonpack v1.0 created by MCINDUS + FatedCourage
 ffnx conversion to ffnx Nameless27
  extra work and junction8 conversion by Slimebucket</Description>
-    <LatestVersion>
-      <Link>iroj://Url/https$www.gp-mc.net/mcindus/horizonpack.7z</Link>
-      <Version>2.5</Version>
-      <ReleaseDate>2026-11-15</ReleaseDate>
-      <CompatibleGameVersions>All</CompatibleGameVersions>
-      <PreviewImage>https://i.ibb.co/dvrp4BW/preview.png</PreviewImage>
-      <ReleaseNotes>
+  <LatestVersion>
+    <Link>iroj://Url/https$www.gp-mc.net/mcindus/horizonpack.7z</Link>
+    <Version>2.5</Version>
+    <ReleaseDate>2026-11-15</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.ibb.co/dvrp4BW/preview.png</PreviewImage>
+    <ReleaseNotes>
         version 2.5 - Railways worked on, off option added for maps to be compatible with MAP-RF
         version 2.4 - fatal crash at Rinoa's house when doing assassin mission
         version 2.3 - fatal crash fixed!
         version 2.2 - fixes field model option!
         version 2.0 - adds map and field model options
       </ReleaseNotes>
-      <DownloadSize>15380</DownloadSize>
-    </LatestVersion>
-    <Link></Link>
-    <DonationLink></DonationLink>
-    <Tags>
-      <string>world</string>
-      <string>Textures</string>
-      <string>Nameless27</string>
-      <string>MCINDUS</string>
-      <string>slimebucket</string>
-    </Tags>
-  </Mod>
+    <DownloadSize>15380</DownloadSize>
+  </LatestVersion>
+  <Link></Link>
+  <DonationLink></DonationLink>
+  <Tags>
+    <string>world</string>
+    <string>Textures</string>
+    <string>Nameless27</string>
+    <string>MCINDUS</string>
+    <string>slimebucket</string>
+  </Tags>
+</Mod>

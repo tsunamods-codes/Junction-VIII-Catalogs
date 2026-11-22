@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <Mod>
   <ID>7cc32d70-5024-4bf0-a7f8-a7c583b54f9c</ID>
-  <Name>AxlRose&apos;s WIP &#40;Incomplete&#41;</Name>
+  <Name>AxlRose's WIP (Incomplete)</Name>
   <Author>AxlRose</Author>
   <Category>Miscellaneous</Category>
-  <Description>        Work in Progress mod &#40;manually set at the top of the list&#41;
+  <Description>        Work in Progress mod (manually set at the top of the list)
 
-            &#45; Few upscaled field backgrounds &#40;AI assisted&#41; and field character textures
-            &#45; Enhanced UI and Themes plus tons of new stuff
+            - Few upscaled field backgrounds (AI assisted) and field character textures
+            - Enhanced UI and Themes plus tons of new stuff
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$github.com/AxlRose-RX/AxlRoseWIP/releases/latest/download/AxlRoseWIP.7z</Link>
@@ -15,10 +15,10 @@
     <ReleaseDate>2025-01-12</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://raw.githubusercontent.com/AxlRose-RX/AxlRoseWIP/canary/preview/preview_v2026.0914.png</PreviewImage>
-    <ReleaseNotes>     v2026.0914 &gt; FIELD BACKGROUNDS!&#58;
+    <ReleaseNotes>     v2026.0914 &gt; FIELD BACKGROUNDS!:
 
-        &#45; 146 extra 4x upscaled &#40;AI assisted&#41; field backgrounds&#58; 303&#47;877
-        &#45; All new bv, cd, cr, cw, dd, do, ea and eb sets&#58;
+        - 146 extra 4x upscaled (AI assisted) field backgrounds: 303/877
+        - All new bv, cd, cr, cw, dd, do, ea and eb sets:
       
             Train,
             Centra Excavation Site,

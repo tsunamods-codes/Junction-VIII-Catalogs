@@ -7,12 +7,12 @@
   <Description>
 Magic Mirror focuses heavily on enhancing the faces and the eyes of main characters of FF8.
 
-    &#8226; All the images are enhance using stable diffusion. 
-    &#8226; Intro is slightly enhance visually. 
-    &#8226; Other than the intro, most of the enhancements are mainly focused on the faces and the eyes.
-    &#8226; The faces are closely resembling the character portrait. 
-    &#8226; Videos are sourced mainly on the PSX videos, but also incorporated a rare video from the PSX demo.
-    &#8226; Videos have been interpolated to 30fps, thanks to AxlRose.
+    • All the images are enhance using stable diffusion. 
+    • Intro is slightly enhance visually. 
+    • Other than the intro, most of the enhancements are mainly focused on the faces and the eyes.
+    • The faces are closely resembling the character portrait. 
+    • Videos are sourced mainly on the PSX videos, but also incorporated a rare video from the PSX demo.
+    • Videos have been interpolated to 30fps, thanks to AxlRose.
   </Description>
   <LatestVersion>
     <Link>iroj://Url/https$gp-mc.net/kris2per/magic_mirror.iroj</Link>
@@ -22,7 +22,7 @@ Magic Mirror focuses heavily on enhancing the faces and the eyes of main charact
     <PreviewImage>https://www.gp-mc.net/kris2per/magic_mirror.png</PreviewImage>
     <ReleaseNotes>
 Version 2025.1022:
-  &#8226; Initial release version
+  • Initial release version
     </ReleaseNotes>
     <DownloadSize>2007848</DownloadSize>
   </LatestVersion>

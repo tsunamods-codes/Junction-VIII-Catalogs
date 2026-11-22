@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <Mod>
   <ID>556bffa4-48be-4ae4-8e98-0dba4aa8da4a</ID>
-    <Name>Skin-RF</Name>
-    <Author>Dulca + Slimebucket</Author>
-    <Category>Battle Models</Category>
-    <Description>New vesion 2.11 out now!
+  <Name>Skin-RF</Name>
+  <Author>Dulca + Slimebucket</Author>
+  <Category>Battle Models</Category>
+  <Description>New vesion 2.11 out now!
 
 Mod now works seamlessly with REMASTERED edition and OG2013 edition!
 		Various texture fixes for Zell alternate model and Squall (Cloudie McDoom) fixes
@@ -12,13 +12,13 @@ Mod now works seamlessly with REMASTERED edition and OG2013 edition!
 Skin-RF -Enhance field models. Multiple Battle models to choose from for Playable characters with synchronized Field models.
 		- Includes Slimebucket Weapon Pack
     </Description>
-    <LatestVersion>
-      <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/skin-RF.7z</Link>
-      <Version>2.11</Version>
-      <ReleaseDate>2026-11-19</ReleaseDate>
-      <CompatibleGameVersions>All</CompatibleGameVersions>
-      <PreviewImage>https://i.ibb.co/VW0cZsX8/preview.png</PreviewImage>
-      <ReleaseNotes>
+  <LatestVersion>
+    <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/skin-RF.7z</Link>
+    <Version>2.11</Version>
+    <ReleaseDate>2026-11-19</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.ibb.co/VW0cZsX8/preview.png</PreviewImage>
+    <ReleaseNotes>
 Version 2.11 :Squall weapon fixes for REMASTERED Edition
 Version 2.10 :Models re worked to fix many issues  
 Version 2.01 :Fixed Zell's alternate customes model		  
@@ -38,14 +38,14 @@ Version 1.10 : Playable characters have a low poly synced field model.
 			   New Field models for All Playable characters.
 			   Synchrized world map model for Squall.
       </ReleaseNotes>
-      <DownloadSize>244301</DownloadSize>
-    </LatestVersion>
+    <DownloadSize>244301</DownloadSize>
+  </LatestVersion>
   <Link />
   <DonationLink />
-    <Tags>
-      <string>skin</string>
-      <string>Textures</string>
-      <string>Dulca</string>
-      <string>Slimebucket</string>
-    </Tags>
-  </Mod>
+  <Tags>
+    <string>skin</string>
+    <string>Textures</string>
+    <string>Dulca</string>
+    <string>Slimebucket</string>
+  </Tags>
+</Mod>

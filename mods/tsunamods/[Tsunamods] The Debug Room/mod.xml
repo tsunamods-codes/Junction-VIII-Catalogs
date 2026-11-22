@@ -9,16 +9,16 @@
     <ReleaseDate>2025-07-22</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage></PreviewImage>
-    <ReleaseNotes/>
+    <ReleaseNotes />
     <DownloadSize>516</DownloadSize>
   </LatestVersion>
   <Name>[Tsunamods] The Debug Room</Name>
   <Category>Gameplay</Category>
-  <Description>
-    A Debug room mod for modders needing to test core engine functionalities.
-    Thanks to Myst6re for the original work on this part and for allowing this mod to exist.
-
-    See the mod link for more information.
+  <Description>&#xD;
+    A Debug room mod for modders needing to test core engine functionalities.&#xD;
+    Thanks to Myst6re for the original work on this part and for allowing this mod to exist.&#xD;
+&#xD;
+    See the mod link for more information.&#xD;
   </Description>
   <Tags></Tags>
 </Mod>
