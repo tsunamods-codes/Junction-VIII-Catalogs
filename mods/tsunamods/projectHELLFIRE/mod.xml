@@ -5,26 +5,27 @@
   <Author>MCINDUS + Slimebucket</Author>
   <Category>Battle Textures</Category>
   <Description>Project Hellfire - GF Texture replacement mod.&#xD;
-Version 3.1 now live! Now works seamlessly with both REMASTERED and OG2013 editions!&#xD;
+Version 3.2 now live! Now works seamlessly with both REMASTERED and OG2013 editions!&#xD;
 Original mod created by MCINDUS&#xD;
 ffnx conversion and extra textures by Slimebucket</Description>
   <LatestVersion>
     <Link>iroj://Url/https$www.gp-mc.net/mcindus/ph.7z</Link>
     <Version>3.1</Version>
-    <ReleaseDate>2026-11-14</ReleaseDate>
+    <ReleaseDate>2026-11-23</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.ibb.co/RGc54Hrt/preview.png</PreviewImage>
-    <ReleaseNotes>&#xD;
-        Version 3.1 - Tonberry textures updated&#xD;
-        Version 3.0 - Now works seamlessly on both REMASTERED and OG2013 Editions!&#xD;
-        Version 2.6 - leviathan's black water fixed, Cerebus textures updated&#xD;
-        Version 2.5 - Another Alternate Bahamut added!&#xD;
-        Version 2 - upscaled textures from 512x512 to 1024x1024&#xD;
-           - Alternate bahamut and Brothers added&#xD;
-        Version 1 5 - alternate Ifrit Added&#xD;
-        Version 1.0 Straight conversion from Tonberry Mod&#xD;
+    <ReleaseNotes>
+        Version 3.2 - Ifrit skin Griever added
+        Version 3.1 - Tonberry textures updated
+        Version 3.0 - Now works seamlessly on both REMASTERED and OG2013 Editions
+        Version 2.6 - leviathan's black water fixed, Cerebus textures updated
+        Version 2.5 - Another Alternate Bahamut added
+        Version 2 - upscaled textures from 512x512 to 1024x1024
+           - Alternate bahamut and Brothers added
+        Version 1 5 - alternate Ifrit Added
+        Version 1.0 Straight conversion from Tonberry Mod
       </ReleaseNotes>
-    <DownloadSize>64395</DownloadSize>
+    <DownloadSize>65545</DownloadSize>
   </LatestVersion>
   <Link>https://forums.qhimm.com/index.php?topic=17320.0</Link>
   <DonationLink></DonationLink>
