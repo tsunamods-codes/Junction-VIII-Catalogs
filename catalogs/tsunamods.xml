@@ -349,14 +349,15 @@ With this mod you can make the following modification:
     </Description>
       <LatestVersion>
         <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/darksquall.7z</Link>
-        <Version>1.00</Version>
-        <ReleaseDate>2026-11-19</ReleaseDate>
+        <Version>1.01</Version>
+        <ReleaseDate>2026-11-23</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.ibb.co/rKRG33nk/preview.png</PreviewImage>
         <ReleaseNotes>
+Version 1.01 - png files switched with dds.      
 Version 1.00 - Dark Squall First release. 
       </ReleaseNotes>
-        <DownloadSize>22031</DownloadSize>
+        <DownloadSize>9416</DownloadSize>
       </LatestVersion>
       <Link>https://www.nexusmods.com/finalfantasy8remastered/mods/58</Link>
       <DonationLink />
@@ -469,7 +470,7 @@ Enjoy smoother, more responsive battle menus at 60 FPS while keeping the origina
       <Author>Fated Courage + Slimebucket</Author>
       <Category>Field Textures</Category>
       <Description>Rebirth Flame Plus
-		Version 3.6 now out! Now works seamlessly with REMASTERED Edition and OG 2013! OG Upscaled option added
+		Version 3.7 now out! Now works seamlessly with REMASTERED Edition and OG 2013! OG Upscaled option added
 
 	For players who want character textures that closely resemble the original style of the game, just higher resolution.
 	
@@ -479,11 +480,12 @@ Enjoy smoother, more responsive battle menus at 60 FPS while keeping the origina
     J8 port, and extra texture work, eye fix by Slimebucket</Description>
       <LatestVersion>
         <Link>iroj://Url/https$www.gp-mc.net/mcindus/chump/flame_rebirth_plus.7z</Link>
-        <Version>3.6</Version>
-        <ReleaseDate>2026-11-19</ReleaseDate>
+        <Version>3.7</Version>
+        <ReleaseDate>2026-11-22</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.ibb.co/xqJpwMnG/preview.png</PreviewImage>
         <ReleaseNotes>
+    v3.7 - Rinoa BATTLE texture fix for OGUPscale option
 		v3.6 - weapon fixes for REMASTERED Edition
 		v3.5 - OGUpscaled got fixes, missile base g-soldier outfits fixed
 		v3.4 - Devina option got many fixes, dollet mission textures got fixed 
@@ -500,9 +502,9 @@ Enjoy smoother, more responsive battle menus at 60 FPS while keeping the origina
 		v1.6 - minor fixes - Rinoa Selphie
 		v1.5 - More eye fixes, Rinoa, Squall and Laguna
 		v1.4 - Many texture fixes, more eye fixes
-        v1.3 - First release
+    v1.3 - First release
       </ReleaseNotes>
-        <DownloadSize>88953</DownloadSize>
+        <DownloadSize>90604</DownloadSize>
       </LatestVersion>
       <Link>https://forums.qhimm.com/index.php?topic=16022.0</Link>
       <DonationLink></DonationLink>
@@ -779,26 +781,27 @@ Graphical enhancement of the map
       <Author>MCINDUS + Slimebucket</Author>
       <Category>Battle Textures</Category>
       <Description>Project Hellfire - GF Texture replacement mod.&#xD;
-Version 3.1 now live! Now works seamlessly with both REMASTERED and OG2013 editions!&#xD;
+Version 3.2 now live! Now works seamlessly with both REMASTERED and OG2013 editions!&#xD;
 Original mod created by MCINDUS&#xD;
 ffnx conversion and extra textures by Slimebucket</Description>
       <LatestVersion>
         <Link>iroj://Url/https$www.gp-mc.net/mcindus/ph.7z</Link>
         <Version>3.1</Version>
-        <ReleaseDate>2026-11-14</ReleaseDate>
+        <ReleaseDate>2026-11-23</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.ibb.co/RGc54Hrt/preview.png</PreviewImage>
-        <ReleaseNotes>&#xD;
-        Version 3.1 - Tonberry textures updated&#xD;
-        Version 3.0 - Now works seamlessly on both REMASTERED and OG2013 Editions!&#xD;
-        Version 2.6 - leviathan's black water fixed, Cerebus textures updated&#xD;
-        Version 2.5 - Another Alternate Bahamut added!&#xD;
-        Version 2 - upscaled textures from 512x512 to 1024x1024&#xD;
-           - Alternate bahamut and Brothers added&#xD;
-        Version 1 5 - alternate Ifrit Added&#xD;
-        Version 1.0 Straight conversion from Tonberry Mod&#xD;
+        <ReleaseNotes>
+        Version 3.2 - Ifrit skin Griever added
+        Version 3.1 - Tonberry textures updated
+        Version 3.0 - Now works seamlessly on both REMASTERED and OG2013 Editions
+        Version 2.6 - leviathan's black water fixed, Cerebus textures updated
+        Version 2.5 - Another Alternate Bahamut added
+        Version 2 - upscaled textures from 512x512 to 1024x1024
+           - Alternate bahamut and Brothers added
+        Version 1 5 - alternate Ifrit Added
+        Version 1.0 Straight conversion from Tonberry Mod
       </ReleaseNotes>
-        <DownloadSize>64395</DownloadSize>
+        <DownloadSize>65545</DownloadSize>
       </LatestVersion>
       <Link>https://forums.qhimm.com/index.php?topic=17320.0</Link>
       <DonationLink></DonationLink>
