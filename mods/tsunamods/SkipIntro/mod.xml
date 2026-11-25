@@ -13,20 +13,21 @@ Choose which startup sequences to skip, or keep the ones you enjoy!
         • Square Enix logo: Skip the publisher movie.
         • Squaresoft logo: Skip the logo image and its fades.
         • Initial black pause: Skip the pause before the FF8 credits images.
-        • FF8 images: Skip the credits images and Overture music.
+        • Starting credits: Skip the starting credits, images, and Overture music.
         • Instant manual skip: Go to the title menu immediately when pressing the skip button.
 
 All five options are enabled by default and can be changed independently.
-Turn off “Skip FF8 images” to enjoy the images and music with the other tweaks.
     </Description>
   <LatestVersion>
-    <Version>1.0</Version>
-    <ReleaseDate>2026-10-05</ReleaseDate>
+    <Version>1.1</Version>
+    <ReleaseDate>2026-11-25</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage />
     <ReleaseNotes>
     • 1.0
         Mod creation
+    • 1.1
+        Clearer option descriptions (the Starting credits option).
     </ReleaseNotes>
     <DownloadSize>381</DownloadSize>
     <Link>iroj://Url/https$modcdn.win/Hobbitdur/skipintro.zip</Link>
