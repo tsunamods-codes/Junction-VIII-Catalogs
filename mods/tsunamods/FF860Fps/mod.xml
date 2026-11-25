@@ -10,13 +10,15 @@
 Enjoy smoother, more responsive battle menus at 60 FPS while keeping the original battle speed and animations.
     </Description>
   <LatestVersion>
-    <Version>1.0</Version>
-    <ReleaseDate>2026-10-25</ReleaseDate>
+    <Version>1.1</Version>
+    <ReleaseDate>2026-11-25</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage />
     <ReleaseNotes>
     • 1.0
         Initial release.
+    • 1.1
+        Steps aside when the 30 fps battle code (FF8Battle30.dll) runs the battles, which then run at 60 Hz.
     </ReleaseNotes>
     <DownloadSize>130</DownloadSize>
     <Link>iroj://Url/https$modcdn.win/Hobbitdur/ff860fps.zip</Link>
