@@ -199,13 +199,16 @@ All options are On by default.
         • Malekith: The mathematician.
     </Description>
       <LatestVersion>
-        <Version>1.0</Version>
-        <ReleaseDate>2026-10-24</ReleaseDate>
+        <Version>1.1</Version>
+        <ReleaseDate>2026-11-25</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage />
         <ReleaseNotes>
     • 1.0
         Initial release.
+    • 1.1
+        Field model textures: fixed palette file names.
+        With Lunar Cry Plus, its Gerogero option follows Gerogero uncensored battle.
     </ReleaseNotes>
         <DownloadSize>1345</DownloadSize>
         <Link>iroj://Url/https$modcdn.win/Hobbitdur/censorship.zip</Link>
