@@ -4,26 +4,27 @@
   <Name>FF8 ILP (International Language Patch)</Name>
   <Author>Hobbitdur &amp; Myst6re</Author>
   <Category>Gameplay</Category>
-  <Description>Patch the english version of the game to one of those language: French, Spanish, German, Italian. Includes retranslation of original japan script to English. 
+  <Description>Patch the English version of the game to one of the following languages: French, Spanish, German, Italian, Japanese. Includes a full retranslation of original Japanese script into English. 
   </Description>
   <LatestVersion>
-    <Version>1.8</Version>
-    <ReleaseDate>2026-10-03</ReleaseDate>
+    <Version>1.9</Version>
+    <ReleaseDate>2026-11-25</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://modcdn.win/Hobbitdur/preview_ilp.png</PreviewImage>
     <ReleaseNotes>
 Release note:
   - 0.1: Release of French patch
   - 0.2: Adding card game misc. text, language texture to the French language, fixing Help menu not appearing
-  - 1.0: Adding all language: Spanish, German and Italian
-  - 1.1: Fixing german field text. Applying the fix to all language.
+  - 1.0: Adding languages: Spanish, German and Italian
+  - 1.1: Fixing German field text. Applying the fix to all languages
   - 1.2: Fixing test seed having always NO as correct value. Adding disc change image in every language for 2000 version.
   - 1.3: Fix Italian mod and add card text + draw text translation (Thanks to @myst6re)
   - 1.4: Add world text (draw point, aubel,...) (Thanks to @myst6re) and fixing menu bug
   - 1.5: Fix world map not loading monsters
-  - 1.6 Fix menu crashing in name selection
-  - 1.7 Fix scan text
-  - 1.8 Added english retranslation of original Japan script to English
+  - 1.6: Fix menu crashing in name selection
+  - 1.7: Fix scan text
+  - 1.8: Added English retranslation of the original Japanese
+  - 1.9: Added Japanese (original Japanese PC data, requires FFNx 1.25.0 or later). Fix German ending movie. English retranslation corrections by PeterSly
 Known limitation:
   - Card game "You lose" and others not translated =&gt; Use Card-RF
   - Some UI not translated (like "Target" in battle), some specific graphic work to do =&gt; WIP
@@ -34,7 +35,7 @@ Acknowledgment:
   - Thanks to Dulca for some asset work
   - Thanks to PeterSly for the English retranslation from japanese
 </ReleaseNotes>
-    <DownloadSize>297328</DownloadSize>
+    <DownloadSize>543609</DownloadSize>
     <Link>iroj://Url/https$modcdn.win/Hobbitdur/ilp.zip</Link>
   </LatestVersion>
   <Link>https://discord.com/channels/318179907098116106/1244453452394790992</Link>
@@ -47,6 +48,7 @@ Acknowledgment:
     <string>spanish</string>
     <string>german</string>
     <string>italian</string>
+    <string>japanese</string>
     <string>text</string>
     <string>ilp</string>
   </Tags>
