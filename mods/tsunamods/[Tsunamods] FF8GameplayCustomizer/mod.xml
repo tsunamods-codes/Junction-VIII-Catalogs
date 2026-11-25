@@ -16,6 +16,7 @@ Customize FF8's gameplay with options to suit your preferences!
         • Draw - Field: Draw 100 from field draw points, up to your stock limit.
         • Draw - World map: Draw 100 from world-map draw points, up to your stock limit.
         • Keep junctions in dreams: Dream characters inherit their normal counterparts' full junction setups.
+        • GF junction swap: Take a GF junctioned to another character, after a confirmation.
         • AP modifier: Choose an AP multiplier or earn 255 AP after each battle. Thanks to Satan-fatalityz for funding part of this!
         • EXP modifier: Earn from 0 EXP to x16 EXP. Thanks to Satan-fatalityz for funding part of this!
         • Save anywhere: Allow to save in any field, but keep a side save on normal save point to be sure.
@@ -32,7 +33,9 @@ Customize FF8's gameplay with options to suit your preferences!
         • Squall can miss: Allow Squall and Seifer's attacks to miss, with Blind reducing their accuracy.
         • Individual EXP: Calculate battle EXP from each character's own level, helping lower-level party members catch up.
         • GF level cap: Limit GF EXP growth according to the level of their junctioned character.
+        • Shared EXP: Recruited characters outside the battle party also get a third of the battle EXP, and the results screen shows all of them.
         • No pause during Zell's Duel: Disable pausing during Zell's Duel limit break.
+        • Healing uses Spirit: Cure, Cura and Curaga heal based on the caster's SPR instead of MAG, and so does Life / Full-life damage on a Zombie.
 
     ◆ Cronos team ◆
         • Hobbitdur: The code master.
@@ -45,9 +48,8 @@ Customize FF8's gameplay with options to suit your preferences!
         • Unicorngoulash for the limit break fix.
     </Description>
   <LatestVersion>
-    <Link>iroj://Url/https$download.tsunamods.com?id=24</Link>
-    <Version>0.9</Version>
-    <ReleaseDate>2026-10-24</ReleaseDate>
+    <Version>1.1</Version>
+    <ReleaseDate>2026-11-25</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://modcdn.win/Hobbitdur/customizer_preview.png</PreviewImage>
     <ReleaseNotes>
@@ -72,8 +74,17 @@ Customize FF8's gameplay with options to suit your preferences!
     • 0.9
         Add Individual EXP, GF level cap and No pause during Zell's Duel under Difficulty Balance. All three options are Off by default.
         Individual EXP and GF level cap by Malekith.
+    • 1.0
+        Add GF junction swap under Quality of life (Off by default).
+        Add Shared EXP under Difficulty Balance (Off by default).
+    • 1.1
+        Add Healing uses Spirit under Difficulty Balance (Off by default).
+        Shared EXP: characters outside the battle party get a third of the battle EXP.
+        Keep junctions in dreams: fix the bug on disc 3 load, the Switch Party menu and before Laguna's dreams.
+        Needs Junction VIII 1.5.1.15 or later: each option's code is loaded only while that option is On.
     </ReleaseNotes>
-    <DownloadSize>3759</DownloadSize>
+    <DownloadSize>4025</DownloadSize>
+    <Link>iroj://Url/https$download.tsunamods.com?id=24</Link>
   </LatestVersion>
   <Link>https://discord.gg/A7uFA4WqQY</Link>
   <DonationLink>https://www.patreon.com/c/HobbitMods</DonationLink>
