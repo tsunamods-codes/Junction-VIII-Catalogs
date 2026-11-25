@@ -1085,6 +1085,9 @@ A much harder version of the vanilla game.
         • Monster stats refitted to a level curve, draw lists capped to the story progression, new EXP/AP.
         • Fixed encounter levels per story zone.
         • Rebalanced character growth, junctions, weapons, GFs, enemy attacks and starting setup.
+        • Only the monster stats change: models, animations and textures stay vanilla or come from your other mods.
+
+    Needs FFNx 1.25.0 or later.
 
     ◆ Cronos team ◆
         • Hobbitdur: The code master.
@@ -1094,8 +1097,8 @@ A much harder version of the vanilla game.
 
     </Description>
       <LatestVersion>
-        <Version>0.2</Version>
-        <ReleaseDate>2026-10-24</ReleaseDate>
+        <Version>0.3</Version>
+        <ReleaseDate>2026-11-25</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage />
         <ReleaseNotes>
@@ -1103,8 +1106,10 @@ A much harder version of the vanilla game.
         Initial release.
     • 0.2
         Add Standard, Nightmare and Hell difficulty options.
+    • 0.3
+        Improve compatibility with other mods. Fix some left over texture/AI change.
     </ReleaseNotes>
-        <DownloadSize>32900</DownloadSize>
+        <DownloadSize>96</DownloadSize>
         <Link>iroj://Url/https$modcdn.win/Hobbitdur/vanilla_hard_mode.zip</Link>
       </LatestVersion>
       <Link>https://discord.gg/A7uFA4WqQY</Link>
