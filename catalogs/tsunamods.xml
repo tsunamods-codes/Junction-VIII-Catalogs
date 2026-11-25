@@ -58,7 +58,7 @@ Version 0.1 [Initial Preview Release]:&#xD;
       <Description>
             ► Unused features found in the game data and code, made usable again ◄
 
-Every option is On by default.
+Every option is On by default, except Auto New Game.
 
     ◆ Archeology ◆
         • Refine GF level: Restore the refine GF level check still in the game code (Dark Matter and Hero-trial need a level 100 GF).
@@ -67,6 +67,10 @@ Every option is On by default.
         • Omega Weapon level 100: Omega Weapon is always level 100, like on PlayStation (1,161,000 HP).
         • Succession of Sorceress Power: Unlock the never-reachable Information topic "Succession of Sorceress Power" at Edea's house (disc 3).
         • PlayStation organ: Restore the PlayStation organ of Ultimecia Castle: 8 notes instead of 4, and each note opens its own grate.
+        • Parking Lights: Restore the unused blinking effect of the red lights in Balamb Garden's parking lot.
+        • Train Hatch: The hatch in Timber Owl's base can now be opened.
+        • Disc change screen: The "Insert the next disc" picture now appears at the end of each disc.
+        • Memory card: The save menu says "MEMORY CARD Slot 1" again, as on PlayStation, instead of "GAME FOLDER".
 
     ◆ Cronos team ◆
         • Hobbitdur: The code master.
@@ -75,8 +79,8 @@ Every option is On by default.
         • Malekith: The mathematician.
     </Description>
       <LatestVersion>
-        <Version>1.1</Version>
-        <ReleaseDate>2026-10-27</ReleaseDate>
+        <Version>1.3</Version>
+        <ReleaseDate>2026-11-25</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage />
         <ReleaseNotes>
@@ -84,8 +88,13 @@ Every option is On by default.
         Initial release.
     • 1.1
         W-Item: fix the crash at the end of every battle.
+    • 1.2
+        New option: Parking Lights.
+        Auto New Game is now Off by default.
+    • 1.3
+        New options: Train Hatch, Disc change screen, Memory card and Language.
     </ReleaseNotes>
-        <DownloadSize>404</DownloadSize>
+        <DownloadSize>4379</DownloadSize>
         <Link>iroj://Url/https$modcdn.win/Hobbitdur/archeology.zip</Link>
       </LatestVersion>
       <Link>https://discord.gg/A7uFA4WqQY</Link>
