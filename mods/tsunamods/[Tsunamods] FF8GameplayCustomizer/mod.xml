@@ -17,6 +17,7 @@ Customize FF8's gameplay with options to suit your preferences!
         • Draw - World map: Draw 100 from world-map draw points, up to your stock limit.
         • Keep junctions in dreams: Dream characters inherit their normal counterparts' full junction setups.
         • GF junction swap: Take a GF junctioned to another character, after a confirmation.
+        • Translucent text boxes: Every text box is semi-transparent, instead of some of them being grey.
         • AP modifier: Choose an AP multiplier or earn 255 AP after each battle. Thanks to Satan-fatalityz for funding part of this!
         • EXP modifier: Earn from 0 EXP to x16 EXP. Thanks to Satan-fatalityz for funding part of this!
         • Save anywhere: Allow to save in any field, but keep a side save on normal save point to be sure.
@@ -48,8 +49,8 @@ Customize FF8's gameplay with options to suit your preferences!
         • Unicorngoulash for the limit break fix.
     </Description>
   <LatestVersion>
-    <Version>1.1</Version>
-    <ReleaseDate>2026-11-25</ReleaseDate>
+    <Version>1.2</Version>
+    <ReleaseDate>2026-11-27</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://modcdn.win/Hobbitdur/customizer_preview.png</PreviewImage>
     <ReleaseNotes>
@@ -82,8 +83,10 @@ Customize FF8's gameplay with options to suit your preferences!
         Shared EXP: characters outside the battle party get a third of the battle EXP.
         Keep junctions in dreams: fix the bug on disc 3 load, the Switch Party menu and before Laguna's dreams.
         Needs Junction VIII 1.5.1.15 or later: each option's code is loaded only while that option is On.
+    • 1.2
+        Add Translucent text boxes under Quality of life (Off by default).
     </ReleaseNotes>
-    <DownloadSize>4025</DownloadSize>
+    <DownloadSize>4445</DownloadSize>
     <Link>iroj://Url/https$download.tsunamods.com?id=24</Link>
   </LatestVersion>
   <Link>https://discord.gg/A7uFA4WqQY</Link>
